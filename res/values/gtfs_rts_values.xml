@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gtfs_rts_db_version">20140929</integer>
+    <string name="gtfs_rts_label">STM Bus</string>
+    <string name="gtfs_rts_authority">org.mtransit.android.ca_montreal_stm_bus.gtfs</string>
+    <string name="gtfs_status_for_poi_authority">org.mtransit.android.ca_montreal_stm_bus.gtfs</string>
+    <integer name="gtfs_rts_agency_type">3</integer>
+    <string name="gtfs_rts_area_min_lat">45.402676</string>
+    <string name="gtfs_rts_area_max_lat">45.701132</string>
+    <string name="gtfs_rts_area_min_lng">-73.956201</string>
+    <string name="gtfs_rts_area_max_lng">-73.480595</string>
+</resources>
