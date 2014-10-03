@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="MT CA Montreal STM Bus" default="help">
+<project name="MT-CA-Montreal-STM-Bus" default="help">
 
     <property file="local.properties" />
 
