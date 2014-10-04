@@ -17,7 +17,7 @@
     <application
         android:allowBackup="true"
         android:description="@string/app_desc"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/module_app_icon"
         android:label="@string/app_name" >
         <!-- SPLASH SCREEN -->
         <!-- suppress MissingRegistered -->
