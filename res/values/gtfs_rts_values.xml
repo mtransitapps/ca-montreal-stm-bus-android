@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="gtfs_rts_db_version">20140929</integer>
+    <integer name="gtfs_rts_db_version">20140930</integer>
     <string name="gtfs_rts_label">STM Bus</string>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_montreal_stm_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">org.mtransit.android.ca_montreal_stm_bus.gtfs</string>
