@@ -50,9 +50,12 @@
             <meta-data
                 android:name="@string/status_provider"
                 android:value="@string/status_provider" />
-             <meta-data
+            <meta-data
                 android:name="@string/status_provider_target"
                 android:value="@string/gtfs_status_for_poi_authority" />
+            <meta-data
+                android:name="@string/rts_provider"
+                android:value="@string/rts_provider" />
         </provider>
     </application>
 </manifest>
