@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">MT STM Bus (Montreal)</string>
-    <string name="app_desc">Montreal STM Bus data for MT.</string>
+    <string name="gtfs_rts_label">STM Bus</string>
+    <string name="gtfs_rts_short_name">STM</string>
 </resources>
