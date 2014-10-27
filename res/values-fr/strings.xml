@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MT STM Bus (Montréal)</string>
+    <string name="app_desc">Données des bus de la STM à Montréal pour MT.</string>
+</resources>

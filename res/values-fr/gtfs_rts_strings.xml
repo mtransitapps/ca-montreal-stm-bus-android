@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gtfs_rts_label">Bus STM</string>
+    <string name="gtfs_rts_short_name">STM</string>
+</resources>
