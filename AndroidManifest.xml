@@ -56,6 +56,12 @@
             <meta-data
                 android:name="@string/rts_provider"
                 android:value="@string/rts_provider" />
+            <meta-data
+                android:name="@string/schedule_provider"
+                android:value="@string/schedule_provider" />
+            <meta-data
+                android:name="@string/schedule_provider_target"
+                android:value="@string/gtfs_rts_authority" />
         </provider>
     </application>
 </manifest>
