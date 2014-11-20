@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <integer name="stm_info_db_version">3</integer>
+    <string name="stm_info_authority">org.mtransit.android.ca_montreal_stm_bus.stminfo</string>
+    <string name="stm_info_status_for_poi_authority">@string/gtfs_rts_authority</string>
+</resources>
