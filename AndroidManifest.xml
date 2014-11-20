@@ -2,6 +2,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="org.mtransit.android.ca_montreal_stm_bus"
     tools:ignore="MissingVersion" >
+    <!-- REQUEST PERMISSIONS USAGE -->
+    <!-- Used for real time schedule and more -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- DECLARES PERMISSIONS -->
     <permission
         android:name="org.mtransit.android.provider.permission.READ_PROVIDER"
