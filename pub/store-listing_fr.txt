@@ -1,16 +1,16 @@
-Title: Bus STM Montréal pour MT
+Title: Bus STM Montréal (MonTransit)
 ----------
-Short description: Informations des bus STM de Montréal pour MT.
+Short description: Informations des bus STM de Montréal pour MonTransit BETA.
 ----------
 Full description:
 BETA : TEST EN COURS
 Pour quitter le test : http://goo.gl/oVtJ9a
 
-Cette application ajoute les informations des bus STM de Montréal dans MT.
+Cette application ajoute les informations des bus STM de Montréal à MonTransit BETA.
 
-Une fois cette application installée, l'application MT affichera les informations des bus (horaires ...).
+Une fois cette application installée, l'application MonTransit BETA affichera les informations des bus (horaires ...).
 
-Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MT (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5m
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit BETA (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5m
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
