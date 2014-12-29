@@ -5,15 +5,13 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion "21.1.1"
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
         applicationId "org.mtransit.android.ca_montreal_stm_bus"
-        minSdkVersion 14
-        targetSdkVersion 21
-        versionCode 18
-        versionName "0.2r18_BETA"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
     }
     sourceSets {
         main {
