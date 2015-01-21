@@ -4,6 +4,8 @@
     <string name="gtfs_rts_authority">org.mtransit.android.ca_montreal_stm_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <integer name="gtfs_rts_agency_type">3</integer>
+    <bool name="gtfs_rts_schedule_available">true</bool>
+    <bool name="gtfs_rts_frequency_available">false</bool> <!-- no frequencies -->
     <string name="gtfs_rts_timezone">America/Montreal</string>
     <string name="gtfs_rts_area_min_lat">45.402676</string>
     <string name="gtfs_rts_area_max_lat">45.701132</string>
