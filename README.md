@@ -1,4 +1,4 @@
 ca-montreal-stm-bus-android
 ===========================
 
-Montreal STM Bus for MT
+Montreal STM Bus for MonTransit BETA
