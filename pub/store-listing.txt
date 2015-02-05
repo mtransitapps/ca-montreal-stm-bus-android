@@ -1,6 +1,8 @@
 Title: Montreal STM Bus (MonTransit)
 ----------
-Short description: Montreal STM bus information for MonTransit BETA.
+Short description:
+Montreal STM bus for MonTransit BETA
+Offline Schedule. Real-time service updates
 ----------
 What's new in this version?:
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -12,7 +14,9 @@ BETA: Thanks for your patience while the last features are being added and the l
 
 This application adds Montreal STM bus information to MonTransit BETA.
 
-STM busses serve Montreal.
+The app contains the planned schedule as well as real time service updates from www.stm.info.
+
+STM busses serve Montreal, QC, Canada.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
