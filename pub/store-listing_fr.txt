@@ -1,6 +1,8 @@
 Title: Bus STM Montréal (MonTransit)
 ----------
-Short description: Informations des bus STM de Montréal pour MonTransit BETA.
+Short description:
+Bus STM de Montréal pour MonTransit BETA.
+Horaires. État de service temps réel.
 ----------
 What's new in this version?:
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
@@ -12,7 +14,9 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 
 Cette application ajoute les informations des bus STM de Montréal à MonTransit BETA.
 
-Les bus de la STM desservent Montréal.
+L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de www.stm.info.
+
+Les bus de la STM desservent Montréal, QC, Canada.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations des bus (horaires ...).
 
