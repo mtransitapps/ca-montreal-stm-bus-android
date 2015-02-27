@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
+    <string name="twitter_consumer_key">INSERT_TWITTER_CONSUMER_KEY_HERE</string>
+    <string name="twitter_consumer_secret">INSERT_TWITTER_CONSUMER_SECRET_HERE</string>
+</resources>
