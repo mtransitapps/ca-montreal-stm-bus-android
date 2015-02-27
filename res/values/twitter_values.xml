@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="twitter_db_version">1</integer>
+    <string name="twitter_authority">org.mtransit.android.ca_montreal_stm_bus.news.twitter</string>
+    <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="twitter_color">@string/gtfs_rts_color</string>
+    <string-array name="twitter_screen_names">
+        <item>stminfo</item>
+        <item>stm_nouvelles</item>
+    </string-array>
+    <string-array name="twitter_screen_names_colors">
+        <item>@string/twitter_color</item>
+        <item>@string/twitter_color</item>
+    </string-array>
+</resources>
