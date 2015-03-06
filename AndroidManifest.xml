@@ -39,7 +39,7 @@
         </activity>
         <!-- GFTS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
         <provider
-            android:name="org.mtransit.android.commons.provider.GTFSRouteTripStopProvider"
+            android:name="org.mtransit.android.commons.provider.GTFSProvider"
             android:authorities="@string/gtfs_rts_authority"
             android:exported="true"
             android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
