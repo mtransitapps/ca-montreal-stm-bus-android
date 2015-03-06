@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="twitter_db_version">2</integer>
+    <integer name="twitter_db_version">3</integer>
     <string name="twitter_authority">org.mtransit.android.ca_montreal_stm_bus.news.twitter</string>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
@@ -15,5 +15,13 @@
     <string-array name="twitter_screen_names_target">
         <item>@string/twitter_target_for_poi_authority</item>
         <item>@string/twitter_target_for_poi_authority</item>
+    </string-array>
+    <integer-array name="twitter_screen_names_severity">
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+    </integer-array>
+    <string-array name="twitter_screen_names_noteworthy">
+        <item>@string/news_provider_noteworthy_info</item>
+        <item>@string/news_provider_noteworthy_info</item>
     </string-array>
 </resources>
