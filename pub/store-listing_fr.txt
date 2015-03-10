@@ -11,15 +11,15 @@ Tweets de @stminfo et @stm_nouvelles.
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-Cette application ajoute les informations des bus STM de Montréal à MonTransit BETA.
+Cette application ajoute les informations des autobus de la STM à Montréal à MonTransit BETA.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de @stminfo et @stm_nouvelles sur Twitter.
 
-Les bus de la STM desservent Montréal, QC, Canada.
+Les autobus de la STM desservent Montréal, QC, Canada.
 
-Une fois cette application installée, l'application MonTransit BETA affichera les informations des bus (horaires ...).
+Une fois cette application installée, l'application MonTransit BETA affichera les informations des autobus (horaires ...).
 
 Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit BETA (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
 
@@ -34,4 +34,4 @@ https://github.com/mtransitapps/ca-montreal-stm-bus-android
 Cette application n'est pas associée à la Société de Transport de Montréal.
 
 Autorisations :
-- Autres : requis pour le chargement de l'état du service bus et pour lire les nouvelles (Twitter)
+- Autres : requis pour le chargement de l'état du service autobus et pour lire les nouvelles (Twitter)
