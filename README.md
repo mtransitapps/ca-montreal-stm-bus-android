@@ -10,6 +10,7 @@
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-1.png"/>
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-2.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-3.png"/>
 
 ## Social
 
