@@ -13,7 +13,7 @@
         android:protectionLevel="signature" />
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="21" />
+        android:targetSdkVersion="22" />
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
