@@ -9,36 +9,54 @@
     <string-array name="rss_feeds">
         <item>http://www.stm.info/fr/presse/rss/all</item>
         <item>http://www.stm.info/en/press/rss/all</item>
+        <item>http://www.mouvementcollectif.org/fr/feed</item>
+        <item>http://www.mouvementcollectif.org/en/feed</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
+        <item>@string/gtfs_rts_short_name</item>
+        <item>@string/gtfs_rts_short_name</item>
         <item>@string/gtfs_rts_short_name</item>
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>http://www.stm.info/fr/presse</item>
         <item>http://www.stm.info/en/press</item>
+        <item>http://www.mouvementcollectif.org/fr</item>
+        <item>http://www.mouvementcollectif.org/en</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.stm.info</item>
         <item>www.stm.info</item>
+        <item>www.mouvementcollectif.org</item>
+        <item>www.mouvementcollectif.org</item>
     </string-array>
     <string-array name="rss_feeds_lang">
+        <item>fr</item>
+        <item>en</item>
         <item>fr</item>
         <item>en</item>
     </string-array>
     <string-array name="rss_feeds_colors">
         <item>@string/rss_color</item>
         <item>@string/rss_color</item>
+        <item>@string/rss_color</item>
+        <item>@string/rss_color</item>
     </string-array>
     <string-array name="rss_feeds_target">
+        <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/rss_target_for_poi_authority</item>
         <item>@string/rss_target_for_poi_authority</item>
         <item>@string/rss_target_for_poi_authority</item>
     </string-array>
     <integer-array name="rss_feeds_severity">
         <item>@integer/news_provider_severity_info_agency</item>
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="rss_feeds_noteworthy">
+        <item>@string/news_provider_noteworthy_long_term</item>
+        <item>@string/news_provider_noteworthy_long_term</item>
         <item>@string/news_provider_noteworthy_long_term</item>
         <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
