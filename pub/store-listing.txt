@@ -6,7 +6,7 @@ Schedule. Real-Time Service Updates. News
 ----------
 What's new in this version?:
 Schedule from January 5, 2015 to March 29, 2015.
-News from www.stm.info.
+News from www.stm.info and www.mouvementcollectif.org.
 Tweets from @stminfo and @stm_nouvelles.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -16,7 +16,7 @@ This application adds Montreal STM buses information to MonTransit BETA.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
-The app contains the planned schedule as well as real time service updates from www.stm.info and the latest news from www.stm.info and @stminfo and @stm_nouvelles on Twitter.
+The app contains the planned schedule as well as real time service updates from www.stm.info and the latest news from www.stm.info, www.mouvementcollectif.org, YouTube and @stminfo and @stm_nouvelles on Twitter.
 
 STM buses serve Montreal, QC, Canada.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-montreal-stm-bus-android
 This application is not related with the Société de Transport de Montréal.
 
 Permissions:
-- Other: required to load buses service updates and read the news from www.stm.info and Twitter.
+- Other: required to load buses service updates and read the news from www.stm.info, www.mouvementcollectif.org, Twitter and YouTube
 ----------
 Application type: Applications
 ----------
