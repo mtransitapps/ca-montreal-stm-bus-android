@@ -6,7 +6,7 @@ Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 5 Janvier 2015 au 29 Mars 2015.
-Nouvelles de www.stm.info.
+Nouvelles de www.stm.info et www.mouvementcollectif.org.
 Tweets de @stminfo et @stm_nouvelles.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
@@ -16,7 +16,7 @@ Cette application ajoute les informations des autobus de la STM à Montréal à 
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
-L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info et @stminfo et @stm_nouvelles sur Twitter.
+L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, www.mouvementcollectif.org, YouTube et @stminfo et @stm_nouvelles sur Twitter.
 
 Les autobus de la STM desservent Montréal, QC, Canada.
 
@@ -35,4 +35,4 @@ https://github.com/mtransitapps/ca-montreal-stm-bus-android
 Cette application n'est pas associée à la Société de Transport de Montréal.
 
 Autorisations :
-- Autres : requis pour le chargement de l'état du service autobus et pour lire les nouvelles de www.stm.info et Twitter.
+- Autres : requis pour le chargement de l'état du service autobus et pour lire les nouvelles de www.stm.info, www.mouvementcollectif.org, YouTube et Twitter.
