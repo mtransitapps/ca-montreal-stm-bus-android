@@ -5,7 +5,7 @@ Bus STM de Montréal pour MonTransit BETA.
 Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 5 Janvier 2015 au 29 Mars 2015.
+Horaires du 30 Mars 2015 au 21 Juin 2015.
 Nouvelles de www.stm.info et www.mouvementcollectif.org.
 Tweets de @stminfo et @stm_nouvelles.
 
