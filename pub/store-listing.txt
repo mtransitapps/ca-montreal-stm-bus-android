@@ -1,28 +1,24 @@
 Title: Montreal STM Bus - MonTransit
 ----------
 Short description:
-Montreal STM bus for MonTransit BETA
-Schedule. Real-Time Service Updates. News
+Montreal STM buses for MonTransit.
+Schedule. Real-Time Service Updates. News.
 ----------
 What's new in this version?:
 Schedule from March 30, 2015 to June 21, 2015.
 News from www.stm.info and www.mouvementcollectif.org.
 Tweets from @stminfo and @stm_nouvelles.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds Montreal STM buses information to MonTransit BETA.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+This application adds Montreal STM buses information to MonTransit.
 
 The app contains the planned schedule as well as real time service updates from www.stm.info and the latest news from www.stm.info, www.mouvementcollectif.org, YouTube and @stminfo and @stm_nouvelles on Twitter.
 
 STM buses serve Montreal, QC, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
