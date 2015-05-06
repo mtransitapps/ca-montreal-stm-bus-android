@@ -8,11 +8,6 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
-    defaultConfig {
-        applicationId "org.mtransit.android.ca_montreal_stm_bus"
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.targetSdkVersion
-    }
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
