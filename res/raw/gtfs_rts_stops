@@ -1249,7 +1249,7 @@
 51370,'51370','Décarie / Côte-St-Antoine',45.476326,-73.613033
 51371,'51371','Côte-St-Antoine / Northcliffe',45.476606,-73.613097
 51372,'51372','Décarie / Côte-St-Antoine',45.476313,-73.613442
-51373,'51373','Côte-St-Antoine / Prud''Homme',45.476014,-73.61363
+51373,'51373','Côte-St-Antoine / Prud''homme',45.476014,-73.61363
 51374,'51374','Jarry / 9e Avenue',45.562873,-73.610549
 51375,'51375','Jarry / 9e Avenue',45.562416,-73.610629
 51376,'51376','Notre-Dame-De-Grâce / Grey',45.479415,-73.612914
@@ -2464,7 +2464,7 @@
 52624,'52624','Centre / Ropery',45.479709,-73.567205
 52625,'52625','René-Lévesque / Place Du Frère-André',45.503252,-73.566474
 52626,'52626','René-Lévesque / Beaver Hall',45.502846,-73.566273
-52627,'52627','René-Lévesque / Beaver Hall (Église St-Patrick''S)',45.503731,-73.56566
+52627,'52627','René-Lévesque / Beaver Hall (Église St-Patrick''s)',45.503731,-73.56566
 52628,'52628','St-Michel / Mont-Royal',45.548617,-73.56501
 52629,'52629','Ontario / Hôtel-De-Ville',45.513849,-73.56603
 52630,'52630','Ontario / Hôtel-De-Ville',45.513332,-73.565975
@@ -6909,7 +6909,7 @@
 57328,'57328','32e Avenue / J.-B.-Deschamps',45.457512,-73.701164
 57329,'57329','55e Avenue / 1200',45.450654,-73.72124
 57330,'57330','55e Avenue / 920',45.447753,-73.720311
-57331,'57331','St-Antoine / Face Au Centre D''Accueil',45.43989,-73.689951
+57331,'57331','St-Antoine / Face Au Centre D''accueil',45.43989,-73.689951
 57332,'57332','Broadway / 43e Avenue',45.436708,-73.702862
 57333,'57333','St-Joseph / Victoria',45.439238,-73.655321
 57334,'57334','32e Avenue / 1212',45.455528,-73.698224
@@ -6917,7 +6917,7 @@
 57336,'57336','Fairway / 32e Avenue',45.4546,-73.698491
 57337,'57337','Remembrance / 28e Avenue',45.437657,-73.688852
 57338,'57338','Victoria / 28e Avenue',45.436051,-73.688178
-57339,'57339','St-Antoine / Face Au Centre D''Accueil',45.4397,-73.690667
+57339,'57339','St-Antoine / Face Au Centre D''accueil',45.4397,-73.690667
 57340,'57340','Norman / Claire',45.448344,-73.681508
 57341,'57341','Victoria / 28e Avenue',45.43628,-73.68884
 57342,'57342','25e Avenue / Autoroute 20',45.447069,-73.686517
@@ -7287,7 +7287,7 @@
 57721,'57721','Donegani / Windcrest',45.44877,-73.798687
 57722,'57722','Donegani / Windcrest',45.448614,-73.798793
 57723,'57723','Bord-Du-Lac / 84',45.446694,-73.798377
-57724,'57724','Bord-Du-Lac / Water''S Edge',45.446637,-73.798701
+57724,'57724','Bord-Du-Lac / Water''s Edge',45.446637,-73.798701
 57725,'57725','Broadview / John-Fisher',45.457321,-73.798201
 57726,'57726','Broadview / John-Fisher',45.457528,-73.798487
 57727,'57727','Broadview / 105',45.45626,-73.797806
@@ -7355,7 +7355,7 @@
 57790,'57790','Gare Pointe-Claire',45.446678,-73.802424
 57791,'57791','Sources / 1733',45.462072,-73.783187
 57792,'57792','St-Jean / Maxi',45.466755,-73.828091
-57793,'57793','Transcanadienne / Hôtel Journeys''S End',45.46567,-73.82145
+57793,'57793','Transcanadienne / Hôtel Journeys''s End',45.46567,-73.82145
 57794,'57794','Terminus Fairview',45.465698,-73.831618
 57795,'57795','Terminus Fairview',45.465561,-73.831205
 57797,'57797','Terminus Fairview',45.465673,-73.831392
@@ -8039,8 +8039,8 @@
 58493,'58493','Elm / Brown Owl',45.435219,-73.848062
 58494,'58494','Montrose / Northcliff',45.440263,-73.874506
 58495,'58495','Montrose / Northcliff',45.440429,-73.874711
-58496,'58496','Lakeshore / St-Andrew''S',45.405426,-73.930854
-58497,'58497','Lakeshore / St-Andrew''S',45.405221,-73.931063
+58496,'58496','Lakeshore / St-Andrew''s',45.405426,-73.930854
+58497,'58497','Lakeshore / St-Andrew''s',45.405221,-73.931063
 58498,'58498','Lakeshore / Case',45.405199,-73.927444
 58499,'58499','Lakeshore / Churchill',45.405342,-73.923804
 58500,'58500','Lakeshore / Churchill',45.40529,-73.924113
@@ -8543,7 +8543,7 @@
 60993,'60993','St-Denis / St-Joseph',45.525981,-73.587556
 60994,'60994','René-Lévesque / Sanguinet',45.511568,-73.559018
 60997,'60997','Aéroport International Montréal-Trudeau',45.457597,-73.751042
-60998,'60998','Gare D''Autocars De Montréal (Berri-UQAM)',45.51657,-73.563118
+60998,'60998','Gare D''autocars De Montréal (Berri-UQAM)',45.51657,-73.563118
 60999,'60999','Maisonneuve / St-Mathieu (Guy-Concordia)',45.494948,-73.580235
 61000,'61000','32e Avenue / Louis-A.-Amos',45.461666,-73.706756
 61001,'61001','32e Avenue / Joseph-Dubreuil',45.464996,-73.711891
