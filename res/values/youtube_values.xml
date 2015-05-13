@@ -26,7 +26,7 @@
         <item>@string/youtube_color</item>
     </string-array>
     <string-array name="youtube_channels_target">
-        <item>@string/rss_target_for_poi_authority</item>
+        <item>@string/youtube_target_for_poi_authority</item>
     </string-array>
     <integer-array name="youtube_channels_severity">
         <item>@integer/news_provider_severity_info_agency</item>
