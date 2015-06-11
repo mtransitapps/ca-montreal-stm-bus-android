@@ -60,4 +60,16 @@
         <item>@string/news_provider_noteworthy_long_term</item>
         <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
+    <string-array name="rss_feeds_ignore_guid">
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="rss_feeds_ignore_link">
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
 </resources>
