@@ -3403,7 +3403,6 @@
 53607,'53607','Notre-Dame / 39e Avenue',45.660478,-73.493242
 53608,'53608','Notre-Dame / 1re Avenue',45.633673,-73.493683
 53609,'53609','Notre-Dame / 1re Avenue',45.633717,-73.493379
-53610,'53610','Terminus Sherbrooke / Gouin',45.697525,-73.49142
 53611,'53611','Terminus Sherbrooke / Gouin',45.697357,-73.49194
 53612,'53612','Notre-Dame / 64e Avenue',45.678085,-73.492439
 53613,'53613','Notre-Dame / 64e Avenue',45.677841,-73.492287
@@ -3443,8 +3442,6 @@
 53649,'53649','Notre-Dame / St-Jean-Baptiste',45.640139,-73.490306
 53650,'53650','St-Jean-Baptiste / Prince-Albert',45.640041,-73.491519
 53651,'53651','Notre-Dame / St-Jean-Baptiste',45.63969,-73.490255
-53652,'53652','Notre-Dame / 14e Avenue',45.642158,-73.489998
-53653,'53653','Notre-Dame / 14e Avenue',45.641923,-73.489803
 53654,'53654','Notre-Dame / 86e Avenue',45.692721,-73.488546
 53655,'53655','Notre-Dame / Antoine-Chaudillon',45.692448,-73.488394
 53656,'53656','Notre-Dame / 16e Avenue',45.643687,-73.489895
@@ -3452,15 +3449,10 @@
 53658,'53658','Notre-Dame / 26e Avenue',45.652303,-73.489709
 53659,'53659','Notre-Dame / 26e Avenue',45.65202,-73.489256
 53660,'53660','Ste-Maria-Goretti / Terrasse Maria-Goretti',45.69594,-73.486317
-53661,'53661','Notre-Dame / 19e Avenue',45.645526,-73.489432
-53662,'53662','Notre-Dame / 19e Avenue',45.6453,-73.489239
-53663,'53663','Sherbrooke / Delphis-Delorme',45.698338,-73.487686
-53664,'53664','Notre-Dame / 12620',45.646975,-73.488508
 53665,'53665','Tricentenaire / Notre-Dame',45.649104,-73.489073
 53666,'53666','Notre-Dame / Tricentenaire',45.648893,-73.487811
 53667,'53667','Tricentenaire / Notre-Dame',45.649319,-73.488588
 53668,'53668','Notre-Dame / 24e Avenue',45.649855,-73.488221
-53669,'53669','Notre-Dame / 12625',45.647275,-73.488686
 53670,'53670','Ste-Maria-Goretti / 96e Avenue',45.699129,-73.483127
 53671,'53671','Ste-Maria-Goretti / 96e Avenue',45.698854,-73.483135
 53672,'53672','Terminus 100e Avenue / Bureau',45.700977,-73.480595
@@ -3541,7 +3533,6 @@
 53751,'53751','Beaubien / Place Beaubien',45.58284,-73.563653
 53752,'53752','Beaubien / Place Beaubien',45.583172,-73.563697
 53753,'53753','Station Viau',45.561188,-73.546973
-53754,'53754','Terminus Nord (Honoré-Beaugrand)',45.597025,-73.53582
 53755,'53755','Terminus Nord (Honoré-Beaugrand)',45.597065,-73.536662
 53756,'53756','Terminus Nord (Honoré-Beaugrand)',45.597117,-73.536468
 53757,'53757','Terminus (Henri-Bourassa)',45.556419,-73.666931
@@ -4039,7 +4030,6 @@
 54329,'54329','Lacombe / Légaré',45.495027,-73.624925
 54330,'54330','Casino De Montréal',45.506223,-73.52537
 54335,'54335','Station Jean-Drapeau',45.512182,-73.53204
-54337,'54337','Notre-Dame / 93e Avenue',45.697082,-73.48529
 54338,'54338','Meilleur / Parc St-Benoît',45.540442,-73.666491
 54339,'54339','Tellier / Stationnement SAQ (Vers L''Est)',45.585473,-73.521622
 54340,'54340','Tellier / Stationnement SAQ (Vers L''Ouest)',45.585416,-73.521652
@@ -8339,7 +8329,6 @@
 60548,'60548','Rousselière / Sherbrooke',45.669418,-73.50476
 60549,'60549','Rousselière / Prince-Arthur',45.670196,-73.509284
 60550,'60550','Terminus Sherbrooke / Gouin',45.697418,-73.491821
-60551,'60551','Sherbrooke / Delphis-Delorme',45.698101,-73.487854
 60552,'60552','Notre-Dame / Raoul-Jobin',45.695211,-73.487528
 60553,'60553','Montigny / 12e Avenue',45.643142,-73.506126
 60554,'60554','Montigny / 16e Avenue',45.64569,-73.505271
@@ -8699,16 +8688,19 @@
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480261,-73.543385
 61555,'61555','Marc-Cantin / Studios Mel¿s',45.487246,-73.544413
 61556,'61556','Papineau / Louvain',45.561754,-73.638017
+61558,'61558','Décarie / CUSM',45.471519,-73.602855
+61559,'61559','CUSM',45.472907,-73.601846
+61561,'61561','St-Jacques / Atwater (Lionel-Groulx)',45.48338,-73.579491
 61562,'61562','Gaétan-Laberge / Gilberte Dubé',45.47018,-73.562393
 61563,'61563','Gaétan-Laberge / Rhéaume',45.467841,-73.562979
 61564,'61564','Église / Ross',45.462804,-73.565785
 61565,'61565','Galt / Wellington',45.461857,-73.567243
 61566,'61566','LaSalle / Église',45.462568,-73.563355
 61567,'61567','Gaétan-Laberge / Hickson',45.464642,-73.562759
-61568,'61568','Gaétan-Laberge / Hickson',45.465927,-73.562301
-61569,'61569','Gaétan-Laberge / Gilberte Dubé',45.467726,-73.562581
+61568,'61568','Gaétan-Laberge / 3750',45.465927,-73.562301
+61569,'61569','Gaétan-Laberge / Rhéaume',45.467726,-73.562581
 61570,'61570','Gaétan-Laberge / Gilberte Dubé',45.470242,-73.561907
-61571,'61571','Gaétan-Laberge / Hickson',45.465951,-73.562608
+61571,'61571','Gaétan-Laberge / 3750',45.465951,-73.562608
 61572,'61572','Gaétan-Laberge / Hickson',45.464827,-73.563037
 61574,'61574','St-Denis / Beaubien',45.534008,-73.604813
 61575,'61575','Chateaubriand / Beaubien',45.53546,-73.603955
