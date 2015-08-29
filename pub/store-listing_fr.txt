@@ -5,7 +5,7 @@ Autobus STM de Montréal pour MonTransit.
 Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 22 juin 2015 au 30 août 2015.
+Horaires du 31 août 2015 au 1 novembre 2015.
 Nouvelles de www.stm.info et www.mouvementcollectif.org.
 Tweets de @stminfo et @stm_nouvelles.
 ----------
