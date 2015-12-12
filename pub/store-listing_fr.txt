@@ -12,7 +12,7 @@ Tweets de @stminfo et @stm_nouvelles.
 Full description:
 Cette application ajoute les informations des autobus de la STM à Montréal à MonTransit.
 
-L'app contient les horaires plannifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, www.mouvementcollectif.org, YouTube et @stminfo et @stm_nouvelles sur Twitter.
+L'app contient les horaires planifiés ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, www.mouvementcollectif.org, YouTube et @stminfo et @stm_nouvelles sur Twitter.
 
 Les autobus de la STM desservent Montréal, QC, Canada.
 
@@ -32,3 +32,4 @@ Cette application n'est pas associée à la Société de Transport de Montréal.
 
 Autorisations :
 - Autres : requis pour le chargement de l'état du service autobus et pour lire les nouvelles de www.stm.info, www.mouvementcollectif.org, YouTube et Twitter.
+----------
