@@ -5,7 +5,7 @@ Montreal STM buses for MonTransit.
 Schedule. Real-Time Service Updates. News.
 ----------
 What's new in this version?:
-Schedule from March 21, 2016 to June 19, 2016.
+Schedule from June 20, 2016 to August 28, 2016.
 News from www.stm.info and www.mouvementcollectif.org.
 Tweets from @stminfo and @stm_nouvelles.
 ----------
