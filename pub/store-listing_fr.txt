@@ -5,7 +5,7 @@ Autobus STM de Montréal pour MonTransit.
 Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 31 octobre 2016 au 8 janvier 2017.
+Horaires du 9 janvier 2017 au 26 mars 2017.
 Nouvelles de www.stm.info.
 Tweets de @stminfo et @stm_nouvelles.
 ----------
