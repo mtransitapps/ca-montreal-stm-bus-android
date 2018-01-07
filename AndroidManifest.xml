@@ -70,6 +70,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- STM INFO API PROVIDER -->
+        <!--
         <provider
             android:name="org.mtransit.android.commons.provider.StmInfoApiProvider"
             android:authorities="@string/stm_info_api_authority"
@@ -83,6 +84,7 @@
                 android:name="@string/status_provider_target"
                 android:value="@string/stm_info_api_status_for_poi_authority" />
         </provider>
+        -->
         <!-- STM.INFO PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.StmInfoBusProvider"
