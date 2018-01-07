@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
-    <string name="twitter_consumer_key">INSERT_TWITTER_CONSUMER_KEY_HERE</string>
-    <string name="twitter_consumer_secret">INSERT_TWITTER_CONSUMER_SECRET_HERE</string>
-    <string name="youtube_api_key">INSERT_YOUTUBE_API_KEY_HERE</string>
+    <string name="twitter_consumer_key">GjlRSYVcBm0XKB0JCYn8ugyie</string>
+    <string name="twitter_consumer_secret">Rz7h1adreDLB3AIF8aYctHRXu6eM6YUpR9K2xKYwTEPoOgYJ3v</string>
+    <string name="youtube_api_key">AIzaSyCKPH-eR51qE5FNrpRgmHvx0NKo8w0lPEg</string>
 </resources>
