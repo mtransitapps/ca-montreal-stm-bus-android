@@ -1806,7 +1806,7 @@
 51948,'51948','St-Joseph / Berri (Laurier)',45.527166,-73.586903
 51949,'51949','Atwater / Sherbrooke',45.491291,-73.587671
 51950,'51950','Sherbrooke / Atwater',45.491563,-73.587763
-51951,'51951','Collège Dawson (Sherbrooke / Atwater)',45.491066,-73.588043
+51951,'51951','Sherbrooke / Atwater',45.491066,-73.588043
 51952,'51952','Collège Dawson (Sherbrooke / 3040)',45.490779,-73.588663
 51953,'51953','Lorimier / Holt',45.541719,-73.586294
 51954,'51954','Lorimier / Holt',45.541707,-73.586672
@@ -2678,7 +2678,7 @@
 52874,'52874','Amherst / Maisonneuve',45.518154,-73.55873
 52875,'52875','Sherbrooke / Moreau',45.542558,-73.557939
 52876,'52876','Sherbrooke / Moreau',45.542298,-73.557826
-52877,'52877','Parc Médéric-Martin (Hochelaga / Gascon)',45.536184,-73.557965
+52877,'52877','Hochelaga / Gascon',45.536184,-73.557965
 52878,'52878','Hochelaga / Havre',45.536048,-73.558302
 52879,'52879','Parthenais / Larivière',45.530368,-73.558178
 52880,'52880','Duke / William',45.497408,-73.558536
@@ -3471,7 +3471,7 @@
 53704,'53704','Parc Maisonneuve',45.56083,-73.55462
 53705,'53705','Sherbrooke / 5600',45.57253,-73.54979
 53706,'53706','Pavillon Grace Dart (Sherbrooke / 6082)',45.578319,-73.545922
-53707,'53707','René-Lévesque / Saules',45.648812,-73.496064
+53707,'53707','René-Lévesque / 865',45.648812,-73.496064
 53708,'53708','René-Lévesque / Tricentenaire',45.649072,-73.49587
 53710,'53710','Tricentenaire / Joseph-Dargent',45.651121,-73.499107
 53711,'53711','Tricentenaire / 1735',45.651732,-73.504722
@@ -3601,7 +3601,7 @@
 53844,'53844','Haig / 2105',45.58054,-73.524829
 53845,'53845','René-Lévesque / Champlain',45.520834,-73.550582
 53846,'53846','Notre-Dame / Raoul-Jobin',45.695258,-73.487274
-53848,'53848','Fairmount / Esplanade',45.521575,-73.596717
+53848,'53848','Collège Français (Fairmount / Esplanade)',45.521575,-73.596717
 53849,'53849','Louis-Hippolyte-La Fontaine / Chénier',45.596172,-73.545809
 53850,'53850','Beaubien / Normanville',45.539379,-73.600213
 53851,'53851','Station Beaubien',45.535535,-73.604655
@@ -8682,7 +8682,7 @@
 61149,'61149','Hyman / Davignon',45.493188,-73.795903
 61150,'61150','Hyman / Sunshine',45.491057,-73.801008
 61151,'61151','St-Denis / René-Lévesque',45.512875,-73.558746
-61153,'61153','Station Berri-UQAM',45.514987,-73.560191
+61153,'61153','Berri / Ste-Catherine (Berri-UQAM)',45.514987,-73.560191
 61173,'61173','Henri-Bourassa / Place Bourassa',45.606042,-73.612999
 61174,'61174','Henri-Bourassa / Place Bourassa',45.606048,-73.612985
 61175,'61175','Sauvé / Rancourt',45.571351,-73.643017
