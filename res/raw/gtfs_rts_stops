@@ -942,9 +942,9 @@
 51060,'51060','Monkland / Hingston',45.470573,-73.627485
 51061,'51061','Monkland / Hingston',45.47032,-73.627522
 51062,'51062','Bloomfield / Ogilvy',45.527979,-73.626351
-51063,'51063','Jean-Talon / Acadie (Acadie)',45.524371,-73.625912
+51063,'51063','Jean-Talon / Acadie',45.524371,-73.625912
 51064,'51064','Jean-Talon / Acadie (Acadie)',45.524019,-73.625854
-51065,'51065','Jean-Talon / Acadie (Acadie)',45.52442,-73.62629
+51065,'51065','Jean-Talon / Acadie',45.52442,-73.62629
 51066,'51066','Rousselot / Crémazie',45.552336,-73.624551
 51067,'51067','St-Laurent / Villeray',45.537167,-73.624961
 51068,'51068','St-Laurent / Villeray',45.537076,-73.625401
@@ -3424,7 +3424,7 @@
 53660,'53660','Ste-Maria-Goretti / Terrasse Maria-Goretti',45.695888,-73.486367
 53661,'53661','Notre-Dame / 19e Avenue',45.645547,-73.489392
 53662,'53662','Notre-Dame / 19e Avenue',45.645296,-73.489281
-53663,'53663','Sherbrooke / Delphis-Delorme',45.69835,-73.487398
+53663,'53663','Sherbrooke / Delphis-Delorme',45.698316,-73.487682
 53664,'53664','Notre-Dame / 12620',45.647004,-73.488546
 53665,'53665','Tricentenaire / Notre-Dame',45.649115,-73.48906
 53666,'53666','Notre-Dame / Tricentenaire',45.64888,-73.487839
@@ -3538,7 +3538,7 @@
 53781,'53781','Chateaubriand / Villeray',45.54338,-73.621147
 53782,'53782','Chateaubriand / Faillon',45.542283,-73.618744
 53783,'53783','Villeray / 6e Avenue',45.558905,-73.605982
-53784,'53784','Villeray',45.570302,-73.595635
+53784,'53784','Villeray / Gênes',45.570302,-73.595635
 53785,'53785','Henri-Bourassa / 8255',45.626847,-73.579116
 53786,'53786','Atwater / Tupper (Atwater)',45.489027,-73.583939
 53788,'53788','Complexe Sportif Claude-Robillard',45.553256,-73.638565
@@ -8579,7 +8579,7 @@
 61043,'61043','Galeries D''Anjou / Près Du Bâton Rouge',45.599121,-73.564794
 61045,'61045','Rondeau / 7501',45.615926,-73.55082
 61046,'61046','Rachel / Cuvillier',45.547521,-73.55919
-61047,'61047','Victoria / 16e Avenue',45.436266,-73.677672
+61047,'61047','Victoria / 15e Avenue',45.436266,-73.677672
 61048,'61048','Victoria / 15e Avenue',45.436496,-73.676837
 61049,'61049','Jeanne-Mance / Président-Kennedy',45.508638,-73.569153
 61050,'61050','Sunnybrooke / Kingsley',45.460712,-73.660886
