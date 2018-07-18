@@ -67,6 +67,8 @@ android {
             aidl.srcDirs = ['src']
             renderscript.srcDirs = ['src']
             res.srcDirs = ['res']
+            res.srcDirs += 'res-current'
+            res.srcDirs += 'res-next'
             assets.srcDirs = ['assets']
         }
 

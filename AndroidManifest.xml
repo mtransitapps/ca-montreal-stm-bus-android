@@ -3,14 +3,22 @@
     package="org.mtransit.android.ca_montreal_stm_bus"
     tools:ignore="MissingVersion" >
     <!-- REQUEST PERMISSIONS USAGE -->
-    <!-- Used for real time schedule and more -->
+    <!-- INTERNET: Used for real time information and more -->
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- BROADCAST_RECEIVER: required to read modules data -->
+    <uses-permission android:name="org.mtransit.android.receiver.permission.BROADCAST_RECEIVER" />
     <!-- DECLARES PERMISSIONS -->
     <permission
         android:name="org.mtransit.android.provider.permission.READ_PROVIDER"
-        android:description="@string/permission_description_read"
-        android:label="@string/permission_label_read"
+        android:description="@string/provider_permission_description_read"
+        android:label="@string/provider_permission_label_read"
         android:protectionLevel="signature" />
+    <permission
+        android:name="org.mtransit.android.receiver.permission.BROADCAST_RECEIVER"
+        android:description="@string/receiver_permission_description_broadcast"
+        android:label="@string/receiver_permission_label_broadcast"
+        android:protectionLevel="signature" />
+    <!-- USES FEATURE (not required) -->
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
