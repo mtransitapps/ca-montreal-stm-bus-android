@@ -87,20 +87,12 @@
             <meta-data
                 android:name="@string/status_provider_target"
                 android:value="@string/stm_info_api_status_for_poi_authority" />
-        </provider>
-        <!-- STM.INFO PROVIDER -->
-        <provider
-            android:name="org.mtransit.android.commons.provider.StmInfoBusProvider"
-            android:authorities="@string/stm_info_authority"
-            android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
-            tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/service_update_provider"
                 android:value="@string/service_update_provider" />
             <meta-data
                 android:name="@string/service_update_provider_target"
-                android:value="@string/stm_info_status_for_poi_authority" />
+                android:value="@string/stm_info_api_service_update_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
