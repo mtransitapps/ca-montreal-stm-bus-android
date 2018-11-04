@@ -2767,7 +2767,6 @@
 52967,'52967','Station Préfontaine (Édicule Sud)',45.541719,-73.554435
 52968,'52968','Palais De Justice (Notre-Dame / St-Gabriel)',45.506808,-73.555286
 52969,'52969','Notre-Dame / St-Laurent',45.506058,-73.555686
-52970,'52970','Wellington / Robert-Bourassa',45.495938,-73.555837
 52971,'52971','Robert-Bourassa / Wellington',45.495653,-73.555969
 52972,'52972','Wellington / Robert-Bourassa',45.495952,-73.555591
 52973,'52973','Robert-Bourassa / Wellington',45.49648,-73.556099
@@ -3591,8 +3590,6 @@
 53836,'53836','Ridgewood / 3440',45.49389,-73.612544
 53837,'53837','Cimetière Notre-Dame-Des-Neiges',45.495952,-73.608325
 53838,'53838','Remembrance / Cavalerie Du SPVM',45.502365,-73.596124
-53839,'53839','Ronde',45.521352,-73.533844
-53841,'53841','Pont Jacques-Cartier (Papineau / Logan)',45.524266,-73.555805
 53842,'53842','Docteur-Penfield / Côte-Des-Neiges',45.496707,-73.586311
 53843,'53843','Docteur-Penfield / Réservoir McTavish',45.505324,-73.578395
 53844,'53844','Haig / 2105',45.58054,-73.524829
@@ -3885,7 +3882,6 @@
 54173,'54173','Notre-Dame-De-Grâce / Grand Boulevard',45.46702,-73.624457
 54174,'54174','Langelier / Sherbrooke (Langelier)',45.582779,-73.54287
 54175,'54175','Lucien-L''Allier / René-Lévesque',45.495165,-73.572056
-54177,'54177','Ronde',45.521538,-73.536015
 54179,'54179','Station Rosemont',45.531255,-73.597158
 54180,'54180','St-Michel / Robert',45.567745,-73.618269
 54181,'54181','Atwater / Lionel-Groulx (Lionel-Groulx)',45.482998,-73.578888
@@ -3994,7 +3990,6 @@
 54328,'54328','Lavoie / Isabella',45.492388,-73.626753
 54329,'54329','Lacombe / Légaré',45.494993,-73.624934
 54330,'54330','Casino De Montréal',45.506401,-73.52519
-54335,'54335','Station Jean-Drapeau',45.512182,-73.532041
 54337,'54337','Notre-Dame / 93e Avenue',45.697099,-73.485245
 54338,'54338','Parc St-Benoît',45.540426,-73.666529
 54339,'54339','Tellier / Futailles',45.585526,-73.521589
@@ -8695,7 +8690,6 @@
 61224,'61224','Claude-Masson / Anne-Courtemanche',45.613235,-73.537752
 61225,'61225','Contrecoeur / Rousseau',45.613724,-73.536352
 61226,'61226','Contrecoeur / Jean-Pierre-Ronfard',45.61334,-73.534368
-61227,'61227','Contrecoeur / Grosbois',45.612684,-73.530837
 61228,'61228','Contrecoeur / Sherbrooke',45.611905,-73.526725
 61229,'61229','Georges-V / Hochelaga',45.612172,-73.514997
 61230,'61230','Groseilliers / Sherbrooke (Radisson)',45.5891,-73.540077
@@ -8941,3 +8935,6 @@
 61756,'61756','Henri-Bourassa / Golf',45.628113,-73.577197
 61757,'61757','Sherbrooke / St-Jean-Baptiste',45.644113,-73.513929
 61760,'61760','Lajeunesse / Émile-Journault',45.547544,-73.64152
+61761,'61761','Contrecoeur / Marie-Ange-Bouchard',45.612431,-73.529415
+61762,'61762','Contrecoeur / Marie-Ange-Bouchard',45.612489,-73.529128
+61763,'61763','Gouin / Pitfield',45.50803,-73.760032
