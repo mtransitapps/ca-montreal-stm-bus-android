@@ -3076,7 +3076,7 @@
 53296,'53296','Pie-IX / Notre-Dame',45.547862,-73.534015
 53297,'53297','Hochelaga / Granby',45.578972,-73.532483
 53298,'53298','Ste-Catherine / William-David',45.552532,-73.533015
-53299,'53299','Ste-Catherine / William-David',45.552294,-73.532985
+53299,'53299','Ste-Catherine / William-David',45.552227,-73.533032
 53300,'53300','Hochelaga / Langelier',45.579342,-73.531999
 53301,'53301','Sherbrooke / Baldwin',45.603383,-73.531081
 53302,'53302','Sherbrooke / Baldwin',45.603067,-73.530943
@@ -5938,7 +5938,7 @@
 56403,'56403','Fleet / Randall',45.475879,-73.652756
 56404,'56404','Fleet / Randall',45.475654,-73.652713
 56405,'56405','Côte-St-Luc / Silverson',45.466712,-73.653005
-56406,'56406','Côte-St-Luc / Coronation',45.465832,-73.65336
+56406,'56406','Centre Côte St-Luc (Côte-St-Luc / Coronation)',45.465832,-73.65336
 56407,'56407','Fleet / Pinedale',45.476941,-73.651792
 56408,'56408','Fleet / Pinedale',45.476701,-73.651768
 56409,'56409','Côte-St-Luc / Rosedale',45.46829,-73.651184
@@ -8362,7 +8362,7 @@
 60708,'60708','Côte-St-Paul / St-Ambroise',45.467842,-73.593624
 60709,'60709','Côte-St-Paul / St-Ambroise',45.467836,-73.593816
 60711,'60711','Côte-De-Liesse / Griffith',45.479173,-73.700733
-60713,'60713','Centre Infotouriste De Montréal (Metcalfe / Dorchest',45.500367,-73.571624
+60713,'60713','Centre Infotouriste De Montréal',45.500367,-73.571624
 60714,'60714','Cathédrale / Gauchetière',45.498319,-73.567794
 60716,'60716','Commune / McGill',45.499129,-73.552799
 60717,'60717','Musée Pointe-À-Callière',45.502247,-73.553746
@@ -8580,7 +8580,7 @@
 61050,'61050','Sunnybrooke / Kingsley',45.460712,-73.660886
 61051,'61051','Trent / Baily',45.461764,-73.661725
 61052,'61052','Ashdale / Earle',45.461887,-73.658468
-61053,'61053','Centre Côte-St-Luc (Côte-St-Luc / Coronation)',45.46639,-73.654995
+61053,'61053','Centre Côte St-Luc (Côte-St-Luc / Coronation)',45.46639,-73.654995
 61054,'61054','King-Edward / Côte-St-Luc',45.468736,-73.651075
 61055,'61055','Cavendish / Mackle',45.478094,-73.666139
 61056,'61056','Cavendish / Collins',45.479362,-73.669161
@@ -8594,7 +8594,7 @@
 61065,'61065','Cavendish / Mackle',45.478094,-73.666139
 61066,'61066','Cavendish / Collins',45.479362,-73.669161
 61067,'61067','Cavendish / Louis-Pasteur',45.478985,-73.668905
-61068,'61068','Centre Côte-St-Luc (Côte-St-Luc / Coronation)',45.466139,-73.653424
+61068,'61068','Centre Côte St-Luc (Côte-St-Luc / Coronation)',45.466139,-73.653424
 61069,'61069','Ashdale / Earle',45.46186,-73.65816
 61070,'61070','Baily / Trent',45.461494,-73.662387
 61071,'61071','Kingsley / Sunnybrooke',45.460671,-73.661132
@@ -8911,7 +8911,7 @@
 61731,'61731','Sherbrooke / St-Jean-Baptiste',45.644615,-73.513421
 61732,'61732','42e Avenue / Prince-Arthur',45.665628,-73.510715
 61733,'61733','St-Jean-Baptiste / Henri-Bourassa',45.651994,-73.535852
-61734,'61734','Robert-Chevalier / Sherbrooke',45.655572,-73.510563
+61734,'61734','Robert-Chevalier / Privé Centre Commercial',45.655596,-73.510729
 61735,'61735','Bridge / Wellington',45.487161,-73.556321
 61736,'61736','Leigh-Capreol / 800',45.455379,-73.751735
 61737,'61737','Leigh-Capreol / 800',45.455269,-73.751746
