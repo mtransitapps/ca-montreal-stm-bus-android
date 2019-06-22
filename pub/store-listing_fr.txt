@@ -5,7 +5,7 @@ Autobus STM de Montréal pour MonTransit.
 Horaires. État de service. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 25 mars 2019 au 25 août 2019.
+Horaires du 17 juin 2019 au 25 août 2019.
 Nouvelles de www.stm.info.
 Tweets de @stminfo et @stm_nouvelles.
 ----------
