@@ -7,7 +7,7 @@
 50107,'50107','Viau / Marseille',45.563712,-73.549051
 50108,'50108','Centre Sportif Pierre-Charbonneau',45.563623,-73.549505
 50109,'50109','Louis-Hippolyte-La Fontaine / Fonteneau',45.595424,-73.544053
-50110,'50110','Gare Montréal-Ouest (Elmurst / Sherbrooke)',45.454203,-73.641481
+50110,'50110','Gare Montréal-Ouest (Elmhurst / Sherbrooke)',45.454203,-73.641481
 50111,'50111','Parc / Milton',45.509507,-73.573516
 50112,'50112','Parc / Prince-Arthur',45.510422,-73.575515
 50113,'50113','Rachel / André-Laurendeau',45.542598,-73.561619
@@ -405,7 +405,7 @@
 50512,'50512','Legendre / Parc',45.537205,-73.651566
 50513,'50513','Henri-Bourassa / St-Michel',45.58423,-73.650413
 50514,'50514','Henri-Bourassa / St-Michel (Coin Sud-Ouest)',45.583479,-73.650276
-50515,'50515','Henri-Bourassa / St-Michel (Coin Sud-Est)',45.584348,-73.649916
+50515,'50515','Henri-Bourassa / St-Michel',45.584348,-73.649916
 50516,'50516','Papineau / Sauriol',45.566957,-73.650301
 50517,'50517','Papineau / Sauriol',45.566872,-73.650712
 50518,'50518','St-Laurent / Chabanel',45.544455,-73.650826
@@ -629,7 +629,7 @@
 50738,'50738','Plamondon / Victoria (Plamondon)',45.495518,-73.640577
 50739,'50739','Champagneur / Anvers',45.531195,-73.639202
 50740,'50740','Liège / Esplanade',45.537408,-73.6395
-50741,'50741','Gare Montréal-Ouest (Elmusrt / Sherbrooke)',45.454553,-73.641462
+50741,'50741','Gare Montréal-Ouest (Elmhurst / Sherbrooke)',45.454553,-73.641462
 50743,'50743','Elmhurst / Coffee',45.454677,-73.640678
 50744,'50744','Van Horne / Westbury',45.491427,-73.640452
 50745,'50745','Van Horne / Westbury',45.491209,-73.640527
@@ -3835,7 +3835,7 @@
 54139,'54139','Hôpital Rivière-Des-Prairies (Perras / Ozias-Leduc',45.627142,-73.615033
 54140,'54140','St-Urbain / Roy',45.514078,-73.576831
 54141,'54141','Vézina / Coolbrook',45.491508,-73.648572
-54143,'54143','Sherbrooke / Elmurst',45.454542,-73.641703
+54143,'54143','Sherbrooke / Elmhurst',45.454542,-73.641703
 54144,'54144','Victoria / Savane',45.500539,-73.649385
 54145,'54145','Lajeunesse / Castelnau',45.540276,-73.616112
 54146,'54146','Lajeunesse / Faillon',45.541169,-73.619238
@@ -5440,7 +5440,7 @@
 55899,'55899','Henri-Bourassa / 8585',45.503533,-73.743343
 55900,'55900','Beaulac / Thimens',45.498377,-73.71043
 55902,'55902','Cypihot / 5590',45.498934,-73.753227
-55904,'55904','Décarie / Edouard-Laurin (Côte-Vertu)',45.513321,-73.681468
+55904,'55904','Décarie / Edouard-Laurin (Côte-Vertu)',45.513238,-73.681426
 55907,'55907','Côte-De-Liesse / 8180',45.476442,-73.703597
 55908,'55908','Montée De Liesse / Côte-De-Liesse',45.478288,-73.704793
 55909,'55909','Marcel-Laurin / Galeries St-Laurent',45.518909,-73.701986
@@ -6543,7 +6543,7 @@
 57072,'57072','George / Albert-Couture',45.424074,-73.610178
 57073,'57073','Édouard / 3e Avenue',45.431541,-73.594193
 57074,'57074','Centrale / 9504',45.420941,-73.647503
-57075,'57075','Newman / 8550',45.431223,-73.632675
+57075,'57075','Newman / 8600',45.431223,-73.632675
 57076,'57076','Airlie / 90e Avenue',45.423113,-73.641329
 57077,'57077','Airlie / 90e Avenue',45.422984,-73.641768
 57078,'57078','Allard / Newman',45.448512,-73.607798
@@ -6954,8 +6954,8 @@
 57499,'57499','Carson / Jardins Dorval',45.443482,-73.743175
 57500,'57500','Hymus / 1455',45.485164,-73.771335
 57501,'57501','Hymus / 1655',45.48301,-73.775798
-57502,'57502','Roméo-Vachon / Hilton Dorval',45.453117,-73.742644
-57503,'57503','Roméo-Vachon / Hilton Dorval',45.4528,-73.742641
+57502,'57502','Jacques-De-Lesseps / Hôtel Sheraton',45.453117,-73.742644
+57503,'57503','Jacques-De-Lesseps / Hôtel Sheraton',45.4528,-73.742641
 57504,'57504','Terminus Dorval',45.448564,-73.743687
 57505,'57505','Terminus Dorval',45.448549,-73.743173
 57506,'57506','Terminus Dorval',45.44819,-73.74249
@@ -8745,7 +8745,7 @@
 61551,'61551','Lafleur / Centrale',45.423308,-73.650678
 61553,'61553','Villeray / 20e Avenue',45.567261,-73.598328
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480675,-73.543242
-61555,'61555','Marc-Cantin / Studios Mels',45.478286,-73.544397
+61555,'61555','Marc-Cantin / Studios Mel''s',45.478286,-73.544397
 61556,'61556','Stade De Soccer De Montréal (Papineau / Lecocq)',45.561754,-73.638017
 61558,'61558','Centre Univ. De Santé McGill (Décarie / CUSM)',45.47174,-73.603233
 61559,'61559','Centre Universitaire De Santé McGill (CUSM)',45.473158,-73.601954
@@ -8914,7 +8914,7 @@
 61784,'61784','24e Avenue / 39e Rue',45.578814,-73.615584
 61785,'61785','25e Avenue / 43e Rue',45.58095,-73.617741
 61786,'61786','25e Avenue / 47e Rue',45.582049,-73.620281
-61788,'61788','Garon / Industriel',45.58645,-73.628527
+61788,'61788','Garon / Majeau',45.586864,-73.628982
 61789,'61789','Garon / Forest',45.588647,-73.630944
 61790,'61790','Garon / Amiens',45.590454,-73.632832
 61791,'61791','Garon / Castille',45.592234,-73.634733
