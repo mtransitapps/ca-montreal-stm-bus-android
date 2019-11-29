@@ -7,24 +7,30 @@
     <string-array name="twitter_screen_names">
         <item>stminfo</item>
         <item>stm_nouvelles</item>
+        <item>stm_Bus</item>
     </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_multi_detect</item>
         <item>@string/news_provider_language_unknown_show_all</item>
+        <item>@string/news_provider_language_multi_detect</item>
     </string-array>
     <string-array name="twitter_screen_names_colors">
+        <item>@string/twitter_color</item>
         <item>@string/twitter_color</item>
         <item>@string/twitter_color</item>
     </string-array>
     <string-array name="twitter_screen_names_target">
         <item>@string/twitter_target_for_poi_authority</item>
         <item>@string/twitter_target_for_poi_authority</item>
+        <item>@string/twitter_target_for_poi_authority</item>
     </string-array>
     <integer-array name="twitter_screen_names_severity">
         <item>@integer/news_provider_severity_info_agency</item>
         <item>@integer/news_provider_severity_info_agency</item>
+        <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
     <string-array name="twitter_screen_names_noteworthy">
+        <item>@string/news_provider_noteworthy_info</item>
         <item>@string/news_provider_noteworthy_info</item>
         <item>@string/news_provider_noteworthy_info</item>
     </string-array>

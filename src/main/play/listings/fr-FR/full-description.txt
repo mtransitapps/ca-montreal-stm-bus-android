@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus de la STM à Montréal à MonTransit.
 
-L'app contient les horaires planifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, YouTube et @stminfo et @stm_nouvelles sur Twitter.
+L'app contient les horaires planifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, YouTube et @stm_Bus, @stminfo et @stm_nouvelles sur Twitter.
 
 Les autobus de la STM desservent Montréal, QC, Canada.
 

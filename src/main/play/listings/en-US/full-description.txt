@@ -1,6 +1,6 @@
 This application adds Montreal STM buses information to MonTransit.
 
-The app contains the planned schedule as well as real time service updates from www.stm.info and the latest news from www.stm.info, YouTube and @stminfo and @stm_nouvelles on Twitter.
+The app contains the planned schedule as well as real time service updates from www.stm.info and the latest news from www.stm.info, YouTube and @stm_Bus, @stminfo and @stm_nouvelles on Twitter.
 
 STM buses serve Montreal, QC, Canada.
 
