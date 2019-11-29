@@ -3545,7 +3545,7 @@
 53804,'53804','Hôpital Notre-Dame-De-La-Merci',45.547143,-73.687014
 53805,'53805','Henri-Bourassa / Lambert',45.569669,-73.658995
 53806,'53806','Université Concordia / Campus Loyola',45.457857,-73.638935
-53807,'53807','Victoria / 4701',45.485509,-73.617985
+53807,'53807','Victoria / 4710',45.485509,-73.617985
 53808,'53808','Victoria / 4690',45.485504,-73.617711
 53809,'53809','Victoria / 4826',45.486433,-73.620039
 53810,'53810','Victoria / 4811',45.486444,-73.619799
@@ -3574,8 +3574,6 @@
 53836,'53836','Ridgewood / 3440',45.49389,-73.612544
 53837,'53837','Cimetière Notre-Dame-Des-Neiges',45.495952,-73.608325
 53838,'53838','Remembrance / Cavalerie Du SPVM',45.502365,-73.596124
-53839,'53839','Ronde',45.521352,-73.533844
-53841,'53841','Pont Jacques-Cartier (Papineau / Logan)',45.524266,-73.555805
 53842,'53842','Docteur-Penfield / Côte-Des-Neiges',45.496707,-73.586311
 53843,'53843','Docteur-Penfield / Réservoir McTavish',45.505324,-73.578395
 53844,'53844','Haig / 2105',45.58054,-73.524829
@@ -3862,7 +3860,6 @@
 54173,'54173','Notre-Dame-De-Grâce / Grand Boulevard',45.46702,-73.624457
 54174,'54174','Langelier / Sherbrooke (Langelier)',45.582779,-73.54287
 54175,'54175','Lucien-L''Allier / René-Lévesque',45.495165,-73.572056
-54177,'54177','Ronde',45.521538,-73.536015
 54179,'54179','Station Rosemont',45.531255,-73.597158
 54180,'54180','St-Michel / Robert',45.567745,-73.618269
 54181,'54181','Atwater / Lionel-Groulx (Lionel-Groulx)',45.482998,-73.578888
@@ -3971,7 +3968,6 @@
 54328,'54328','Lavoie / Isabella',45.492388,-73.626753
 54329,'54329','Lacombe / Légaré',45.494993,-73.624934
 54330,'54330','Casino De Montréal',45.506401,-73.52519
-54335,'54335','Station Jean-Drapeau',45.512182,-73.532041
 54337,'54337','Notre-Dame / 93e Avenue',45.697099,-73.485245
 54338,'54338','Parc St-Benoît',45.540426,-73.666529
 54339,'54339','Tellier / Futailles',45.585526,-73.521589
@@ -4366,8 +4362,8 @@
 54772,'54772','Grandes-Prairies / Lacordaire',45.599612,-73.611605
 54773,'54773','Lacordaire / Grandes-Prairies',45.599203,-73.612176
 54774,'54774','Grandes-Prairies / Lacordaire',45.598525,-73.612242
-54775,'54775','Grandes-Prairies / Lacordaire',45.599617,-73.611308
-54776,'54776','Grandes-Prairies / Lacordaire',45.600748,-73.610128
+54775,'54775','Grandes-Prairies / No5850',45.599617,-73.611308
+54776,'54776','Grandes-Prairies / 5940',45.600748,-73.610128
 54777,'54777','Couture / Grasset',45.590607,-73.612686
 54778,'54778','Lavoisier / Primot',45.584826,-73.61187
 54779,'54779','Lavoisier / Primot',45.584596,-73.611751
@@ -8877,7 +8873,6 @@
 61736,'61736','YUL Aéroport Montréal-Trudeau',45.455379,-73.751735
 61737,'61737','YUL Aéroport Montréal-Trudeau',45.455269,-73.751746
 61739,'61739','40e Avenue / Sherbrooke',45.663619,-73.507482
-61740,'61740','St-Jean-Baptiste / Industriel',45.644506,-73.519083
 61741,'61741','40e Avenue / Beaudry',45.663777,-73.507919
 61742,'61742','Maurice-Duplessis / Olivier-Lejeune',45.654689,-73.552592
 61743,'61743','Notre-Dame / Guy',45.489957,-73.567243
@@ -8922,6 +8917,7 @@
 61793,'61793','Hochelaga / Lepailleur',45.5912,-73.525365
 61794,'61794','Kildare / Smart',45.460965,-73.672318
 61795,'61795','Guelph / Smart',45.460039,-73.669355
+61796,'61796','St-Jean-Baptiste / Industriel',45.644655,-73.519908
 61797,'61797','Notre-Dame / Gamble',45.621587,-73.505771
 61798,'61798','Gohier / Côte-Vertu (Côte-Vertu)',45.513274,-73.683276
 61799,'61799','Gohier / Edouard-Laurin (Côte-Vertu)',45.513102,-73.683004
