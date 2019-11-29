@@ -1,24 +1,12 @@
-Title: Bus STM Montréal - MonTransit
-----------
-Short description:
-Autobus STM de Montréal pour MonTransit.
-Horaires. État de service. Nouvelles.
-----------
-What's new in this version?:
-Horaires du 26 août 2019 au 5 janvier 2020.
-Nouvelles de www.stm.info.
-Tweets de @stminfo et @stm_nouvelles.
-----------
-Full description:
 Cette application ajoute les informations des autobus de la STM à Montréal à MonTransit.
 
-L'app contient les horaires planifiés ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, YouTube et @stminfo et @stm_nouvelles sur Twitter.
+L'app contient les horaires planifiées ainsi que l'état de service en temps réel de www.stm.info et les dernières nouvelles de www.stm.info, YouTube et @stminfo et @stm_nouvelles sur Twitter.
 
 Les autobus de la STM desservent Montréal, QC, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
-Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
@@ -32,4 +20,3 @@ Cette application n'est pas associée à la Société de Transport de Montréal.
 
 Autorisations :
 - Autres : requis pour le chargement de l'état du service autobus et pour lire les nouvelles de www.stm.info, YouTube et Twitter.
-----------
