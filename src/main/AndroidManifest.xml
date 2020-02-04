@@ -2,26 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="org.mtransit.android.ca_montreal_stm_bus"
     tools:ignore="MissingVersion" >
-    <!-- REQUEST PERMISSIONS USAGE -->
-    <!-- INTERNET: Used for real time information and more -->
-    <uses-permission android:name="android.permission.INTERNET" />
-    <!-- BROADCAST_RECEIVER: required to read modules data -->
-    <uses-permission android:name="org.mtransit.android.receiver.permission.BROADCAST_RECEIVER" />
-    <!-- DECLARES PERMISSIONS -->
-    <permission
-        android:name="org.mtransit.android.provider.permission.READ_PROVIDER"
-        android:description="@string/provider_permission_description_read"
-        android:label="@string/provider_permission_label_read"
-        android:protectionLevel="signature" />
-    <permission
-        android:name="org.mtransit.android.receiver.permission.BROADCAST_RECEIVER"
-        android:description="@string/receiver_permission_description_broadcast"
-        android:label="@string/receiver_permission_label_broadcast"
-        android:protectionLevel="signature" />
-    <!-- USES FEATURE (not required) -->
-    <uses-feature
-        android:name="android.hardware.touchscreen"
-        android:required="false" />
     <application
         android:allowBackup="true"
         android:description="@string/app_desc"
@@ -45,12 +25,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!-- GFTS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
+        <!-- GTFS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.GTFSProvider"
             android:authorities="@string/gtfs_rts_authority"
             android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/agency_provider"
@@ -82,7 +62,7 @@
             android:name="org.mtransit.android.commons.provider.StmInfoApiProvider"
             android:authorities="@string/stm_info_api_authority"
             android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/status_provider"
@@ -102,7 +82,7 @@
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
             android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/news_provider"
@@ -116,7 +96,7 @@
             android:name="org.mtransit.android.commons.provider.RSSNewsProvider"
             android:authorities="@string/rss_authority"
             android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/news_provider"
@@ -130,7 +110,7 @@
             android:name="org.mtransit.android.commons.provider.YouTubeNewsProvider"
             android:authorities="@string/youtube_authority"
             android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
             <meta-data
                 android:name="@string/news_provider"
