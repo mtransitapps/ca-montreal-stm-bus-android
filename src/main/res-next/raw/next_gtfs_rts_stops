@@ -203,7 +203,7 @@
 50310,'50310','St-Laurent / Prieur',45.549398,-73.668118
 50311,'50311','Fleury / Jeanne-Mance',45.543895,-73.667756
 50313,'50313','Station Henri-Bourassa',45.556036,-73.667115
-50314,'50314','Millen / Petits-Chars',45.556953,-73.668029
+50314,'50314','Millen / Henri-Bourassa',45.556953,-73.668029
 50315,'50315','Fleury / Tolhurst',45.544413,-73.667275
 50316,'50316','Henri-Bourassa / St-Hubert',45.558513,-73.667278
 50317,'50317','Henri-Bourassa / St-Hubert',45.558617,-73.666727
@@ -1549,8 +1549,8 @@
 51693,'51693','Jean-Talon / 15e Avenue',45.561721,-73.595633
 51694,'51694','Beaubien / Chabot',45.54443,-73.595555
 51695,'51695','Beaubien / Chabot',45.54418,-73.595582
-51696,'51696','Monk / St-Patrick',45.462718,-73.597527
-51697,'51697','Monk / Pierre-Héroux',45.462363,-73.597552
+51696,'51696','Monk / Pierre-Héroux',45.462538,-73.597459
+51697,'51697','Monk / Pierre-Héroux',45.462064,-73.59744
 51698,'51698','Maurice-Duplessis / Valinière',45.628367,-73.593373
 51699,'51699','Maurice-Duplessis / Valinière',45.628252,-73.593929
 51700,'51700','St-Rémi / St-Jacques',45.473678,-73.596766
@@ -2703,7 +2703,7 @@
 52925,'52925','Wellington / Bridge',45.48745,-73.557421
 52926,'52926','Wellington / Bridge',45.487606,-73.557163
 52927,'52927','Perras / Voltaire',45.666175,-73.552787
-52928,'52928','Lacordaire / Gérin-Lajoie',45.577079,-73.555039
+52928,'52928','Lacordaire / Gérin-Lajoie',45.577096,-73.555088
 52929,'52929','Lacordaire / Gérin-Lajoie',45.577105,-73.555447
 52930,'52930','René-Lévesque / St-Hubert',45.514605,-73.556726
 52931,'52931','René-Lévesque / St-Hubert',45.514247,-73.556603
@@ -3378,7 +3378,7 @@
 53645,'53645','Notre-Dame / Place St-Georges',45.653751,-73.490259
 53646,'53646','Notre-Dame / Place St-Georges',45.653937,-73.49013
 53649,'53649','Notre-Dame / St-Jean-Baptiste',45.64018,-73.490295
-53650,'53650','St-Jean-Baptiste / Notre-Dame',45.640074,-73.491522
+53650,'53650','St-Jean-Baptiste / Notre-Dame',45.639917,-73.490559
 53651,'53651','Notre-Dame / St-Jean-Baptiste',45.639739,-73.490196
 53652,'53652','Notre-Dame / 14e Avenue',45.642155,-73.489989
 53653,'53653','Notre-Dame / 14e Avenue',45.641932,-73.489805
@@ -3468,7 +3468,7 @@
 53741,'53741','Ridgewood / 3600',45.492321,-73.612094
 53742,'53742','Ridgewood / 3550',45.493077,-73.611113
 53743,'53743','Ridgewood / 3360',45.49423,-73.610432
-53745,'53745','Remembrance / Chemin Du Chalet (Belvédère Kondiaro',45.503406,-73.594106
+53745,'53745','Remembrance / Chalet (Belvédère Kondiaronk)',45.503406,-73.594106
 53747,'53747','Belvédère Camillien-Houde',45.510661,-73.593238
 53748,'53748','Belvédère Camillien-Houde',45.51059,-73.593386
 53749,'53749','St-Joseph / 3600',45.552486,-73.566068
@@ -3968,7 +3968,7 @@
 54361,'54361','Jean-Talon / Jean-Louis-Lévesque',45.492818,-73.654616
 54362,'54362','Jean-Talon / Jean-Louis-Lévesque',45.493429,-73.654309
 54364,'54364','St-Michel / Bélair',45.557791,-73.59571
-54365,'54365','Boucherville / Hector-Barsalou',45.58533,-73.511136
+54365,'54365','Boucherville / Hector-Barsalou',45.585377,-73.511274
 54367,'54367','Henri-Bourassa / 9275',45.639948,-73.55981
 54369,'54369','Commune / Queen',45.496875,-73.553051
 54370,'54370','Brennan / Duke',45.495599,-73.553545
@@ -8386,10 +8386,10 @@
 61005,'61005','Onésime-Gagnon / Joseph-Dubreuil',45.466496,-73.709499
 61006,'61006','32e Avenue / Joseph-Dubreuil',45.464482,-73.711645
 61007,'61007','32e Avenue / Louis-A.-Amos',45.461657,-73.707383
-61009,'61009','LaSalle / Lyette',45.428628,-73.665624
+61009,'61009','LaSalle / Lyette',45.42837,-73.66509
 61010,'61010','LaSalle / Dupras',45.426947,-73.662774
 61012,'61012','LaSalle / Dupras',45.426825,-73.662294
-61013,'61013','LaSalle / Lyette',45.428599,-73.66529
+61013,'61013','LaSalle / Lyette',45.428572,-73.665228
 61016,'61016','Carrefour Angrignon',45.446246,-73.618726
 61020,'61020','Chabanel / Esplanade',45.541349,-73.65305
 61021,'61021','Chabanel / Charles-De La Tour',45.531376,-73.658434
