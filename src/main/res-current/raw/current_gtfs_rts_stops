@@ -1232,7 +1232,7 @@
 51370,'51370','Décarie / Côte-St-Antoine',45.476287,-73.613063
 51371,'51371','Côte-St-Antoine / Northcliffe',45.476602,-73.613072
 51372,'51372','Décarie / Côte-St-Antoine',45.476312,-73.613443
-51373,'51373','Côte-St-Antoine / Prud''homme',45.475994,-73.613625
+51373,'51373','Côte-St-Antoine / Prud''Homme',45.475994,-73.613625
 51374,'51374','Jarry / 9e Avenue',45.562845,-73.610523
 51375,'51375','Jarry / 9e Avenue',45.562439,-73.610683
 51376,'51376','Notre-Dame-De-Grâce / Grey',45.479397,-73.612926
@@ -7117,8 +7117,8 @@
 57720,'57720','Broadview / St-Louis',45.459332,-73.799239
 57721,'57721','Donegani / Windcrest',45.44876,-73.79867
 57722,'57722','Donegani / Windcrest',45.448638,-73.798889
-57723,'57723','Bord-Du-Lac / Water''s Edge',45.446694,-73.798402
-57724,'57724','Bord-Du-Lac / Water''s Edge',45.446638,-73.79872
+57723,'57723','Bord-Du-Lac / Water''S Edge',45.446694,-73.798402
+57724,'57724','Bord-Du-Lac / Water''S Edge',45.446638,-73.79872
 57725,'57725','Broadview / John-Fisher',45.457317,-73.798233
 57726,'57726','Broadview / John-Fisher',45.457542,-73.798466
 57727,'57727','Broadview / 105',45.456255,-73.797808
@@ -7869,8 +7869,8 @@
 58493,'58493','Gare Beaconsfield',45.435216,-73.848049
 58494,'58494','Montrose / Northcliff',45.440261,-73.874533
 58495,'58495','Montrose / Northcliff',45.440448,-73.874712
-58496,'58496','Lakeshore / St-Andrew''s',45.405348,-73.930818
-58497,'58497','Lakeshore / St-Andrew''s',45.405205,-73.931113
+58496,'58496','Lakeshore / St-Andrew''S',45.405348,-73.930818
+58497,'58497','Lakeshore / St-Andrew''S',45.405205,-73.931113
 58498,'58498','Lakeshore / Case',45.405236,-73.927473
 58499,'58499','Lakeshore / Churchill',45.405322,-73.923763
 58500,'58500','Lakeshore / Churchill',45.40531,-73.924118
@@ -8521,7 +8521,7 @@
 61551,'61551','Lafleur / Centrale',45.423308,-73.650678
 61553,'61553','Villeray / 20e Avenue',45.567274,-73.59831
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480673,-73.543235
-61555,'61555','Marc-Cantin / Studios Mel''s',45.478286,-73.544397
+61555,'61555','Marc-Cantin / Studios Mel''S',45.478286,-73.544397
 61556,'61556','Stade De Soccer De Montréal (Papineau / Lecocq)',45.561864,-73.638326
 61558,'61558','Centre Univ De Santé McGill (Décarie / CUSM)',45.47174,-73.603233
 61559,'61559','Centre Universitaire De Santé McGill (CUSM)',45.473158,-73.601954
