@@ -2191,7 +2191,7 @@
 52408,'52408','Notre-Dame / Dominion',45.484346,-73.572735
 52409,'52409','Sherbrooke / Aylmer',45.505995,-73.572572
 52411,'52411','Pins / Drolet',45.518386,-73.572338
-52412,'52412','Président-Kennedy (Mcgill (Robert-Bourassa)',45.50443,-73.57224
+52412,'52412','Robert-Bourassa / Président-Kennedy (Mcgill)',45.50443,-73.57224
 52413,'52413','Rosemont / 28e Avenue',45.564051,-73.570738
 52414,'52414','Beaubien / 40e Avenue',45.572849,-73.570682
 52415,'52415','Montagne / René-Lévesque',45.496538,-73.572084
@@ -8695,7 +8695,7 @@
 61832,'61832','Guy / Lincoln',45.496084,-73.580021
 61833,'61833','CAE',45.478327,-73.708718
 61834,'61834','Vanier / Lachapelle',45.531308,-73.723328
-61836,'61836','Bougainville / Sorel',45.500544,-73.661174
+61836,'61836','Bougainville / Sorel (De La Savane)',45.500544,-73.661174
 61839,'61839','Haig / Hochelaga',45.582415,-73.530227
 61840,'61840','Collège / Ouimet (Du Collège)',45.509893,-73.674303
 61849,'61849','Laurendeau / Sève',45.455949,-73.588471
@@ -8720,7 +8720,7 @@
 61880,'61880','Lebrun / Bellerive',45.596085,-73.510134
 61881,'61881','Bellerive / Mercier',45.595312,-73.509709
 61885,'61885','Rodolphe-Forget / Fernand-Forest',45.650302,-73.579726
-61886,'61886','Jean-Talon / Écores',45.552554,-73.60309
+61886,'61886','Jean-Talon / Écores (D''Iberville)',45.552554,-73.60309
 61888,'61888','Armand-Bombardier / Maurice-Duplessis',45.631943,-73.589709
 61889,'61889','Iberville / Rouen',45.534014,-73.557016
 61890,'61890','St-Denis / Pins',45.518881,-73.571566
@@ -8776,10 +8776,10 @@
 61942,'61942','Provencher / Jean-Talon',45.571255,-73.587117
 61943,'61943','Buies / Gênes',45.569256,-73.592569
 61944,'61944','20e Avenue / Bellechasse',45.560055,-73.577619
-61945,'61945','Écores / Jean-Talon',45.552419,-73.602855
+61945,'61945','Écores / Jean-Talon (D''Iberville)',45.552419,-73.602855
 61946,'61946','Iberville / Everett',45.554993,-73.60503
 61947,'61947','Louis-Hébert / Everett',45.554073,-73.605036
-61948,'61948','Louis-Hébert / Jean-Talon',45.552845,-73.602257
+61948,'61948','Louis-Hébert / Jean-Talon (D''Iberville)',45.552845,-73.602257
 61994,'61994','Collège / Ouimet (Du Collège)',45.509688,-73.674596
 61997,'61997','Gohier / E-Laurin (Côte-Vertu)',45.513322,-73.683142
 61998,'61998','Station Côte-Vertu (Terminus Côte-Vertu)',45.514615,-73.683791
