@@ -11,7 +11,7 @@ Cette application a seulement une icône temporaire : télécharger l'app MonTra
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par la Société de Transport de Montréal.
-http://www.stm.info/fr/a-propos/developpeurs
+https://www.stm.info/fr/a-propos/developpeurs
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-montreal-stm-bus-android

@@ -7,16 +7,16 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
-        <item>http://www.stm.info/fr/presse/rss/all</item>
-        <item>http://www.stm.info/en/press/rss/all</item>
+        <item>https://www.stm.info/fr/presse/rss/all</item>
+        <item>https://www.stm.info/en/press/rss/all</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.stm.info/fr/presse</item>
-        <item>http://www.stm.info/en/press</item>
+        <item>https://www.stm.info/fr/presse</item>
+        <item>https://www.stm.info/en/press</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.stm.info</item>
