@@ -11,7 +11,7 @@ This application only has a temporary icon: download the MonTransit app (free) i
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the Société de Transport de Montréal.
-http://www.stm.info/en/about/developers
+https://www.stm.info/en/about/developers
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-montreal-stm-bus-android
