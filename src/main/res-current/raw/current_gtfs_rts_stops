@@ -125,7 +125,7 @@
 50232,'50232','Salaberry / Frigon',45.540559,-73.696084
 50233,'50233','Acadie / Salaberry',45.540262,-73.694745
 50234,'50234','Salaberry / Bois-De-Boulogne',45.542653,-73.694251
-50235,'50235','Salaberry / Desenclaves',45.54241,-73.694659
+50235,'50235','Salaberry / Bois-De-Boulogne',45.54241,-73.694659
 50236,'50236','Dudemaine / Poutrincourt',45.533797,-73.694206
 50237,'50237','Dudemaine / Poutrincourt',45.533487,-73.694337
 50238,'50238','Salaberry / Poincaré',45.545348,-73.692775
@@ -1374,6 +1374,7 @@
 51535,'51535','Bélanger / Papineau',45.546508,-73.603504
 51536,'51536','Papineau / Bélanger',45.546378,-73.603783
 51537,'51537','Bélanger / Papineau',45.546208,-73.603578
+51538,'51538','Crémazie / 17e Avenue',45.566907,-73.603267
 51539,'51539','17e Avenue / Crémazie',45.566708,-73.603539
 51540,'51540','Crémazie / 17e Avenue',45.566333,-73.602927
 51541,'51541','17e Avenue / Crémazie',45.566698,-73.603218
@@ -2201,7 +2202,7 @@
 52442,'52442','Sherbrooke / Bleury',45.508728,-73.571191
 52443,'52443','Parc / Sherbrooke',45.508459,-73.571671
 52444,'52444','Sherbrooke / Bleury',45.508188,-73.571251
-52445,'52445','Beaubien / 42e Avenue',45.574076,-73.569616
+52445,'52445','Beaubien / 42e Avenue',45.574052,-73.569634
 52446,'52446','Notre-Dame / Georges-Vanier',45.485141,-73.571703
 52447,'52447','Notre-Dame / Georges-Vanier',45.484871,-73.571869
 52448,'52448','St-Joseph / 6e Avenue',45.546745,-73.570096
@@ -3213,7 +3214,7 @@
 53547,'53547','École Daniel-Johnson',45.650718,-73.498099
 53548,'53548','René-Lévesque / 8e Avenue',45.640028,-73.501253
 53549,'53549','René-Lévesque / 8e Avenue',45.639778,-73.501169
-53550,'53550','Cimetière Hawthorn-Dale',45.682247,-73.500478
+53550,'53550','Cimetière Des Trembles',45.682247,-73.500478
 53551,'53551','Montigny / 47e Avenue',45.667093,-73.50014
 53552,'53552','Montigny / 47e Avenue',45.666897,-73.500096
 53553,'53553','St-Jean-Baptiste / René-Lévesque',45.641679,-73.500242
@@ -3385,7 +3386,7 @@
 53729,'53729','CLSC De L''Est-De-Montréal',45.666572,-73.494478
 53730,'53730','St-Jean-Baptiste / Place Pointe-Aux-Trembles',45.642311,-73.504163
 53731,'53731','Sherbrooke / Réal-Benoit',45.677112,-73.50244
-53732,'53732','Cimetière Hawthorn-Dale',45.682554,-73.500543
+53732,'53732','Cimetière Des Trembles',45.682554,-73.500543
 53733,'53733','École Secondaire De La Pointe-Aux-Trembles',45.686125,-73.499308
 53734,'53734','St-Patrick / Atwater',45.476578,-73.575792
 53735,'53735','St-Patrick / Atwater',45.476649,-73.575952
@@ -3724,7 +3725,7 @@
 54125,'54125','Meilleur / Chabanel',45.537512,-73.655467
 54126,'54126','St-Hubert / Henri-Bourassa',45.558254,-73.666603
 54127,'54127','Station Henri-Bourassa',45.556117,-73.667282
-54129,'54129','Beaubien / 42e Avenue',45.574326,-73.569569
+54129,'54129','Beaubien / 42e Avenue',45.574354,-73.569491
 54130,'54130','Iberville / 5455',45.543413,-73.578868
 54131,'54131','St-Jean-Baptiste / 850',45.640671,-73.49516
 54132,'54132','St-Jean-Baptiste / 850',45.640852,-73.495173
@@ -4501,6 +4502,7 @@
 55012,'55012','Grandes-Prairies / 4840',45.588928,-73.61938
 55013,'55013','Jarry / 6180',45.592313,-73.584103
 55014,'55014','Métropolitain / Provencher',45.572194,-73.598488
+55015,'55015','Provencher / Métropolitain',45.571999,-73.59927
 55016,'55016','Métropolitain / Provencher',45.571463,-73.598316
 55017,'55017','Jean-Talon / 6875',45.595356,-73.572043
 55018,'55018','Grandes-Prairies / 6363',45.604521,-73.606501
@@ -5523,9 +5525,9 @@
 56108,'56108','Ferrier / Montview',45.490493,-73.666644
 56109,'56109','Paré / 5530',45.492549,-73.659875
 56110,'56110','Passerelle Isabey-Darnley (Côte-De-Liesse / Isabey)',45.49114,-73.681411
-56111,'56111','Rockland / 189',45.520476,-73.627183
+56111,'56111','Rockland / Beaumont',45.520476,-73.627183
 56112,'56112','Rockland / Monmouth',45.520866,-73.628581
-56113,'56113','Brittany / Résidence Douglas',45.520839,-73.652876
+56113,'56113','Parc Ernest-B-Jubien (Brittany / Russell)',45.520839,-73.652876
 56114,'56114','Côte-De-Liesse / Rockland',45.526438,-73.650719
 56115,'56115','Côte-De-Liesse / Parc Fleming',45.523606,-73.65237
 56116,'56116','Décarie / Côte-De-Liesse',45.502097,-73.667091
@@ -8450,6 +8452,9 @@
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480673,-73.543235
 61555,'61555','Marc-Cantin / Studios Mel''S',45.478286,-73.544397
 61556,'61556','Stade De Soccer De Montréal (Papineau / Lecocq)',45.561864,-73.638326
+61558,'61558','Centre Univ De Santé McGill (Décarie / CUSM)',45.47174,-73.603233
+61559,'61559','Centre Universitaire De Santé McGill (CUSM)',45.473158,-73.601954
+61561,'61561','St-Jacques / Atwater (Lionel-Groulx)',45.48334,-73.579463
 61562,'61562','Gaétan-Laberge / Gilberte-Dubé',45.470171,-73.562332
 61563,'61563','Gaétan-Laberge / Rhéaume',45.467863,-73.562953
 61564,'61564','Station De L''Église',45.462797,-73.566297
@@ -8686,8 +8691,8 @@
 61910,'61910','St-Denis / Bélanger',45.537355,-73.612186
 61911,'61911','St-Denis / Bélanger',45.536882,-73.611571
 61912,'61912','St-Denis / Jean-Talon',45.538054,-73.614148
-61913,'61913','Futailles / Tellier Dir E',45.583031,-73.517893
-61914,'61914','Futailles / Tellier Dir E',45.582995,-73.517802
+61913,'61913','Futailles / No 1947',45.583031,-73.517893
+61914,'61914','Futailles / 1947',45.582995,-73.517802
 61915,'61915','Jumonville / Louis-Veuillot',45.576511,-73.550858
 61916,'61916','Lacordaire / Turenne',45.576418,-73.553043
 61917,'61917','Jumonville / Louis-Veuillot',45.576269,-73.550848
@@ -8751,8 +8756,8 @@
 61990,'61990','Van Horne / Outremont (Outremont)',45.521152,-73.614188
 61991,'61991','Van Horne / Stuart (Outremont)',45.519566,-73.615607
 61992,'61992','St-Jacques / Décarie',45.470829,-73.601375
-61993,'61993','Décarie / Débarcadère CUSM',45.471759,-73.602619
-62008,'62008','R-125 Nord-St-Martin / Vanier',45.612142,-73.660853
+61993,'61993','Centre Universitaire De Santé McGill',45.471759,-73.602619
+62008,'62008','SRB Pie-IX / St-Martin',45.612142,-73.660853
 62009,'62009','École Secondaire De La Pointe-Aux-Trembles',45.685335,-73.498513
 62012,'62012','Forest / Hébert',45.587866,-73.632844
 62013,'62013','Terminus CAE',45.478373,-73.708793
