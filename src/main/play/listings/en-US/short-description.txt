@@ -1,2 +1,1 @@
-Montreal STM buses for MonTransit.
-Schedule. Real-Time. News.
+Montreal STM buses for MonTransit. Schedule. Real-Time. News.
