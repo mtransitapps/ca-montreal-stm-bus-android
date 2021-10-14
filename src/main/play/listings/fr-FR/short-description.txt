@@ -1,2 +1,1 @@
-Autobus STM de Montréal pour MonTransit.
-Horaires. Temps-Réel. Nouvelles.
+Autobus STM de Montréal pour MonTransit. Horaires. Temps-Réel. Nouvelles.
