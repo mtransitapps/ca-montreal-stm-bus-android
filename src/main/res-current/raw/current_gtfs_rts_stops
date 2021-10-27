@@ -3486,8 +3486,6 @@
 53836,'53836','Ridgewood / 3440',45.49389,-73.612544
 53837,'53837','Cimetière Notre-Dame-Des-Neiges',45.495952,-73.608325
 53838,'53838','Remembrance / Cavalerie Du SPVM',45.502365,-73.596124
-53839,'53839','Ronde',45.521352,-73.533844
-53841,'53841','Pont Jacques-Cartier (Papineau / Logan)',45.524266,-73.555805
 53842,'53842','Docteur-Penfield / Côte-Des-Neiges',45.496707,-73.586311
 53843,'53843','Docteur-Penfield / Réservoir McTavish',45.505324,-73.578395
 53844,'53844','Haig / 2105',45.58054,-73.524829
@@ -3765,7 +3763,6 @@
 54173,'54173','Notre-Dame-De-Grâce / Grand Boulevard',45.467014,-73.624461
 54174,'54174','Langelier / Sherbrooke (Langelier)',45.582778,-73.54287
 54175,'54175','Lucien-L''Allier / René-Lévesque',45.495165,-73.572056
-54177,'54177','Ronde',45.521538,-73.536015
 54179,'54179','Station Rosemont',45.531255,-73.597158
 54180,'54180','St-Michel / Robert',45.567739,-73.618257
 54181,'54181','Atwater / Lionel-Groulx (Lionel-Groulx)',45.482998,-73.578888
@@ -3874,7 +3871,6 @@
 54328,'54328','Lavoie / Isabella',45.492388,-73.626753
 54329,'54329','Lacombe / Légaré',45.494993,-73.624934
 54330,'54330','Casino De Montréal',45.506401,-73.52519
-54335,'54335','Station Jean-Drapeau',45.512182,-73.532041
 54337,'54337','Notre-Dame / 93e Avenue',45.697099,-73.485245
 54338,'54338','Parc St-Benoît',45.540426,-73.666529
 54339,'54339','Tellier / Futailles',45.585526,-73.521589
@@ -8452,9 +8448,6 @@
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480673,-73.543235
 61555,'61555','Marc-Cantin / Studios Mel''S',45.478286,-73.544397
 61556,'61556','Stade De Soccer De Montréal (Papineau / Lecocq)',45.561864,-73.638326
-61558,'61558','Centre Univ De Santé McGill (Décarie / CUSM)',45.47174,-73.603233
-61559,'61559','Centre Universitaire De Santé McGill (CUSM)',45.473158,-73.601954
-61561,'61561','St-Jacques / Atwater (Lionel-Groulx)',45.48334,-73.579463
 61562,'61562','Gaétan-Laberge / Gilberte-Dubé',45.470171,-73.562332
 61563,'61563','Gaétan-Laberge / Rhéaume',45.467863,-73.562953
 61564,'61564','Station De L''Église',45.462797,-73.566297
@@ -8778,5 +8771,4 @@
 62031,'62031','Marc-Blain / Cohen',45.493286,-73.730127
 62032,'62032','McArthur / Ness',45.482701,-73.698745
 62033,'62033','McArthur / Ness',45.482786,-73.699116
-62036,'62036','Maurice-Duplessis / 87e Avenue',45.663383,-73.535387
 62042,'62042','Notre-Dame / Turcot',45.462066,-73.60826
