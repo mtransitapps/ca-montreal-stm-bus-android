@@ -581,7 +581,6 @@
 50708,'50708','Émile-Journault / Marcel-Cadieux',45.550952,-73.640076
 50709,'50709','St-Hubert / Émile-Journault',45.550554,-73.640432
 50710,'50710','Émile-Journault / St-Hubert',45.550367,-73.640269
-50711,'50711','Émile-Journault / Chateaubriand',45.550044,-73.640639
 50712,'50712','Christophe-Colomb / Legendre',45.556231,-73.640089
 50713,'50713','Christophe-Colomb / Legendre',45.556155,-73.640574
 50714,'50714','Macdonald / Hampstead',45.484886,-73.642157
@@ -3900,11 +3899,9 @@
 54378,'54378','Notre-Dame / 15657',45.690631,-73.489079
 54379,'54379','Notre-Dame / 83e Avenue',45.690414,-73.488984
 54380,'54380','Sherbrooke / Stationnement Incitatif',45.668343,-73.505455
-54381,'54381','Cégep Marie-Victorin (Marie-Victorin / 7000)',45.618272,-73.607364
 54382,'54382','Wellington / Robert-Bourassa',45.496418,-73.555722
 54383,'54383','81e Avenue / Forsyth',45.690067,-73.495603
 54384,'54384','81e Avenue / Victoria',45.689582,-73.492499
-54385,'54385','Collège Ahuntsic (St-Hubert / Legendre)',45.551375,-73.642686
 54386,'54386','81e Avenue / Notre-Dame',45.689196,-73.489987
 54389,'54389','Collège De Bois-De-Boulogne',45.538858,-73.677829
 54391,'54391','Esplanade / Guizot',45.536617,-73.635172
@@ -4918,9 +4915,7 @@
 55457,'55457','Grenet / Henri-Bourassa',45.522913,-73.70542
 55458,'55458','Henri-Bourassa / Grenet',45.523221,-73.705567
 55459,'55459','Grenet / Henri-Bourassa',45.523168,-73.706089
-55460,'55460','Grenet / Henri-Bourassa',45.522613,-73.705237
 55461,'55461','Henri-Bourassa / Londres',45.523334,-73.704779
-55462,'55462','Laval / Marcel-Laurin',45.521348,-73.705168
 55463,'55463','Côte-Vertu / 3200',45.496928,-73.704244
 55464,'55464','Côte-Vertu / Beaulac',45.495777,-73.706181
 55465,'55465','Beaulac / Côte-Vertu',45.496094,-73.707096
@@ -4930,7 +4925,6 @@
 55469,'55469','Transcanadienne / Locke',45.490586,-73.70221
 55470,'55470','Grenet / Laval',45.522084,-73.703803
 55471,'55471','Grenet / Laval',45.522153,-73.704318
-55472,'55472','Grenet / Laval',45.521913,-73.703437
 55473,'55473','Transcanadienne / Bégin',45.490257,-73.705822
 55474,'55474','Henri-Bourassa / Londres',45.524501,-73.702666
 55475,'55475','Henri-Bourassa / Londres',45.524199,-73.702827
@@ -5006,7 +5000,6 @@
 55548,'55548','Cardinal / Deguire',45.517606,-73.692558
 55549,'55549','Bertrand / Major',45.500999,-73.693085
 55550,'55550','Bertrand / Major',45.501057,-73.693426
-55551,'55551','Thimens / Marcel-Laurin',45.513346,-73.692831
 55553,'55553','Cavendish / Griffith',45.489814,-73.69166
 55554,'55554','Côte-Vertu / Alexis-Nihon',45.506659,-73.692474
 55555,'55555','Alexis-Nihon / Bourgoin',45.506625,-73.693107
@@ -7908,7 +7901,6 @@
 59446,'59446','Pie-IX / Parc Pilon',45.594562,-73.641414
 59461,'59461','Henri-Bourassa / 6100',45.608116,-73.615312
 59462,'59462','Henri-Bourassa / 6085',45.608504,-73.614901
-59532,'59532','École Secondaire St-Laurent',45.506715,-73.701715
 59629,'59629','Square Nelligan',45.514226,-73.707989
 59630,'59630','Nations / Alexis-Nihon',45.513622,-73.710658
 59631,'59631','Harfangs / Poirier',45.51041,-73.708221
