@@ -3,6 +3,7 @@
     <domain-config>
         <domain includeSubdomains="true">api.stm.info</domain>
         <trust-anchors>
+            <!-- openssl s_client -connect api.stm.info:443 -legacy_server_connect 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > app-android/src/main/res/raw/info_stm_api_pem -->
             <certificates src="@raw/info_stm_api_pem" />
         </trust-anchors>
     </domain-config>
@@ -11,6 +12,7 @@
     <domain-config>
         <domain includeSubdomains="true">stm.info</domain>
         <trust-anchors>
+            <!-- openssl s_client -connect stm.info:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > commons-android/src/main/res/raw/info_stm_pem -->
             <certificates src="@raw/info_stm_pem" />
         </trust-anchors>
     </domain-config>
