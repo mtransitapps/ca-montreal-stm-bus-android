@@ -16,8 +16,6 @@
 
 * [Facebook](https://www.facebook.com/MonTransit)
 
-* [Google+](http://gplus.to/MonTransit/)
-
 * [Twitter](https://twitter.com/montransit)
 
 ## BETA program
