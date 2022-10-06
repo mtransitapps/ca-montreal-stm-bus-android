@@ -1,6 +1,6 @@
 # Montréal STM Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/hi-res-app-icon.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
 ## Download on Google Play
 
@@ -8,9 +8,9 @@
 
 ## Screenshots
 
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-1.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-2.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/pub/screenshot-phone-3.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/1.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-montreal-stm-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
 
 ## Social
 
