@@ -1,13 +1,13 @@
 50101,'50101','Louis-Hippolyte-La Fontaine / Curatteau',45.594058,-73.542634
 50102,'50102','St-Jacques / 6640',45.460511,-73.625831
 50103,'50103','St-Jacques / 6710',45.458946,-73.626973
-50104,'50104','Gare Canora (Jean-Talon / Wilderton)',45.513581,-73.632259
+50104,'50104','Jean-Talon / Wilderton (Gare Canora)',45.513581,-73.632259
 50105,'50105','Station Viau',45.560876,-73.547179
 50106,'50106','St-Joseph / 3500',45.552134,-73.566095
 50107,'50107','Viau / Marseille',45.563712,-73.549051
 50108,'50108','Viau / Marseille',45.563623,-73.549505
 50109,'50109','Louis-Hippolyte-La Fontaine / Fonteneau',45.595424,-73.544053
-50110,'50110','Gare Montréal-Ouest (Elmhurst / Sherbrooke)',45.454203,-73.641481
+50110,'50110','Elmhurst / Sherbrooke (Gare Montréal-Ouest)',45.454203,-73.641481
 50111,'50111','Parc / Milton',45.509507,-73.573516
 50112,'50112','Parc / Prince-Arthur',45.510422,-73.575515
 50113,'50113','Rachel / André-Laurendeau',45.542598,-73.561619
@@ -81,7 +81,7 @@
 50188,'50188','Gouin / Bohlé',45.540096,-73.708604
 50189,'50189','Salaberry / St-Évariste',45.531526,-73.708222
 50190,'50190','Salaberry / St-Évariste',45.531256,-73.708266
-50191,'50191','Gare Bois-Franc (Grenet / Ranger)',45.524545,-73.70798
+50191,'50191','Grenet / Ranger (Gare Bois-Franc)',45.524545,-73.70798
 50192,'50192','Grenet / Ranger',45.524672,-73.70845
 50193,'50193','Dudemaine / Grenet',45.524478,-73.707622
 50194,'50194','Dudemaine / Grenet',45.524712,-73.707787
@@ -141,7 +141,7 @@
 50248,'50248','Dudemaine / Acadie',45.537699,-73.688997
 50249,'50249','Acadie / Dudemaine',45.537578,-73.688446
 50250,'50250','Dudemaine / Laforest',45.540186,-73.687364
-50251,'50251','Aréna Marcelin-Wilson (De L''Acadie / C-Gill)',45.535821,-73.683951
+50251,'50251','Acadie / C-Gill (Aréna Marcelin-Wilson)',45.535821,-73.683951
 50252,'50252','Acadie / Charles-Gill',45.535804,-73.68454
 50253,'50253','Gouin / Tanguay',45.547481,-73.683556
 50254,'50254','Gouin / Tanguay',45.547432,-73.683825
@@ -168,7 +168,7 @@
 50275,'50275','Gouin / Clark',45.550546,-73.675455
 50276,'50276','Meilleur / Henri-Bourassa',45.543293,-73.67485
 50277,'50277','Henri-Bourassa / Meilleur',45.543588,-73.675332
-50278,'50278','SAAQ (Henri-Bourassa / Meilleur)',45.542645,-73.675518
+50278,'50278','Henri-Bourassa / Meilleur (SAAQ)',45.542645,-73.675518
 50279,'50279','Henri-Bourassa / Tanguay',45.544659,-73.674593
 50280,'50280','Henri-Bourassa / Tanguay',45.544329,-73.674396
 50281,'50281','St-Laurent / Gouin',45.551254,-73.673673
@@ -415,7 +415,7 @@
 50536,'50536','Louvain / St-Hubert',45.553455,-73.649555
 50537,'50537','St-Hubert / Louvain',45.55319,-73.649755
 50538,'50538','Louvain / St-Hubert',45.553043,-73.649545
-50539,'50539','Marché Central (De L''Acadie / Crémazie)',45.531237,-73.650307
+50539,'50539','Acadie / Crémazie (Marché Central)',45.531237,-73.650307
 50540,'50540','Fleury / Lille',45.574364,-73.648561
 50541,'50541','Fleury / Lille',45.574134,-73.648591
 50542,'50542','Sauvé / Garnier',45.563942,-73.648636
@@ -515,7 +515,7 @@
 50641,'50641','Van Horne / Macdonald',45.486373,-73.64512
 50642,'50642','Macdonald / Fleet',45.486306,-73.645312
 50643,'50643','Fleet / Macdonald',45.486138,-73.645128
-50644,'50644','Collège Ahuntsic (St-Hubert / Legendre)',45.551515,-73.643188
+50644,'50644','St-Hubert / Legendre (Collège Ahuntsic)',45.551515,-73.643188
 50645,'50645','St-Hubert / Legendre',45.551442,-73.643557
 50646,'50646','Papineau / Louvain',45.563553,-73.642225
 50647,'50647','Papineau / Louvain',45.563175,-73.641951
@@ -611,7 +611,7 @@
 50738,'50738','Plamondon / Victoria (Plamondon)',45.495518,-73.640577
 50739,'50739','Champagneur / Anvers',45.531195,-73.639202
 50740,'50740','Liège / Esplanade',45.537408,-73.6395
-50741,'50741','Gare Montréal-Ouest (Elmhurst / Sherbrooke)',45.454553,-73.641462
+50741,'50741','Elmhurst / Sherbrooke (Gare Montréal-Ouest)',45.454553,-73.641462
 50743,'50743','Elmhurst / Coffee',45.454677,-73.640678
 50744,'50744','Van Horne / Westbury',45.491427,-73.640452
 50745,'50745','Van Horne / Westbury',45.491209,-73.640527
@@ -794,7 +794,7 @@
 50930,'50930','Monkland / Walkley',45.463612,-73.633527
 50931,'50931','St-Michel / Louvain',45.573008,-73.630218
 50932,'50932','St-Michel / Louvain',45.572968,-73.63066
-50933,'50933','Gare Canora (Jean-Talon / Wilderton)',45.514079,-73.632085
+50933,'50933','Jean-Talon / Wilderton (Gare Canora)',45.514079,-73.632085
 50934,'50934','St-Laurent / Jarry',45.538957,-73.631096
 50935,'50935','Jarry / St-Laurent',45.539087,-73.631353
 50936,'50936','St-Laurent / Jarry',45.538897,-73.631642
@@ -989,8 +989,8 @@
 51128,'51128','Girouard / Terrebonne',45.478274,-73.624585
 51129,'51129','Girouard / Guillaume-Couture',45.478097,-73.624526
 51130,'51130','St-Denis / Villeray',45.540833,-73.622801
-51132,'51132','École Georges-Vanier (Jarry / Normanville)',45.549434,-73.622743
-51133,'51133','École Georges-Vanier (Jarry / Normanville)',45.549139,-73.622855
+51132,'51132','Jarry / Normanville (École Georges-Vanier)',45.549434,-73.622743
+51133,'51133','Jarry / Normanville (École Georges-Vanier)',45.549139,-73.622855
 51134,'51134','Sherbrooke / Madison',45.46586,-73.625048
 51135,'51135','Sherbrooke / Madison',45.465817,-73.624802
 51136,'51136','Terrebonne / Côte-St-Luc',45.479091,-73.624375
@@ -1127,7 +1127,7 @@
 51276,'51276','St-Michel / Deville',45.566438,-73.615298
 51277,'51277','St-Michel / Deville',45.566392,-73.615728
 51278,'51278','Decelles / Queen-Mary',45.496788,-73.61798
-51279,'51279','Place Du 6-Décembre-1989 (Queen-Mary / Decelles)',45.496367,-73.617648
+51279,'51279','Queen-Mary / Decelles (Place Du 6-Décembre-1989)',45.496367,-73.617648
 51280,'51280','Décarie / Duquette',45.478304,-73.617545
 51281,'51281','Décarie / Duquette',45.478389,-73.61805
 51282,'51282','Côte-St-Antoine / Wilson',45.471162,-73.617968
@@ -1592,7 +1592,7 @@
 51772,'51772','Bélanger / 13e Avenue',45.558796,-73.592796
 51773,'51773','Bélanger / 13e Avenue',45.558583,-73.592782
 51774,'51774','Notre-Dame / Carillon',45.468848,-73.595039
-51775,'51775','École James-Lyng (Notre-Dame / Carillon)',45.468471,-73.595791
+51775,'51775','Notre-Dame / Carillon (École James-Lyng)',45.468471,-73.595791
 51776,'51776','Jolicoeur / Monk',45.456999,-73.59525
 51777,'51777','Monk / Jolicoeur',45.457016,-73.595542
 51778,'51778','Jolicoeur / Monk',45.456815,-73.595571
@@ -1738,7 +1738,7 @@
 51949,'51949','Atwater / Sherbrooke',45.491291,-73.587671
 51950,'51950','Sherbrooke / Atwater',45.491563,-73.587763
 51951,'51951','Sherbrooke / Atwater',45.491066,-73.588043
-51952,'51952','Collège Dawson (Sherbrooke / 3040)',45.490779,-73.588663
+51952,'51952','Sherbrooke / 3040 (Collège Dawson)',45.490779,-73.588663
 51953,'51953','Lorimier / Holt',45.541719,-73.586294
 51954,'51954','Lorimier / Holt',45.541707,-73.586672
 51955,'51955','Iberville / Rosemont',45.546469,-73.586036
@@ -1800,8 +1800,8 @@
 52016,'52016','Bélanger / 30e Avenue',45.569433,-73.583332
 52017,'52017','St-Joseph / Christophe-Colomb',45.530403,-73.584192
 52019,'52019','St-Joseph / Christophe-Colomb',45.530117,-73.584141
-52020,'52020','Collège De Rosemont (Beaubien / 16e Avenue)',45.558564,-73.583306
-52021,'52021','Collège De Rosemont (Beaubien / 16e Avenue)',45.558274,-73.583358
+52020,'52020','Beaubien / 16e Avenue (Collège De Rosemont)',45.558564,-73.583306
+52021,'52021','Beaubien / 16e Avenue (Collège De Rosemont)',45.558274,-73.583358
 52022,'52022','Papineau / Masson',45.537226,-73.583726
 52023,'52023','Masson / Papineau',45.537421,-73.583839
 52024,'52024','Papineau / Masson',45.537297,-73.584219
@@ -1935,7 +1935,7 @@
 52162,'52162','Mont-Royal / Christophe-Colomb',45.527875,-73.579226
 52163,'52163','Bélanger / 40e Avenue',45.575483,-73.578287
 52164,'52164','Bélanger / 40e Avenue',45.575201,-73.578319
-52165,'52165','Collège Jean-Eudes (Rosemont / 14e Avenue)',45.555525,-73.578549
+52165,'52165','Rosemont / 14e Avenue (Collège Jean-Eudes)',45.555525,-73.578549
 52166,'52166','Sherbrooke / Redpath',45.498117,-73.580323
 52167,'52167','Sherbrooke / Bishop',45.498138,-73.580064
 52168,'52168','Beaubien / 25e Avenue',45.564471,-73.57818
@@ -1975,7 +1975,7 @@
 52206,'52206','Rachel / St-Denis',45.521934,-73.578107
 52208,'52208','Rachel / St-Denis',45.521647,-73.578217
 52209,'52209','St-Patrick / 3550',45.472788,-73.578811
-52211,'52211','St-Urbain / St-Cut (Hôp Hôtel-Dieu De Montréal)',45.514816,-73.578489
+52211,'52211','St-Urbain / St-Cut (Hôpital Hôtel-Dieu De Montréal)',45.514816,-73.578489
 52212,'52212','Rosemont / 17e Avenue',45.557329,-73.576984
 52213,'52213','Rosemont / 17e Avenue',45.557084,-73.576896
 52214,'52214','Masson / Molson',45.543975,-73.577304
@@ -2091,7 +2091,7 @@
 52331,'52331','René-Lévesque / Guy',45.493588,-73.575437
 52332,'52332','Beaubien / 35e Avenue',45.570162,-73.573223
 52333,'52333','Beaubien / 35e Avenue',45.569937,-73.573196
-52335,'52335','Université McGill (Sherbrooke / McGill College)',45.503519,-73.574773
+52335,'52335','Sherbrooke / McGill College (Université McGill)',45.503519,-73.574773
 52336,'52336','Peel / Maisonneuve (Peel)',45.500842,-73.574501
 52337,'52337','Maisonneuve / Peel (Peel)',45.501011,-73.574668
 52338,'52338','Peel / Maisonneuve (Peel)',45.500911,-73.574892
@@ -2231,7 +2231,7 @@
 52479,'52479','Parc-La-Fontaine / Roy',45.523025,-73.56862
 52480,'52480','St-Joseph / 9e Avenue',45.548466,-73.569042
 52481,'52481','St-Joseph / Henri-Valade',45.548138,-73.568953
-52482,'52482','Place Du Canada (René-Lévesque / Peel)',45.49864,-73.570024
+52482,'52482','René-Lévesque / Peel (Place Du Canada)',45.49864,-73.570024
 52483,'52483','René-Lévesque / Peel',45.499007,-73.570254
 52484,'52484','Peel / René-Lévesque',45.49882,-73.570589
 52486,'52486','St-Urbain / Sherbrooke',45.511156,-73.570261
@@ -2356,9 +2356,9 @@
 52624,'52624','Centre / Ropery',45.479697,-73.567217
 52625,'52625','Place Du Frère-André',45.503222,-73.566501
 52626,'52626','René-Lévesque / Beaver Hall',45.502845,-73.566273
-52627,'52627','Basilique St-Patrick (R-Lévesque / St-Alexandre)',45.503774,-73.565648
+52627,'52627','R-Lévesque / St-Alexandre (Basilique St-Patrick)',45.503774,-73.565648
 52628,'52628','St-Michel / Mont-Royal',45.548558,-73.565064
-52629,'52629','Cégep Du Vieux-Montréal (Ontario / Hôtel-De-Ville)',45.513858,-73.56601
+52629,'52629','Ontario / Hôtel-De-Ville (Cégep Du Vieux-Montréal)',45.513858,-73.56601
 52630,'52630','Ontario / Hôtel-De-Ville',45.513339,-73.565995
 52633,'52633','Charlevoix / Mullins',45.477208,-73.567215
 52634,'52634','Atateken / Sherbrooke',45.521335,-73.565363
@@ -2460,8 +2460,8 @@
 52740,'52740','Charlevoix / Coleraine',45.475476,-73.564063
 52741,'52741','Sherbrooke / Fullum',45.533888,-73.562156
 52742,'52742','Sherbrooke / Fullum',45.53346,-73.562049
-52743,'52743','École De Technologie Supérieure (Peel / Notre-Dame',45.49541,-73.562702
-52744,'52744','École De Technologie Supérieure (Peel / Notre-Dame',45.495443,-73.563276
+52743,'52743','Peel / Notre-Dame (École De Technologie Supérieure)',45.49541,-73.562702
+52744,'52744','Peel / Notre-Dame (École De Technologie Supérieure)',45.495443,-73.563276
 52745,'52745','René-Lévesque / St-Urbain',45.507905,-73.562609
 52746,'52746','St-Urbain / René-Lévesque',45.507755,-73.562849
 52748,'52748','Langelier / Beaubien',45.588475,-73.560248
@@ -2570,7 +2570,7 @@
 52866,'52866','Lacordaire / Pierre-Bédard',45.577738,-73.557016
 52867,'52867','Pierre-Bédard / Lacordaire',45.577692,-73.557433
 52868,'52868','Ontario / Dorion',45.527094,-73.558394
-52869,'52869','Parc Des Faubourgs (Ontario / Dorion)',45.526909,-73.55839
+52869,'52869','Ontario / Dorion (Parc Des Faubourgs)',45.526909,-73.55839
 52870,'52870','Wellington / Liverpool',45.476573,-73.559912
 52871,'52871','Parc-Marguerite-Bourgeoys',45.476303,-73.559907
 52872,'52872','Atateken / Maisonneuve',45.518126,-73.55837
@@ -2652,7 +2652,7 @@
 52950,'52950','Pie-IX / Sherbrooke (Coin Nord-Est)',45.554977,-73.555372
 52951,'52951','Pie-IX / Sherbrooke',45.554663,-73.555164
 52952,'52952','Valois / Sherbrooke',45.550586,-73.555218
-52953,'52953','Collège De Maisonneuve (Sherbrooke / V-Bourgeau)',45.550904,-73.554805
+52953,'52953','Sherbrooke / V-Bourgeau (Collège De Maisonneuve)',45.550904,-73.554805
 52954,'52954','René-Lévesque / St-André',45.515517,-73.555863
 52955,'52955','Sherbrooke / Pie-IX (Coin Sud-Est)',45.556173,-73.554189
 52956,'52956','Bourbonnière / Sherbrooke',45.551722,-73.554603
@@ -2667,7 +2667,7 @@
 52965,'52965','Ontario / Fullum',45.530308,-73.555118
 52966,'52966','Station Préfontaine (Nord)',45.541615,-73.55475
 52967,'52967','Station Préfontaine (Sud)',45.541735,-73.554434
-52968,'52968','Palais De Justice (Notre-Dame / St-Gabriel)',45.506808,-73.555286
+52968,'52968','Notre-Dame / St-Gabriel (Palais De Justice)',45.506808,-73.555286
 52969,'52969','Notre-Dame / St-Laurent',45.506058,-73.555686
 52971,'52971','Robert-Bourassa / Wellington',45.495653,-73.555969
 52973,'52973','Robert-Bourassa / Wellington',45.49648,-73.556099
@@ -2792,7 +2792,7 @@
 53106,'53106','Hochelaga / Letourneux',45.554886,-73.546846
 53107,'53107','Hochelaga / Letourneux',45.555022,-73.546464
 53108,'53108','Ontario / St-Germain',45.541817,-73.546964
-53109,'53109','Place Des Tisserandes (Ontario / St-Germain)',45.54158,-73.546974
+53109,'53109','Ontario / St-Germain (Place Des Tisserandes)',45.54158,-73.546974
 53110,'53110','Ste-Catherine / Dufresne',45.5282,-73.547079
 53111,'53111','Sherbrooke / 6082',45.578111,-73.545721
 53112,'53112','Havre / Maisonneuve',45.531278,-73.546645
@@ -2835,7 +2835,7 @@
 53151,'53151','Langelier / Sherbrooke (Langelier)',45.582722,-73.54256
 53152,'53152','Langelier / Sherbrooke (Langelier)',45.582747,-73.543536
 53153,'53153','Langelier / Sherbrooke (Langelier)',45.582544,-73.542723
-53154,'53154','Place Simon-Valois (Ontario / Valois)',45.547281,-73.543565
+53154,'53154','Ontario / Valois (Place Simon-Valois)',45.547281,-73.543565
 53155,'53155','Ontario / Valois',45.547411,-73.543343
 53156,'53156','87e Avenue / 4e Rue',45.669664,-73.540225
 53157,'53157','Pie-IX / 2050',45.550721,-73.54291
@@ -3350,7 +3350,7 @@
 53703,'53703','Monument Sir-George-Étienne-Cartier',45.514624,-73.584999
 53704,'53704','Sherbrooke / 4751',45.56083,-73.554615
 53705,'53705','Sherbrooke / 5600',45.57253,-73.54979
-53706,'53706','Pavillon Grace Dart (Sherbrooke / 6082)',45.578319,-73.545922
+53706,'53706','Sherbrooke / 6082 (Pavillon Grace Dart)',45.578319,-73.545922
 53707,'53707','René-Lévesque / 865',45.648812,-73.496064
 53708,'53708','René-Lévesque / Tricentenaire',45.649072,-73.49587
 53710,'53710','Tricentenaire / Joseph-D''Argent',45.651123,-73.499121
@@ -3370,7 +3370,7 @@
 53724,'53724','Terminus Nord (Honoré-Beaugrand)',45.597067,-73.536244
 53725,'53725','Terminus Nord (Honoré-Beaugrand)',45.597021,-73.536086
 53726,'53726','Sherbrooke / 5300',45.568858,-73.552291
-53727,'53727','SAAQ (Henri-Bourassa / 750)',45.542194,-73.676194
+53727,'53727','Henri-Bourassa / 750 (SAAQ)',45.542194,-73.676194
 53729,'53729','CLSC De L''Est-De-Montréal',45.666572,-73.494478
 53730,'53730','St-Jean-Baptiste / Place Pointe-Aux-Trembles',45.642311,-73.504163
 53731,'53731','Sherbrooke / Réal-Benoit',45.677112,-73.50244
@@ -3441,7 +3441,7 @@
 53800,'53800','Gouin / Fréchette (Hôpital Du Sacré-Coeur)',45.533918,-73.716841
 53801,'53801','Prison De Bordeaux',45.546471,-73.690351
 53802,'53802','Prison De Bordeaux',45.546494,-73.690543
-53803,'53803','Gouin / Norwood (Hôp Notre-Dame-De-La-Merci)',45.547085,-73.686885
+53803,'53803','Gouin / Norwood (Hôpital Notre-Dame-De-La-Merci)',45.547085,-73.686885
 53804,'53804','Hôpital Notre-Dame-De-La-Merci',45.547143,-73.687014
 53805,'53805','Henri-Bourassa / Lambert',45.569669,-73.658995
 53806,'53806','Université Concordia / Campus Loyola',45.457857,-73.638935
@@ -3460,7 +3460,7 @@
 53819,'53819','Côte-Ste-Catherine / 3175 (Hôpital Ste-Justi',45.502739,-73.623894
 53821,'53821','Acadie / 10500',45.533587,-73.676771
 53822,'53822','Acadie / Persillier',45.534249,-73.674517
-53823,'53823','Marché Central (De L''Acadie / Crémazie)',45.5314,-73.649997
+53823,'53823','Acadie / Crémazie (Marché Central)',45.5314,-73.649997
 53825,'53825','St-Michel / William-Tremblay',45.547751,-73.5617
 53826,'53826','St-Michel / William-Tremblay',45.54767,-73.562118
 53827,'53827','Station Henri-Bourassa',45.556197,-73.667004
@@ -3479,7 +3479,7 @@
 53844,'53844','Haig / 2105',45.58054,-73.524829
 53845,'53845','René-Lévesque / Champlain',45.520834,-73.550582
 53846,'53846','Notre-Dame / Raoul-Jobin',45.695258,-73.487274
-53848,'53848','Collège Français (Fairmount / Esplanade)',45.521575,-73.596717
+53848,'53848','Fairmount / Esplanade (Collège Français)',45.521575,-73.596717
 53849,'53849','Louis-H-La Fontaine / Chénier',45.596172,-73.545809
 53850,'53850','Beaubien / Normanville',45.539379,-73.600213
 53851,'53851','Station Beaubien',45.535535,-73.604655
@@ -3538,8 +3538,8 @@
 53908,'53908','Gouin / 12050',45.685097,-73.52774
 53909,'53909','Gouin / 12050',45.685401,-73.527644
 53910,'53910','Gouin / 12140',45.687363,-73.526768
-53913,'53913','Collège St-Jean-Vianney (Gouin / 12630)',45.694346,-73.520837
-53914,'53914','Collège St-Jean-Vianney (Gouin / 12630)',45.694346,-73.520837
+53913,'53913','Gouin / 12630 (Collège St-Jean-Vianney)',45.694346,-73.520837
+53914,'53914','Gouin / 12630 (Collège St-Jean-Vianney)',45.694346,-73.520837
 53915,'53915','Gouin / 13200',45.698126,-73.511737
 53916,'53916','Gouin / 13200',45.698235,-73.511629
 53918,'53918','René-Lévesque / Union',45.502309,-73.56677
@@ -3607,7 +3607,7 @@
 53988,'53988','Viau / 3265 (Stade Saputo)',45.564019,-73.550718
 53989,'53989','Sherbrooke / Yves-Thériault',45.6792,-73.501701
 53990,'53990','François-Perrault / Michel-Ange',45.562348,-73.60248
-53992,'53992','Lac Aux Castors (Remembrance / 2000)',45.499445,-73.600504
+53992,'53992','Remembrance / 2000 (Lac Aux Castors)',45.499445,-73.600504
 53994,'53994','Honoré-Beaugrand / Fonteneau',45.598219,-73.54053
 53995,'53995','Honoré-Beaugrand / Fonteneau',45.598282,-73.541087
 53996,'53996','Chénier / Honoré-Beaugrand',45.598978,-73.543773
@@ -3627,7 +3627,7 @@
 54013,'54013','St-Denis / Gauchetière',45.512144,-73.557139
 54014,'54014','Station Beaubien',45.535092,-73.604959
 54015,'54015','Monkland / Coronation',45.459787,-73.636918
-54016,'54016','École Lucien-Pagé (Jarry / Centre Ste-Croix)',45.537404,-73.632344
+54016,'54016','Jarry / Centre Ste-Croix (École Lucien-Pagé)',45.537404,-73.632344
 54018,'54018','Station Charlevoix',45.478061,-73.569472
 54019,'54019','Sherbrooke / Champlain (Hôpital Notre-Dame)',45.526576,-73.564249
 54020,'54020','Gouin / Wood',45.511663,-73.751589
@@ -3653,7 +3653,7 @@
 54053,'54053','Perras / 6e Avenue',45.631142,-73.609243
 54054,'54054','Perras / 6e Avenue',45.631489,-73.6092
 54056,'54056','Gouin / 13300',45.69864,-73.509891
-54058,'54058','Aréna Howie-Morenz (Querbes / 8650)',45.534523,-73.643797
+54058,'54058','Querbes / 8650 (Aréna Howie-Morenz)',45.534523,-73.643797
 54059,'54059','Honoré-Beaugrand / Hochelaga',45.593434,-73.525248
 54060,'54060','Maurice-Duplessis / 54e Avenue',45.648984,-73.565189
 54061,'54061','Maurice-Duplessis / 54e Avenue',45.648624,-73.565397
@@ -3782,10 +3782,10 @@
 54217,'54217','Christophe-Colomb / Jarry',45.548067,-73.624313
 54218,'54218','Christophe-Colomb / Mistral',45.549206,-73.626872
 54219,'54219','Christophe-Colomb / Crémazie',45.55004,-73.628747
-54220,'54220','École Georges-Vanier (Jarry / 1205)',45.549042,-73.623335
+54220,'54220','Jarry / 1205 (École Georges-Vanier)',45.549042,-73.623335
 54221,'54221','Christophe-Colomb / Jarry',45.547758,-73.624133
 54222,'54222','Rousselot / Jarry',45.550954,-73.621384
-54223,'54223','Cégep Marie-Victorin (Marie-Victorin / 7000)',45.617516,-73.606562
+54223,'54223','Marie-Victorin / 7000 (Cégep Marie-Victorin)',45.617516,-73.606562
 54224,'54224','Paré / Mountain Sights',45.496883,-73.654303
 54225,'54225','Aréna Howie-Morenz',45.534367,-73.642827
 54226,'54226','Décarie / Cochrane',45.488427,-73.640474
@@ -3804,7 +3804,7 @@
 54240,'54240','Villeray / Garnier',45.54932,-73.61647
 54241,'54241','Henri-Bourassa / St-Jean-Baptiste',45.652065,-73.536536
 54242,'54242','Armand-Chaput / 11410',45.658242,-73.530096
-54243,'54243','Centre Rivière-Des-Prairies (A-Chaput / 11900)',45.662139,-73.533038
+54243,'54243','A-Chaput / 11900 (Centre Rivière-Des-Prairies)',45.662139,-73.533038
 54244,'54244','Centre De Détention Rivière-Des-Prairies',45.661865,-73.533097
 54245,'54245','Armand-Chaput / 11380',45.65709,-73.529395
 54246,'54246','Henri-Bourassa / St-Jean-Baptiste',45.652016,-73.537204
@@ -3888,11 +3888,11 @@
 54378,'54378','Notre-Dame / 15657',45.690631,-73.489079
 54379,'54379','Notre-Dame / 83e Avenue',45.690414,-73.488984
 54380,'54380','Sherbrooke / Stationnement Incitatif',45.668343,-73.505455
-54381,'54381','Cégep Marie-Victorin (Marie-Victorin / 7000)',45.618272,-73.607364
+54381,'54381','Marie-Victorin / 7000 (Cégep Marie-Victorin)',45.618272,-73.607364
 54382,'54382','Wellington / Robert-Bourassa',45.496418,-73.555722
 54383,'54383','81e Avenue / Forsyth',45.690067,-73.495603
 54384,'54384','81e Avenue / Victoria',45.689582,-73.492499
-54385,'54385','Collège Ahuntsic (St-Hubert / Legendre)',45.551375,-73.642686
+54385,'54385','St-Hubert / Legendre (Collège Ahuntsic)',45.551375,-73.642686
 54386,'54386','81e Avenue / Notre-Dame',45.689196,-73.489987
 54389,'54389','Collège De Bois-De-Boulogne',45.538858,-73.677829
 54391,'54391','Esplanade / Guizot',45.536617,-73.635172
@@ -3996,7 +3996,7 @@
 54502,'54502','Place Marien / Brault Et Martineau Nord',45.643753,-73.543024
 54503,'54503','Place Marien / Brault Et Martineau Sud',45.642695,-73.540936
 54504,'54504','Place Marien Nord',45.646767,-73.54317
-54505,'54505','Place Marien (Nord)',45.646717,-73.543385
+54505,'54505','Place Marien Nord',45.646717,-73.543385
 54506,'54506','Place Marien / 8381',45.641896,-73.539173
 54507,'54507','Place Marien / 8201',45.643555,-73.536896
 54508,'54508','Marien / 8201',45.643362,-73.53724
@@ -4829,7 +4829,7 @@
 55385,'55385','Henri-Bourassa / Guénette',45.506412,-73.738876
 55386,'55386','Guénette / Henri-Bourassa',45.50632,-73.738416
 55387,'55387','Thimens / Cousens',45.502893,-73.736642
-55388,'55388','Centre De Transport St-Laurent (Thimens / Cousens)',45.50245,-73.735952
+55388,'55388','Thimens / Cousens (Centre De Transport St-Laurent)',45.50245,-73.735952
 55389,'55389','Cousens / Thimens',45.502204,-73.737934
 55390,'55390','Toupin / Heureux',45.522042,-73.733118
 55391,'55391','Toupin / Heureux',45.522086,-73.733526
@@ -5083,7 +5083,7 @@
 55652,'55652','Muir / Deguire',45.526117,-73.68061
 55653,'55653','Église / Buchanan',45.509291,-73.681462
 55654,'55654','Église / Buchanan',45.509034,-73.681578
-55655,'55655','Passerelle Isabey-Darnley (Côte-De-Liesse / Isabey)',45.491644,-73.681548
+55655,'55655','Côte-De-Liesse / Isabey (Passerelle Isabey-Darnley)',45.491644,-73.681548
 55656,'55656','Transcanadienne / Ward',45.49523,-73.682205
 55657,'55657','O''Brien / Côte-Vertu',45.516078,-73.681267
 55658,'55658','Décarie / Decelles',45.51281,-73.680315
@@ -5220,11 +5220,11 @@
 55793,'55793','Toupin / Marcel',45.517073,-73.725225
 55795,'55795','Muir / Robertson',45.524125,-73.673151
 55796,'55796','Muir / Montpellier',45.520445,-73.671744
-55797,'55797','Bibliothèque Du Boisé (Thimens / Todd)',45.503989,-73.704437
-55798,'55798','Bibliothèque Du Boisé (Thimens / Todd)',45.503644,-73.704445
+55797,'55797','Thimens / Todd (Bibliothèque Du Boisé)',45.503989,-73.704437
+55798,'55798','Thimens / Todd (Bibliothèque Du Boisé)',45.503644,-73.704445
 55799,'55799','Poirier / Thimens',45.494339,-73.724458
 55800,'55800','Thimens / Pomba',45.493922,-73.719813
-55801,'55801','Place Vertu; Entrée Sud-Est (Côte-Vertu / 3131)',45.497618,-73.70386
+55801,'55801','Côte-Vertu / 3131 (Place Vertu; Entrée Sud-Est)',45.497618,-73.70386
 55802,'55802','Côte-Vertu / Bourgoin',45.504495,-73.695237
 55803,'55803','Côte-Vertu / Crevier',45.511958,-73.685861
 55804,'55804','Henri-Bourassa / 5700',45.517246,-73.716236
@@ -5259,10 +5259,10 @@
 55835,'55835','Hymus / 1300',45.486459,-73.768624
 55836,'55836','Hymus / 1300',45.486587,-73.768686
 55837,'55837','Cousens / 4600',45.50068,-73.739643
-55838,'55838','Centre De Transport St-Laurent (Guénette / Cousens',45.503434,-73.733651
+55838,'55838','Guénette / Cousens (Centre De Transport St-Laurent)',45.503434,-73.733651
 55840,'55840','Cartier / Ouimet (Du Collège)',45.50876,-73.672745
 55841,'55841','Ouimet / Cartier (Du Collège)',45.50887,-73.672314
-55842,'55842','Passerelle Barr (Côte-De-Liesse / 6600)',45.484346,-73.693021
+55842,'55842','Côte-De-Liesse / 6600 (Passerelle Barr)',45.484346,-73.693021
 55843,'55843','Côte-De-Liesse / 5805',45.495805,-73.678009
 55844,'55844','Côte-De-Liesse / 6400',45.486108,-73.690664
 55845,'55845','Montée De Liesse / 360',45.479221,-73.706831
@@ -5279,7 +5279,7 @@
 55857,'55857','Montée De Liesse / 180',45.475825,-73.701579
 55858,'55858','Montée De Liesse / 110',45.472949,-73.697529
 55859,'55859','Hickmore / 4675',45.470279,-73.696069
-55860,'55860','Passerelle Barr (Côte-De-Liesse / 6665)',45.484535,-73.693626
+55860,'55860','Côte-De-Liesse / 6665 (Passerelle Barr)',45.484535,-73.693626
 55861,'55861','McArthur / 350',45.485035,-73.702463
 55862,'55862','St-François / Donahue',45.487204,-73.738217
 55863,'55863','St-François / Donahue',45.486774,-73.738563
@@ -5306,7 +5306,7 @@
 55884,'55884','Guénette / Bois-Franc',45.502725,-73.732542
 55885,'55885','École St-Laurent',45.506451,-73.700877
 55886,'55886','Cavendish / Place Vertu',45.500952,-73.703787
-55887,'55887','Centre De Transport St-Laurent (Guénette / Cousens',45.503345,-73.73376
+55887,'55887','Guénette / Cousens (Centre De Transport St-Laurent)',45.503345,-73.73376
 55888,'55888','Guénette / Henri-Bourassa',45.506511,-73.738481
 55889,'55889','Transcanadienne / 8150',45.489074,-73.722526
 55890,'55890','Station Côte-Vertu',45.514565,-73.683454
@@ -5393,7 +5393,7 @@
 55993,'55993','Transcanadienne / 8555',45.491179,-73.733102
 55994,'55994','Lévy / 5030',45.49501,-73.737886
 55995,'55995','Transcanadienne / 8401',45.490813,-73.730827
-55996,'55996','Gare Du Ruisseau (Henri-Bourassa / Dutrisac)',45.528438,-73.692469
+55996,'55996','Henri-Bourassa / Dutrisac (Gare Du Ruisseau)',45.528438,-73.692469
 55997,'55997','Dutrisac / Henri-Bourassa',45.527969,-73.692354
 55998,'55998','Douglas-B-Floreani / Grass Valley',45.498279,-73.766017
 55999,'55999','Douglas-B-Floreani / Kieran',45.496105,-73.76237
@@ -5502,10 +5502,10 @@
 56107,'56107','Ferrier / Montview',45.49051,-73.66681
 56108,'56108','Ferrier / Montview',45.490493,-73.666644
 56109,'56109','Paré / 5530',45.492549,-73.659875
-56110,'56110','Passerelle Isabey-Darnley (Côte-De-Liesse / Isabey)',45.49114,-73.681411
+56110,'56110','Côte-De-Liesse / Isabey (Passerelle Isabey-Darnley)',45.49114,-73.681411
 56111,'56111','Rockland / Beaumont',45.520476,-73.627183
 56112,'56112','Rockland / Monmouth',45.520866,-73.628581
-56113,'56113','Parc Ernest-B-Jubien (Brittany / Russell)',45.520839,-73.652876
+56113,'56113','Brittany / Russell (Parc Ernest-B-Jubien)',45.520839,-73.652876
 56114,'56114','Côte-De-Liesse / Rockland',45.526438,-73.650719
 56115,'56115','Côte-De-Liesse / Parc Fleming',45.523606,-73.65237
 56116,'56116','Décarie / Côte-De-Liesse',45.502097,-73.667091
@@ -5526,8 +5526,8 @@
 56133,'56133','Graham / Regent',45.516669,-73.641285
 56134,'56134','Graham / Lombard',45.514589,-73.645509
 56135,'56135','Royalmount / Montview',45.491634,-73.669711
-56136,'56136','Gare Mont-Royal (Dunkirk / Cornwall)',45.516035,-73.643129
-56137,'56137','Parc Ernest-B-Jubien (Brittany / 30)',45.520971,-73.6528
+56136,'56136','Dunkirk / Cornwall (Gare Mont-Royal)',45.516035,-73.643129
+56137,'56137','Brittany / 30 (Parc Ernest-B-Jubien)',45.520971,-73.6528
 56138,'56138','Beaumont / Fleet',45.521515,-73.625135
 56139,'56139','Côte-De-Liesse / 5750',45.49414,-73.677605
 56140,'56140','Côte-De-Liesse / Décarie',45.505075,-73.664165
@@ -5619,7 +5619,7 @@
 56228,'56228','Claremont / Westmount',45.480003,-73.61161
 56229,'56229','The Boulevard / Lansdowne',45.485576,-73.612292
 56230,'56230','The Boulevard / Lansdowne',45.485377,-73.612356
-56231,'56231','Collège Marianopolis (Westmount / NDG)',45.480553,-73.611125
+56231,'56231','Westmount / NDG (Collège Marianopolis)',45.480553,-73.611125
 56232,'56232','Westmount / Claremont',45.480189,-73.611217
 56233,'56233','The Boulevard / Belmont',45.486426,-73.610866
 56234,'56234','The Boulevard / Belmont',45.486441,-73.61055
@@ -5687,7 +5687,7 @@
 56297,'56297','Atwater / Ste-Catherine (Atwater)',45.489262,-73.584235
 56300,'56300','Ste-Catherine / Atwater',45.489067,-73.584674
 56301,'56301','Station Atwater',45.489587,-73.584061
-56302,'56302','Place Alexis-Nihon (Ste-Catherine / 4026)',45.488618,-73.58546
+56302,'56302','Ste-Catherine / 4026 (Place Alexis-Nihon)',45.488618,-73.58546
 56303,'56303','Atwater / St-Antoine',45.485522,-73.580447
 56304,'56304','Atwater / St-Antoine',45.485585,-73.580821
 56305,'56305','St-Antoine / Greene',45.484019,-73.583019
@@ -5786,7 +5786,7 @@
 56403,'56403','Fleet / Randall',45.475879,-73.652756
 56404,'56404','Fleet / Randall',45.475654,-73.652713
 56405,'56405','Côte-St-Luc / Silverson',45.466712,-73.653005
-56406,'56406','Centre Côte St-Luc (Côte St-Luc / Coronation)',45.465832,-73.65336
+56406,'56406','Côte St-Luc / Coronation (Centre Côte St-Luc)',45.465832,-73.65336
 56407,'56407','Fleet / Pinedale',45.476934,-73.651793
 56408,'56408','Fleet / Pinedale',45.476701,-73.651768
 56409,'56409','Côte-St-Luc / Rosedale',45.46829,-73.651184
@@ -6061,7 +6061,7 @@
 56700,'56700','Île-Des-Soeurs / Berlioz',45.458786,-73.544023
 56701,'56701','LaSalle / 7105',45.4392,-73.580966
 56702,'56702','René-Lévesque / Levert',45.468277,-73.535333
-56703,'56703','Parc Hadley (Bannantyne / Stephens)',45.443904,-73.577364
+56703,'56703','Bannantyne / Stephens (Parc Hadley)',45.443904,-73.577364
 56704,'56704','LaSalle / Riverview',45.446562,-73.572765
 56705,'56705','LaSalle / Woodland',45.452576,-73.567598
 56706,'56706','LaSalle / Argyle',45.45285,-73.567617
@@ -6085,7 +6085,7 @@
 56726,'56726','Newman / 7475',45.440516,-73.620222
 56727,'56727','Trinitaires / Newman',45.447547,-73.608922
 56728,'56728','Shevchenko / Jean-Chevalier',45.431181,-73.615888
-56729,'56729','Carr Angrignon; Entrée Ouest (Senkus / 2350)',45.445074,-73.616489
+56729,'56729','Senkus / 2350 (Carr Angrignon; Entrée Ouest)',45.445074,-73.616489
 56730,'56730','St-Patrick / Lyette',45.431184,-73.665414
 56732,'56732','Bergevin / 318',45.430868,-73.654571
 56733,'56733','Bergevin / 318',45.430682,-73.65433
@@ -6252,7 +6252,7 @@
 56899,'56899','Newman / Lapierre',45.439661,-73.622194
 56900,'56900','Newman / Lapierre',45.439133,-73.622378
 56901,'56901','Cordner / Léger',45.444531,-73.625592
-56902,'56902','Bibliothèque L''Octogone (Dollard / Vérendrye',45.424332,-73.622902
+56902,'56902','Dollard / Vérendrye (Bibliothèque L''Octogone)',45.424332,-73.622902
 56903,'56903','Dollard / Vérendrye',45.423659,-73.622241
 56904,'56904','Senkus / 2480',45.448088,-73.623276
 56905,'56905','Senkus / Carrefour Angrignon',45.447011,-73.620461
@@ -6317,8 +6317,8 @@
 56966,'56966','Lapierre / Leclerc',45.435833,-73.609664
 56967,'56967','George / Gamelin',45.424196,-73.60982
 56968,'56968','Allard / Newman',45.448595,-73.608069
-56969,'56969','Carrefour Angrignon (Newman / 6767)',45.449752,-73.607727
-56970,'56970','Carrefour Angrignon (Newman / 6900)',45.449428,-73.607792
+56969,'56969','Newman / 6767 (Carrefour Angrignon)',45.449752,-73.607727
+56970,'56970','Newman / 6900 (Carrefour Angrignon)',45.449428,-73.607792
 56971,'56971','Bishop-Power / Champlain',45.428683,-73.60742
 56972,'56972','Champlain / Bishop-Power',45.428652,-73.609346
 56973,'56973','Bishop-Power / George',45.428308,-73.607216
@@ -6380,10 +6380,10 @@
 57030,'57030','35e Avenue / 39e Avenue',45.421217,-73.6151
 57033,'57033','Lapierre / Cordner',45.443603,-73.631318
 57034,'57034','Lapierre / Cordner',45.443294,-73.630988
-57035,'57035','Carr Angrignon; Entrée Ouest (Senkus / 2350)',45.446167,-73.618551
+57035,'57035','Senkus / 2350 (Carr Angrignon; Entrée Ouest)',45.446167,-73.618551
 57036,'57036','Cordner / Léger',45.444242,-73.625788
 57038,'57038','Airlie / Labatt',45.424079,-73.645603
-57039,'57039','Place Airlie (Airlie / 9189)',45.422056,-73.637675
+57039,'57039','Airlie / 9189 (Place Airlie)',45.422056,-73.637675
 57040,'57040','Champlain / 8398',45.424038,-73.616675
 57042,'57042','Cordner / 7213',45.445633,-73.623569
 57043,'57043','Shevchenko / Jean-Chevalier',45.430974,-73.616018
@@ -6423,14 +6423,14 @@
 57079,'57079','Bourdeau / Thierry',45.432839,-73.606059
 57080,'57080','Bourdeau / Lapierre',45.434472,-73.603484
 57081,'57081','Bourdeau / Shevchenko',45.430465,-73.609477
-57082,'57082','CLSC De LaSalle (Newman / 8550)',45.43157,-73.632405
+57082,'57082','Newman / 8550 (CLSC De LaSalle)',45.43157,-73.632405
 57083,'57083','90e Avenue / Newman',45.428955,-73.638628
 57085,'57085','Newman / Irwin',45.451591,-73.605961
 57086,'57086','Vérendrye / Melatti',45.432102,-73.60689
 57087,'57087','Bourdeau / 7675',45.431237,-73.608368
 57088,'57088','Lafleur / Chatelle',45.422263,-73.650972
-57089,'57089','Centre De Transport LaSalle (St-Patrick / 7770)',45.442156,-73.633709
-57090,'57090','Centre De Transport LaSalle (St-Patrick / 7770)',45.441988,-73.633975
+57089,'57089','St-Patrick / 7770 (Centre De Transport LaSalle)',45.442156,-73.633709
+57090,'57090','St-Patrick / 7770 (Centre De Transport LaSalle)',45.441988,-73.633975
 57091,'57091','LaSalle / Bélanger',45.422665,-73.655141
 57092,'57092','Champlain / 8700',45.418043,-73.622059
 57093,'57093','68e Avenue / Centrale',45.416693,-73.627299
@@ -6448,10 +6448,10 @@
 57105,'57105','Dollard / Chartrand',45.427581,-73.628849
 57106,'57106','Parc Des Sts-Anges',45.423974,-73.657008
 57107,'57107','Parc Des Sts-Anges',45.424018,-73.656848
-57108,'57108','Carr Angrignon; Entrée Est (Angrignon / 2221)',45.449002,-73.612799
-57109,'57109','Carr Angrignon; Entrée Nord (Angrignon / 2500)',45.449632,-73.617895
-57110,'57110','Carr Angrignon; Entrée Est (Angrignon / 2221)',45.449275,-73.61278
-57111,'57111','Carr Angrignon; Entrée Nord (Angrignon / 2500)',45.449933,-73.617537
+57108,'57108','Angrignon / 2221 (Carr Angrignon; Entrée Est)',45.449002,-73.612799
+57109,'57109','Angrignon / 2500 (Carr Angrignon; Entrée Nord)',45.449632,-73.617895
+57110,'57110','Angrignon / 2221 (Carr Angrignon; Entrée Est)',45.449275,-73.61278
+57111,'57111','Angrignon / 2500 (Carr Angrignon; Entrée Nord)',45.449933,-73.617537
 57112,'57112','Senkus / Cordner',45.447279,-73.621445
 57114,'57114','Norman / 435',45.448043,-73.666332
 57115,'57115','Croissant Claire / 1150',45.449597,-73.68164
@@ -6746,8 +6746,8 @@
 57417,'57417','Surrey / Pine Beach',45.452375,-73.765027
 57418,'57418','Carson / St-Louis',45.445172,-73.764454
 57419,'57419','Carson / St-Louis',45.44509,-73.764732
-57420,'57420','Gare Pine Beach (Cardinal / Westwood)',45.449833,-73.763392
-57421,'57421','Gare Pine Beach (Cardinal / Pine Beach)',45.449738,-73.763589
+57420,'57420','Cardinal / Westwood (Gare Pine Beach)',45.449833,-73.763392
+57421,'57421','Cardinal / Pine Beach (Gare Pine Beach)',45.449738,-73.763589
 57422,'57422','Gare Pine Beach',45.449243,-73.763963
 57423,'57423','Herron / Pine Beach',45.448682,-73.763299
 57424,'57424','Dawson / St-Louis',45.44181,-73.763376
@@ -6849,8 +6849,8 @@
 57525,'57525','Michel-Jasmin / O''Connell',45.453265,-73.735522
 57526,'57526','Côte-De-Liesse / 9551',45.470061,-73.712873
 57527,'57527','Côte-De-Liesse Nord / 12055',45.455223,-73.734342
-57528,'57528','École Dorval-Jean-XXIII (Dawson / 1301)',45.442045,-73.753699
-57529,'57529','École Dorval-Jean-XXIII (Dawson / 1301)',45.441984,-73.754118
+57528,'57528','Dawson / 1301 (École Dorval-Jean-XXIII)',45.442045,-73.753699
+57529,'57529','Dawson / 1301 (École Dorval-Jean-XXIII)',45.441984,-73.754118
 57530,'57530','55e Avenue / 920',45.447435,-73.720455
 57531,'57531','55e Avenue / 1177',45.450836,-73.721526
 57532,'57532','St-Régis / Deacon',45.484435,-73.788956
@@ -6864,7 +6864,7 @@
 57540,'57540','Terminus Dorval',45.448548,-73.742963
 57541,'57541','Bord-Du-Lac / McNicoll',45.440792,-73.724249
 57542,'57542','Côte-De-Liesse / 10525',45.464393,-73.720404
-57543,'57543','Bombardier (Côte-Vertu / 500)',45.474998,-73.729541
+57543,'57543','Côte-Vertu / 500 (Bombardier)',45.474998,-73.729541
 57544,'57544','Hymus / 1565',45.484422,-73.772866
 57545,'57545','Hymus / 1565',45.484287,-73.77345
 57546,'57546','Transcanadienne / 1865',45.485538,-73.782744
@@ -6936,8 +6936,8 @@
 57626,'57626','Inglewood / Rothbury',45.449879,-73.828548
 57627,'57627','Brunswick / Revcon',45.468378,-73.827859
 57628,'57628','Brunswick / Revcon',45.468062,-73.827962
-57629,'57629','École Félix-Leclerc (Inglewood / Ashington)',45.448661,-73.827347
-57630,'57630','École Félix-Leclerc (Inglewood / Ashington)',45.448801,-73.827602
+57629,'57629','Inglewood / Ashington (École Félix-Leclerc)',45.448661,-73.827347
+57630,'57630','Inglewood / Ashington (École Félix-Leclerc)',45.448801,-73.827602
 57631,'57631','Bord-Du-Lac / St-Jean-Baptiste',45.428735,-73.82735
 57632,'57632','Bord-Du-Lac / St-Jean-Baptiste',45.428655,-73.827393
 57633,'57633','Douglas-Shand / Heather',45.44589,-73.825359
@@ -6978,7 +6978,7 @@
 57668,'57668','St-Jean / Springdale',45.445525,-73.816578
 57669,'57669','Tecumseh / Labrosse',45.477761,-73.815215
 57670,'57670','Transcanadienne / Doyon',45.468309,-73.816239
-57671,'57671','École John-Rennie (Douglas-Shand / St-Jean)',45.449653,-73.816554
+57671,'57671','Douglas-Shand / St-Jean (École John-Rennie)',45.449653,-73.816554
 57672,'57672','Tecumseh / Labrosse',45.477659,-73.814956
 57673,'57673','Hymus / Hilary',45.463346,-73.813792
 57674,'57674','Hymus / Hilary',45.463146,-73.81392
@@ -7015,8 +7015,8 @@
 57705,'57705','Delmar / Hearne',45.466597,-73.802992
 57706,'57706','Delmar / Hearne',45.467008,-73.803412
 57707,'57707','Lakeview / Lakeshore',45.441286,-73.803724
-57708,'57708','Gare Pointe-Claire (Donegani / Ashgrove)',45.447823,-73.802582
-57709,'57709','Gare Pointe-Claire (Donegani / Ashgrove)',45.447745,-73.802237
+57708,'57708','Donegani / Ashgrove (Gare Pointe-Claire)',45.447823,-73.802582
+57709,'57709','Donegani / Ashgrove (Gare Pointe-Claire)',45.447745,-73.802237
 57710,'57710','Broadview / Braebrook',45.46166,-73.801454
 57711,'57711','Braebrook / Broadview',45.46182,-73.801543
 57712,'57712','Delmar / Canots',45.465071,-73.801738
@@ -7047,9 +7047,9 @@
 57737,'57737','Belmont / Baie-De-Valois',45.454042,-73.792523
 57738,'57738','Baie-De-Valois / Mount-Pleasant',45.451391,-73.791936
 57739,'57739','Baie-De-Valois / Mount-Pleasant',45.45155,-73.792122
-57740,'57740','Gare Valois (Donegani / Baie-De-Valois)',45.450044,-73.791571
-57741,'57741','Gare Valois (Donegani / Baie-De-Valois)',45.449774,-73.791799
-57742,'57742','Gare Valois (Donegani / Baie-De-Valois)',45.449915,-73.7914
+57740,'57740','Donegani / Baie-De-Valois (Gare Valois)',45.450044,-73.791571
+57741,'57741','Donegani / Baie-De-Valois (Gare Valois)',45.449774,-73.791799
+57742,'57742','Donegani / Baie-De-Valois (Gare Valois)',45.449915,-73.7914
 57743,'57743','Bord-Du-Lac / Baie-De-Valois',45.448366,-73.790894
 57744,'57744','Bord-Du-Lac / Baie-De-Valois',45.44826,-73.791334
 57745,'57745','Belmont / King',45.455306,-73.790004
@@ -7084,7 +7084,7 @@
 57775,'57775','Brunswick / 195',45.472235,-73.819801
 57776,'57776','Brunswick / Hewitt',45.474032,-73.816238
 57777,'57777','Brunswick / Hewitt',45.47417,-73.816394
-57778,'57778','École John-Rennie (Douglas-Shand / St-Jean)',45.449626,-73.816878
+57778,'57778','Douglas-Shand / St-Jean (École John-Rennie)',45.449626,-73.816878
 57779,'57779','Cardinal / Sources',45.450172,-73.781181
 57780,'57780','Stillview / Transcanadienne',45.45662,-73.839651
 57781,'57781','Sources / Avro',45.471677,-73.791079
@@ -7359,8 +7359,8 @@
 58062,'58062','Cherrier / Prés',45.48873,-73.875732
 58063,'58063','Cherrier / Prés',45.488491,-73.875917
 58064,'58064','Chevremont / Aimé-Lecavalier',45.492765,-73.878302
-58065,'58065','École Jacques-Bizard (De L''Église / 515)',45.488677,-73.881553
-58066,'58066','Centre Socioculturel (De L''Église / 490)',45.488332,-73.881275
+58065,'58065','Église / 515 (École Jacques-Bizard)',45.488677,-73.881553
+58066,'58066','Église / 490 (Centre Socioculturel)',45.488332,-73.881275
 58067,'58067','Gouin / Lavigne',45.47461,-73.874397
 58068,'58068','Gouin / Lavigne',45.474422,-73.874299
 58069,'58069','Pierrefonds / Richelieu',45.472958,-73.872711
@@ -7372,7 +7372,7 @@
 58075,'58075','Pierrefonds / Richelieu',45.472574,-73.872618
 58076,'58076','Gouin / 16407',45.476401,-73.874216
 58077,'58077','Gouin / 16407',45.476403,-73.874324
-58078,'58078','Cégep Gérald-Godin (Gouin / Pont)',45.483204,-73.867483
+58078,'58078','Gouin / Pont (Cégep Gérald-Godin)',45.483204,-73.867483
 58079,'58079','Gouin / 16180',45.478319,-73.873307
 58080,'58080','Gouin / 15905',45.480717,-73.870072
 58081,'58081','Cégep Gérald-Godin',45.483148,-73.867095
@@ -7504,7 +7504,7 @@
 58208,'58208','Gare Roxboro-Pierrefonds',45.510786,-73.814213
 58209,'58209','Gouin / Dollard',45.506185,-73.791879
 58210,'58210','Gouin / Deslauriers',45.505359,-73.78791
-58211,'58211','Gare Sunnybrooke (Gouin / Lucerne)',45.504941,-73.785897
+58211,'58211','Gouin / Lucerne (Gare Sunnybrooke)',45.504941,-73.785897
 58212,'58212','Gouin / Robitaille',45.504129,-73.7818
 58213,'58213','Gouin / Alexander',45.504439,-73.778766
 58214,'58214','Gouin / Alexander',45.50423,-73.779003
@@ -7528,7 +7528,7 @@
 58232,'58232','Pierrefonds / Château-Pierrefonds',45.45978,-73.892371
 58233,'58233','Château-Pierrefonds',45.459714,-73.892973
 58234,'58234','Gouin / Aumais',45.489815,-73.857615
-58235,'58235','Gare Sunnybrooke (Gouin / Sunnybrooke)',45.504598,-73.785018
+58235,'58235','Gouin / Sunnybrooke (Gare Sunnybrooke)',45.504598,-73.785018
 58236,'58236','Pierrefonds / Esther-Blondin',45.485235,-73.857917
 58237,'58237','Pierrefonds / Esther-Blondin',45.485448,-73.858041
 58238,'58238','Pierrefonds / Riva-Bella',45.461343,-73.888313
@@ -7760,15 +7760,15 @@
 58478,'58478','Beaconsfield / Hyde Park',45.429327,-73.838925
 58479,'58479','Lakeshore / Beaconsfield',45.42823,-73.834053
 58480,'58480','Beaconsfield / Lakeshore',45.428125,-73.834325
-58481,'58481','Gare Beaconsfield (St-Charles / Amherst)',45.435916,-73.847404
+58481,'58481','St-Charles / Amherst (Gare Beaconsfield)',45.435916,-73.847404
 58482,'58482','Gare Beaconsfield',45.435707,-73.847693
 58483,'58483','Gare Beaconsfield',45.435127,-73.847964
 58484,'58484','Gare Beaconsfield',45.435258,-73.847893
 58485,'58485','Gare Beaconsfield',45.434737,-73.848722
 58486,'58486','Beaconsfield / Redfern',45.416779,-73.893218
 58487,'58487','Montrose / Ste-Marie',45.441727,-73.87503
-58488,'58488','Gare Beaurepaire (Sortie 45 / Woodland)',45.427216,-73.885288
-58489,'58489','Gare Beaurepaire (Sortie 45 / Woodland)',45.426719,-73.885543
+58488,'58488','Sortie 45 / Woodland (Gare Beaurepaire)',45.427216,-73.885288
+58489,'58489','Sortie 45 / Woodland (Gare Beaurepaire)',45.426719,-73.885543
 58490,'58490','Beaconsfield / Hyde Park',45.429394,-73.838857
 58491,'58491','Gare Beaconsfield',45.435176,-73.847775
 58493,'58493','Gare Beaconsfield',45.435216,-73.848049
@@ -7837,7 +7837,7 @@
 58561,'58561','Ste-Anne / Christie',45.403873,-73.95264
 58562,'58562','Ste-Anne / Garden City',45.411163,-73.951798
 58563,'58563','Ste-Anne / Garden City',45.410402,-73.952566
-58564,'58564','Gare Ste-Anne-De-Bellevue (Garden City / Pacifi',45.407725,-73.951682
+58564,'58564','Garden City / Pacifi (Gare Ste-Anne-De-Bellevue)',45.407725,-73.951682
 58565,'58565','Ste-Anne / Lalonde',45.403161,-73.950084
 58566,'58566','Ste-Anne / Terminus Macdonald',45.403021,-73.942911
 58567,'58567','Ste-Anne / Maple',45.402747,-73.944197
@@ -8058,7 +8058,7 @@
 60500,'60500','Elmslie / Luno',45.43713,-73.643221
 60502,'60502','Elmslie / Luno',45.437249,-73.643345
 60503,'60503','Victoria / 10e Avenue',45.437448,-73.672168
-60504,'60504','Centre De Transport St-Laurent (Guénette / Cousens',45.50353,-73.734047
+60504,'60504','Guénette / Cousens (Centre De Transport St-Laurent)',45.50353,-73.734047
 60505,'60505','St-Michel / Henri-Bourassa',45.583953,-73.650596
 60506,'60506','Grandes-Prairies / Lionel-Groulx',45.586411,-73.621392
 60507,'60507','Marie-Victorin / Albert-Hudon',45.615616,-73.609878
@@ -8071,8 +8071,8 @@
 60520,'60520','St-Jean-Baptiste / 12301',45.664385,-73.545535
 60527,'60527','Notre-Dame / Côte-St-Paul',45.469432,-73.5929
 60528,'60528','Côte-St-Paul / Ste-Marie',45.468652,-73.59362
-60532,'60532','Centre Gadbois (Côte-St-Paul / 5485)',45.465988,-73.595613
-60533,'60533','Centre Gadbois (Côte-St-Paul / 5485)',45.465889,-73.595784
+60532,'60532','Côte-St-Paul / 5485 (Centre Gadbois)',45.465988,-73.595613
+60533,'60533','Côte-St-Paul / 5485 (Centre Gadbois)',45.465889,-73.595784
 60534,'60534','Maywood / Donegani',45.445165,-73.811449
 60535,'60535','Donegani / Maywood',45.445138,-73.811157
 60536,'60536','St-Jean / Harry-Worth',45.489057,-73.85028
@@ -8187,7 +8187,7 @@
 60716,'60716','Commune / McGill',45.499129,-73.552799
 60717,'60717','Commune / Callière',45.502247,-73.553746
 60718,'60718','Commune / St-Jean-Baptiste',45.505578,-73.552997
-60719,'60719','Place Jacques-Cartier (De La Commune / J-Cartier)',45.507067,-73.552122
+60719,'60719','Commune / J-Cartier (Place Jacques-Cartier)',45.507067,-73.552122
 60720,'60720','Commune / Bonsecours',45.509469,-73.550817
 60726,'60726','St-Laurent / Commune',45.505351,-73.55338
 60728,'60728','Commune / Youville',45.502957,-73.553972
@@ -8195,7 +8195,7 @@
 60735,'60735','Clément-Ader / André-Ampère',45.635308,-73.592341
 60745,'60745','Robert-Bourassa / Gauchetière',45.500737,-73.565527
 60747,'60747','Campus Bell',45.472017,-73.539145
-60748,'60748','Campus Bell (De La Pointe-Nord / J-Le Ber)',45.472314,-73.540057
+60748,'60748','Pointe-Nord / J-Le Ber (Campus Bell)',45.472314,-73.540057
 60771,'60771','Station St-Michel (Est)',45.559717,-73.599689
 60797,'60797','Acadie / Salaberry',45.540885,-73.696431
 60799,'60799','Ste-Marie / 19925',45.434677,-73.903466
@@ -8322,8 +8322,8 @@
 61139,'61139','Hyman / Davignon',45.492872,-73.796064
 61141,'61141','Hyman / Forest',45.494976,-73.793644
 61142,'61142','Hyman / Maisonneuve',45.495711,-73.789807
-61143,'61143','Gare Sunnybrooke (Sunnybrooke / Gouin)',45.504515,-73.786176
-61144,'61144','Gare Sunnybrooke (Gouin / Sunnybrooke)',45.504448,-73.786551
+61143,'61143','Sunnybrooke / Gouin (Gare Sunnybrooke)',45.504515,-73.786176
+61144,'61144','Gouin / Sunnybrooke (Gare Sunnybrooke)',45.504448,-73.786551
 61145,'61145','Sunnybrooke / Cérès',45.502665,-73.787241
 61148,'61148','Hyman / Forest',45.495208,-73.793462
 61149,'61149','Hyman / Davignon',45.493173,-73.795915
@@ -8421,17 +8421,17 @@
 61553,'61553','Villeray / 20e Avenue',45.567274,-73.59831
 61554,'61554','Marc-Cantin / Fernand-Seguin',45.480673,-73.543235
 61555,'61555','Marc-Cantin / Studios MELS',45.478286,-73.544397
-61556,'61556','Stade De Soccer De Montréal (Papineau / Lecocq)',45.561864,-73.638326
+61556,'61556','Papineau / Lecocq (Stade De Soccer De Montréal)',45.561864,-73.638326
 61562,'61562','Gaétan-Laberge / Gilberte-Dubé',45.470171,-73.562332
 61563,'61563','Gaétan-Laberge / Rhéaume',45.467863,-73.562953
 61564,'61564','Station De L''Église',45.462797,-73.566297
 61566,'61566','Gaétan-Laberge / Église',45.46342,-73.562548
-61567,'61567','Gaétan-Laberge / Hickson (Hôp De Verdun)',45.46506,-73.562715
-61568,'61568','Stade Ronald-Piché (Gaétan-Laberge / 3750)',45.466602,-73.562308
+61567,'61567','Gaétan-Laberge / Hickson (Hôpital De Verdun)',45.46506,-73.562715
+61568,'61568','Gaétan-Laberge / 3750 (Stade Ronald-Piché)',45.466602,-73.562308
 61569,'61569','Gaétan-Laberge / Rhéaume',45.467701,-73.562688
 61570,'61570','Gaétan-Laberge / Gilberte-Dubé',45.470078,-73.562124
-61571,'61571','Stade Ronald-Piché (Gaétan-Laberge / 3750)',45.465917,-73.562548
-61572,'61572','Gaétan-Laberge / Hickson (Hôp De Verdun)',45.464875,-73.562979
+61571,'61571','Gaétan-Laberge / 3750 (Stade Ronald-Piché)',45.465917,-73.562548
+61572,'61572','Gaétan-Laberge / Hickson (Hôpital De Verdun)',45.464875,-73.562979
 61573,'61573','St-Louis / Gohier (Du Collège)',45.50727,-73.673282
 61578,'61578','Fairview / Brunswick',45.462679,-73.837396
 61579,'61579','Rosemont / Chambord',45.537208,-73.592789
@@ -8466,7 +8466,7 @@
 61626,'61626','YUL Aéroport Montréal-Trudeau',45.456377,-73.751613
 61627,'61627','Jarry / Bordeaux',45.555144,-73.617419
 61628,'61628','SRB Pie-IX / Amos',45.594785,-73.641492
-61629,'61629','Gare Bois-Franc (Laurentien / 11800)',45.523594,-73.709974
+61629,'61629','Laurentien / 11800 (Gare Bois-Franc)',45.523594,-73.709974
 61630,'61630','Cavendish / Outardes',45.511062,-73.718818
 61631,'61631','Cavendish / Ernest-Hemingway',45.508132,-73.716027
 61632,'61632','Cavendish / Poirier',45.505425,-73.71167
@@ -8475,11 +8475,11 @@
 61635,'61635','Cavendish / Outardes',45.510817,-73.718553
 61638,'61638','Maurice-Duplessis / St-Jean-Baptiste',45.659542,-73.541353
 61640,'61640','Notre-Dame / Gadbois',45.468091,-73.596907
-61641,'61641','École James-Lyng (Notre-Dame / Carillon)',45.468311,-73.596731
+61641,'61641','Notre-Dame / Carillon (École James-Lyng)',45.468311,-73.596731
 61643,'61643','Couture / Léonard',45.604046,-73.599361
 61644,'61644','Couture / Léonard',45.604498,-73.598815
-61647,'61647','Gare Du Canal (St-Joseph / Victoria)',45.43859,-73.656423
-61648,'61648','Gare Du Canal (St-Joseph / Victoria)',45.438725,-73.656361
+61647,'61647','St-Joseph / Victoria (Gare Du Canal)',45.43859,-73.656423
+61648,'61648','St-Joseph / Victoria (Gare Du Canal)',45.438725,-73.656361
 61651,'61651','Caisse / Rushbrooke (LaSalle)',45.470685,-73.565992
 61653,'61653','Station Rosemont',45.531182,-73.597503
 61654,'61654','Station Côte-Vertu',45.514253,-73.683583
