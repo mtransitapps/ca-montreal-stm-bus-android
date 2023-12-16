@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <string name="rss_authority">org.mtransit.android.debug.ca_montreal_stm_bus.news.rss</string>
-</resources>
