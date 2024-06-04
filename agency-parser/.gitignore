@@ -1,0 +1,38 @@
+# ORIGINAL FILE: https://github.com/mtransitapps/commons/tree/master/shared-opt-dir/agency-parser
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see https://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/bin/
+/build/
+/input/
+/output/
+
+# IntelliJ
+*.iml
+
+# Shared files
+/build.gradle
+/download.sh
+/download_openssl_allow_tls1_0.cnf
+/force_single_thread_off.sh
+/force_single_thread_on.sh
+/list_change.sh
+/lookup_agency.sh
+/lookup_file.sh
+/lookup_frequencies.sh
+/lookup_routes.sh
+/lookup_stops.sh
+/lookup_stop_times.sh
+/lookup_trips.sh
+/parse_current.sh
+/parse_next.sh
+/unzip_gtfs.sh
