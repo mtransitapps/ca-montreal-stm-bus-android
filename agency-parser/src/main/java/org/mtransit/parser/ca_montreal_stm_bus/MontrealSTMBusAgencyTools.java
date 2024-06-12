@@ -24,6 +24,7 @@ import static org.mtransit.commons.RegexUtils.or;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Cleaner;
 import org.mtransit.commons.RegexUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
@@ -130,15 +131,20 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean directionFinderEnabled() {
-		return true;
+		return true; // required to convert to Direction type & use cleanDirectionHeadsign() below
 	}
 
 	private static final Pattern STARTS_WITH_RSN_DASH_ = Pattern.compile("(^\\d+-)", Pattern.CASE_INSENSITIVE);
 
+	private static final Cleaner DIRECTION_DESTINATION_STREETS = new Cleaner(
+			group(group(oneOrMore(WORD_CAR)) + SPACE_ + maybe(group("destination" + SPACE_)) + group(oneOrMore(ANY)))
+	);
+
 	@NotNull
 	@Override
-	public String cleanDirectionHeadsign(boolean fromStopName, @NotNull String directionHeadSign) {
+	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
 		directionHeadSign = STARTS_WITH_RSN_DASH_.matcher(directionHeadSign).replaceAll(EMPTY); // keep E/W/N/S
+		directionHeadSign = DIRECTION_DESTINATION_STREETS.clean(directionHeadSign, mGroup(2)); // keep direction E/W/N/S
 		return directionHeadSign;
 	}
 
@@ -156,6 +162,7 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
 		tripHeadsign = STARTS_WITH_RSN_DASH_BOUND_.matcher(tripHeadsign).replaceAll(EMPTY); // E/W/N/W used for direction, not trip head-sign
+		tripHeadsign = DIRECTION_DESTINATION_STREETS.clean(tripHeadsign, mGroup(4)); // keep distinct trip head-sign
 		tripHeadsign = CleanUtils.toLowerCaseUpperCaseWords(Locale.FRENCH, tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypesFRCA(tripHeadsign);
 		return super.cleanTripHeadsign(tripHeadsign);
@@ -199,7 +206,7 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 		String[] words = stopName.split(SLASH);
 		for (String word : words) {
 			if (!resultSB.toString().contains(word.trim())) {
-				if (resultSB.length() > 0) {
+				if (!resultSB.isEmpty()) {
 					resultSB.append(SPACE_).append(SLASH).append(SPACE_);
 				}
 				resultSB.append(word.trim());
