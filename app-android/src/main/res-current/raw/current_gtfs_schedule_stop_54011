@@ -12,6 +12,6 @@
 '24M-H54M100F-81-F1',36202,254040,,'',1,8500,,'',2,8500,,'',1,4500,,'',1,8500,,'',1
 '24M-H54M200F-81-F2',36202,254040,,'',1,8500,,'',1,8500,,'',1,4500,,'',1,8500,,'',1
 '24M-H54M300F-80-F3',36202,254040,,'',1,8500,,'',2,8500,,'',1,4500,,'',1,8500,,'',1
-'24M-H54M000S-82-S',48702,55030,,'',1,6400,,'',2,1300,,'',2,1100,,'',2,1000,,'',2,990,,'',2,5000,,'',1,1000,,'',1,1700,,'',2,900,,'',2,900,,'',2,6200,,'',1,2200,,'',2,2100,,'',1,6200,,'',2
-'24M-H54M200F-81-F2',48702,55030,,'',1,7000,,'',2,3000,,'',2,6990,,'',1,3000,,'',1,7000,,'',2,3000,,'',1,7000,,'',1
-'24M-H57M000S-82-S',48702,72720,,'',2
+'24M-H54M000S-82-S',48702,55030,0,'via Notre-Dame / De Montigny',1,6400,0,'via Notre-Dame / De Montigny',2,1300,0,'via Notre-Dame / De Montigny',2,1100,0,'via Notre-Dame / De Montigny',2,1000,0,'via Notre-Dame / De Montigny',2,990,0,'via Notre-Dame / De Montigny',2,5000,0,'via Notre-Dame / De Montigny',1,1000,0,'via Notre-Dame / De Montigny',1,1700,0,'via Notre-Dame / De Montigny',2,900,0,'via Notre-Dame / De Montigny',2,900,0,'via Notre-Dame / De Montigny',2,6200,0,'via Notre-Dame / De Montigny',1,2200,0,'via Notre-Dame / De Montigny',2,2100,0,'via Notre-Dame / De Montigny',1,6200,0,'via Notre-Dame / De Montigny',2
+'24M-H54M200F-81-F2',48702,55030,0,'via Notre-Dame / De Montigny',1,7000,0,'via Notre-Dame / De Montigny',2,3000,0,'via Notre-Dame / De Montigny',2,6990,0,'via Notre-Dame / De Montigny',1,3000,0,'via Notre-Dame / De Montigny',1,7000,0,'via Notre-Dame / De Montigny',2,3000,0,'via Notre-Dame / De Montigny',1,7000,0,'via Notre-Dame / De Montigny',1
+'24M-H57M000S-82-S',48702,72720,0,'via Notre-Dame / De Montigny',2
