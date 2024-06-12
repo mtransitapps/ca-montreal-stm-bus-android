@@ -13,5 +13,5 @@
 '24M-H54M100F-81-F1',35301,262510,,'',1,8500,,'',2,4700,,'',1,8300,,'',2,8000,,'',1
 '24M-H54M200F-81-F2',35301,262510,,'',1,8500,,'',2,4700,,'',1,8300,,'',2,8000,,'',1
 '24M-H54M300F-80-F3',35301,262510,,'',2,8500,,'',1,4700,,'',1,8300,,'',1,8000,,'',2
-'24M-H54M000S-82-S',44801,152530,,'',1,3000,,'',1,7200,,'',1,1500,,'',1,1500,,'',2,5800,,'',1,2100,,'',2,2200,,'',2,5800,,'',2,1600,,'',1,1600,,'',1,6400,,'',2,2900,,'',2
-'24M-H54M200F-81-F2',44801,152530,,'',2,3000,,'',2,7200,,'',1,3000,,'',2,7000,,'',2,2900,,'',1,6900,,'',2,2300,,'',2,6400,,'',1,2900,,'',2
+'24M-H54M000S-82-S',44801,152530,0,'via Maurice-Duplessis',1,3000,0,'via Maurice-Duplessis',1,7200,0,'via Maurice-Duplessis',1,1500,0,'via Maurice-Duplessis',1,1500,0,'via Maurice-Duplessis',2,5800,0,'via Maurice-Duplessis',1,2100,0,'via Maurice-Duplessis',2,2200,0,'via Maurice-Duplessis',2,5800,0,'via Maurice-Duplessis',2,1600,0,'via Maurice-Duplessis',1,1600,0,'via Maurice-Duplessis',1,6400,0,'via Maurice-Duplessis',2,2900,0,'via Maurice-Duplessis',2
+'24M-H54M200F-81-F2',44801,152530,0,'via Maurice-Duplessis',2,3000,0,'via Maurice-Duplessis',2,7200,0,'via Maurice-Duplessis',1,3000,0,'via Maurice-Duplessis',2,7000,0,'via Maurice-Duplessis',2,2900,0,'via Maurice-Duplessis',1,6900,0,'via Maurice-Duplessis',2,2300,0,'via Maurice-Duplessis',2,6400,0,'via Maurice-Duplessis',1,2900,0,'via Maurice-Duplessis',2
