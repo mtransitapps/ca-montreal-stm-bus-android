@@ -20,6 +20,7 @@ hs_err_pid*
 *.iml
 
 # Shared files
+/archive.sh
 /build.gradle
 /download.sh
 /download_openssl_allow_tls1_0.cnf
