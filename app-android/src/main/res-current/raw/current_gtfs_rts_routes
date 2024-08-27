@@ -3,7 +3,6 @@
 12,'12','Île-Des-Soeurs','0060AA',1569,3
 13,'13','Christophe-Colomb','0060AA',1570,3
 14,'14','Atateken','0060AA',1571,3
-15,'15','Ste-Catherine','0060AA',1572,3
 16,'16','Graham','0060AA',1573,3
 17,'17','Décarie','0060AA',1574,3
 18,'18','Beaubien','781B7D',1575,3
@@ -23,6 +22,7 @@
 35,'35','Griffintown','0060AA',1634,3
 36,'36','Monk','0060AA',1635,3
 37,'37','Jolicoeur','0060AA',1636,3
+38,'38','Église','0060AA',1637,3
 39,'39','Grandes-Prairies','0060AA',1638,3
 40,'40','Henri-Bourassa-Est','0060AA',1660,3
 41,'41','St-Michel / Ahuntsic','0060AA',1661,3
@@ -33,12 +33,13 @@
 47,'47','Masson','0060AA',1667,3
 48,'48','Perras','781B7D',1668,3
 49,'49','Maurice-Duplessis','781B7D',1669,3
+50,'50','Vieux-Montréal / Vieux-Port','0060AA',1691,3
 51,'51','Édouard-Montpetit','781B7D',1692,3
 52,'52','Liège','0060AA',1693,3
 54,'54','Charland / Chabanel','0060AA',1695,3
 55,'55','St-Laurent','781B7D',1696,3
-57,'57','Pointe-St-Charles','0060AA',1698,3
-58,'58','Wellington','0060AA',1699,3
+56,'56','St-Hubert','0060AA',1697,3
+57,'57','Charlevoix','0060AA',1698,3
 61,'61','Wellington','0060AA',1723,3
 63,'63','Girouard','0060AA',1725,3
 64,'64','Grenet','781B7D',1726,3
@@ -47,12 +48,10 @@
 68,'68','Pierrefonds','0060AA',1730,3
 69,'69','Gouin','781B7D',1731,3
 70,'70','Bois-Franc','0060AA',1753,3
-71,'71','Centre','0060AA',1754,3
+71,'71','Pointe-St-Charles','0060AA',1754,3
 72,'72','Alfred-Nobel','0060AA',1755,3
 73,'73','Dalton','0060AA',1756,3
 74,'74','Bridge','0060AA',1757,3
-75,'75','Commune','0060AA',1758,3
-78,'78','Laurendeau','0060AA',1761,3
 80,'80','Parc','781B7D',1784,3
 81,'81','St-Jean-Baptiste','0060AA',1785,3
 85,'85','Hochelaga','0060AA',1789,3
@@ -73,18 +72,18 @@
 106,'106','Newman','781B7D',48631,3
 107,'107','Verdun','781B7D',48632,3
 108,'108','Bannantyne','0060AA',48633,3
-109,'109','Shevchenko','0060AA',48634,3
 110,'110','Centrale','0060AA',48656,3
 112,'112','Airlie','781B7D',48658,3
 113,'113','Lapierre','0060AA',48659,3
+114,'114','Angrignon','0060AA',48660,3
 115,'115','Paré','0060AA',48661,3
-116,'116','Lafleur / Norman','0060AA',48662,3
 117,'117','O''Brien','0060AA',48663,3
 119,'119','Rockland','0060AA',48665,3
 121,'121','Sauvé / Côte-Vertu','781B7D',48688,3
-123,'123','Dollard','0060AA',48690,3
+123,'123','Dollard / Shevchenko','0060AA',48690,3
 124,'124','Victoria','0060AA',48691,3
 125,'125','Ontario','0060AA',48692,3
+126,'126','Thimens / Grenet','0060AA',48693,3
 128,'128','St-Laurent','0060AA',48695,3
 129,'129','Côte-Ste-Catherine','0060AA',48696,3
 131,'131','Assomption','0060AA',48719,3
@@ -119,12 +118,13 @@
 187,'187','René-Lévesque','781B7D',48880,3
 188,'188','Couture','0060AA',48881,3
 189,'189','Notre-Dame','0060AA',48882,3
-191,'191','Broadway / Provost','0060AA',48905,3
+190,'190','Norman','0060AA',48904,3
 192,'192','Robert','0060AA',48906,3
 193,'193','Jarry','781B7D',48907,3
-195,'195','Sherbrooke / Notre-Dame','0060AA',48909,3
+195,'195','Dorval / Angrignon','0060AA',48909,3
 196,'196','Parc-Industriel-Lachine','781B7D',48910,3
 197,'197','Rosemont','781B7D',48911,3
+198,'198','Broadway','0060AA',48912,3
 200,'200','Ste-Anne-De-Bellevue','0060AA',49586,3
 201,'201','St-Charles / St-Jean','0060AA',49587,3
 202,'202','Dawson','0060AA',49588,3
@@ -170,7 +170,6 @@
 382,'382','Pierrefonds / St-Charles','000000',50797,3
 401,'401','St-Charles','007339',51509,3
 405,'405','Bord-Du-Lac','007339',51513,3
-406,'406','Newman','781B7D',51514,3
 407,'407','Île-Bizard','007339',51515,3
 409,'409','Sources','007339',51517,3
 410,'410','Notre-Dame','007339',51539,3
@@ -184,6 +183,7 @@
 432,'432','Lacordaire','007339',51603,3
 439,'439','Pie-IX','781B7D',51610,3
 440,'440','Charleroi','007339',51632,3
+444,'444','Cégep Marie-Victorin','007339',51636,3
 445,'445','Papineau','007339',51637,3
 448,'448','Maurice-Duplessis','007339',51640,3
 449,'449','Rivière-Des-Prairies','007339',51641,3
@@ -198,18 +198,14 @@
 485,'485','Antoine-Faucon','007339',51761,3
 486,'486','Sherbrooke','007339',51762,3
 487,'487','Bout-De-L''Île','007339',51763,3
-491,'491','Lachine','007339',51788,3
-495,'495','Lachine / LaSalle','007339',51792,3
+491,'491','Provost','007339',51788,3
 496,'496','Victoria','781B7D',51793,3
 711,'711','Parc-Du-Mont-Royal / Oratoire','0060AA',54423,3
-715,'715','Vieux-Montréal / Vieux-Port','0060AA',54427,3
 747,'747','YUL Aéroport / Centre-Ville','0060AA',54522,3
 767,'767','Ronde / Station Jean-Drapeau','0060AA',54584,3
-768,'768','Plage Jean-Doré / Station Jean-Drapeau','0060AA',54585,3
 769,'769','Ronde / Station Papineau','0060AA',54586,3
 777,'777','Jean-Drapeau / Casino / Bonaventure','0060AA',54615,3
 811,'811','Services Santé','0060AA',55384,3
 822,'822','Longue-Pointe','0060AA',55416,3
 872,'872','Île-Des-Soeurs','0060AA',55571,3
-874,'874','Robert-Bourassa','0060AA',55573,3
 968,'968','Trainbus Roxboro / Côte-Vertu','0060AA',56507,3
