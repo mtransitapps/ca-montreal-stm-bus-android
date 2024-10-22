@@ -23,7 +23,6 @@ hs_err_pid*
 /archive.sh
 /build.gradle
 /download.sh
-/download_openssl_allow_tls1_0.cnf
 /force_single_thread_off.sh
 /force_single_thread_on.sh
 /list_change.sh
@@ -36,4 +35,5 @@ hs_err_pid*
 /lookup_trips.sh
 /parse_current.sh
 /parse_next.sh
+/reset_schedule_changes.sh
 /unzip_gtfs.sh
