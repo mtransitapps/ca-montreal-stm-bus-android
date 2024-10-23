@@ -8,6 +8,11 @@
         <item>stm_nouvelles</item>
         <item>stm_Bus</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>54692326</item>
+        <item>329276626</item>
+        <item>2615264737</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_multi_detect</item>
         <item>@string/news_provider_language_unknown_show_all</item>
