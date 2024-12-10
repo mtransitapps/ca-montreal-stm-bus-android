@@ -1,6 +1,12 @@
 '24N-H54N100F-80-F1',35301,262530,,'',2,8500,,'',1,4700,,'',1,8300,,'',1,8000,,'',2
 '24N-H54N200F-80-F2',35301,262530,,'',1,8500,,'',1,4700,,'',1,8300,,'',2,8000,,'',1
+'24N-H54N300F-80-F3',35301,262530,,'',2,8500,,'',1,4700,,'',1,8300,,'',1,8000,,'',2
+'24N-H54N400F-80-F4',35301,262530,,'',1,8500,,'',1,4700,,'',1,8300,,'',2,8000,,'',1
 '24N-H54NV10A-80-A',35301,271330,,'',2,4500,,'',1,8500,,'',1,7900,,'',1
 '24N-H54NV10I-80-I',35301,262530,,'',2,8500,,'',1,4700,,'',1,8300,,'',1,8000,,'',2
 '24N-H54NV10S-80-S',35301,262600,,'',1,8500,,'',1,4500,,'',1,8500,,'',1,8100,,'',1
+'24N-H54NV20A-80-A',35301,271330,,'',2,4500,,'',1,8500,,'',1,7900,,'',1
+'24N-H54NV20I-80-I',35301,262530,,'',2,8500,,'',1,4700,,'',1,8300,,'',1,8000,,'',2
+'24N-H54NV20S-80-S',35301,262600,,'',1,8500,,'',1,4500,,'',1,8500,,'',1,8100,,'',1
 '24N-H54NV10S-80-S',44801,152600,0,'via Maurice-Duplessis',2,2800,0,'via Maurice-Duplessis',2,7200,0,'via Maurice-Duplessis',1,1700,0,'via Maurice-Duplessis',2,1500,0,'via Maurice-Duplessis',2,5800,0,'via Maurice-Duplessis',2,2100,0,'via Maurice-Duplessis',1,2200,0,'via Maurice-Duplessis',1,5800,0,'via Maurice-Duplessis',2,1600,0,'via Maurice-Duplessis',1,1600,0,'via Maurice-Duplessis',2,6400,0,'via Maurice-Duplessis',1,2900,0,'via Maurice-Duplessis',1
+'24N-H54NV20S-80-S',44801,152600,0,'via Maurice-Duplessis',2,2800,0,'via Maurice-Duplessis',2,7200,0,'via Maurice-Duplessis',1,1700,0,'via Maurice-Duplessis',2,1500,0,'via Maurice-Duplessis',2,5800,0,'via Maurice-Duplessis',2,2100,0,'via Maurice-Duplessis',1,2200,0,'via Maurice-Duplessis',1,5800,0,'via Maurice-Duplessis',2,1600,0,'via Maurice-Duplessis',1,1600,0,'via Maurice-Duplessis',2,6400,0,'via Maurice-Duplessis',1,2900,0,'via Maurice-Duplessis',1

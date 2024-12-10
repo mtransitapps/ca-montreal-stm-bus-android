@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="gtfs_rts_source_label">stm.info</string>
+    <string name="gtfs_rts_agency_id">STM</string>
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Montreal</string>
     <string name="gtfs_rts_color">009EE0</string>
