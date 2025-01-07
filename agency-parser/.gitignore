@@ -21,6 +21,7 @@ hs_err_pid*
 
 # Shared files
 /archive.sh
+/archive_selection.sh
 /build.gradle
 /download.sh
 /force_single_thread_off.sh
