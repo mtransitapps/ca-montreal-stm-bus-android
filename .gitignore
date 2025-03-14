@@ -146,6 +146,7 @@ dev.properties
 
 # Shared files
 /.idea/.name
+/.idea/AndroidProjectSystem.xml
 /.idea/bashsupport_project.xml
 /.idea/codeStyles/Project.xml
 /.idea/codeStyles/codeStyleConfig.xml
@@ -174,6 +175,7 @@ dev.properties
 /build.gradle
 /build.sh
 /dependency_update_apply.sh
+/dependency_update_baseline.sh
 /dependency_update_check.sh
 /dependency_update_commit_code_change.sh
 /dependency_update_push_commits.sh
