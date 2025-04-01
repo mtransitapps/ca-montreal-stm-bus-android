@@ -59,6 +59,14 @@ proguard/
 # Generated files
 /src/main/AndroidManifest.xml
 /src/main/play/contact-website.txt
+/src/main/play/listings/en-US/title.txt
+/src/main/play/listings/en-US/short-description.txt
+/src/main/play/listings/en-US/full-description.txt
+/src/main/play/listings/en-US/graphics/feature-graphic/1.png
+# /src/main/play/listings/en-US/graphics/icon/1.png # used in README.md
+/src/main/res/mipmap-*/module_app_icon.png
+/src/main/res/values/strings.xml
+/src/main/res/values/gtfs_rts_strings.xml
 
 # trigger change 1
 
