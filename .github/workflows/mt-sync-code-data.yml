@@ -4,9 +4,9 @@ on:
   workflow_dispatch: # manual
   schedule:
     - cron: '0 12 * * 2' # Tuesdays @ 12pm UTC # WEEKLY https://crontab.guru/#0_12_*_*_2
-# gh workflow run mt-sync-code-data.yml --ref mmathieum
+# gh workflow run mt-sync-code-data.yml --ref <branch>
 # gh run list --workflow=mt-sync-code-data.yml
-# gh run watch ; gh browse --branch mmathieum
+# gh run watch ; gh browse --branch <branch>
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -46,7 +46,6 @@ jobs:
       - name: MT check out main repository code (no submodules)
         uses: actions/checkout@v4
         with:
-          ref: mmathieum
           submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
           fetch-depth: 0 # fetch all (not required util release build)
@@ -91,8 +90,8 @@ jobs:
       # Tests are run in the main repo
       # - name: MT test
       #   run: ./test.sh
-      #   env:
-      #     MT_ENCRYPT_KEY: ${{ secrets.MT_ENCRYPT_KEY }}
+      # #   env:
+      # #     MT_ENCRYPT_KEY: ${{ secrets.MT_ENCRYPT_KEY }}
       # - name: MT artifact > unit tests XML results
       #   uses: actions/upload-artifact@v4
       #   if: ${{ !cancelled() }} # even if tests fails
