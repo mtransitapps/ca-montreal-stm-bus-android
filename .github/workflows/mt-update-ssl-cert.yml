@@ -3,7 +3,7 @@ on:
   workflow_dispatch: # manual
   schedule:
     - cron: '0 18 2 * *' # Monthly on the 2nd @ 6pm UTC # WEEKLY https://crontab.guru/#0_18_2_*_*
-# gh workflow run mt-update-ssl-cert.yml --ref mmathieum
+# gh workflow run mt-update-ssl-cert.yml --ref <branch>
 # gh run list --workflow=mt-update-ssl-cert.yml
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -22,7 +22,6 @@ jobs:
       - name: MT check out main repository code (with submodule)
         uses: actions/checkout@v4
         with:
-          ref: mmathieum
           submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
           fetch-depth: 0 # fetch all (not required util release build)

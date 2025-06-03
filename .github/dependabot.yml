@@ -6,7 +6,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    target-branch: "mmathieum"
+      day: "wednesday"
+      time: "16:00"
+      timezone: "America/Montreal"
     groups:
       gh-actions:
         patterns:
