@@ -38,7 +38,6 @@
 52,'52','Liège','0060AA',1693,3
 54,'54','Charland / Chabanel','0060AA',1695,3
 55,'55','St-Laurent','781B7D',1696,3
-56,'56','St-Hubert','0060AA',1697,3
 57,'57','Charlevoix','0060AA',1698,3
 61,'61','Wellington','0060AA',1723,3
 63,'63','Girouard','0060AA',1725,3
@@ -83,7 +82,6 @@
 123,'123','Dollard / Shevchenko','0060AA',48690,3
 124,'124','Victoria','0060AA',48691,3
 125,'125','Ontario','0060AA',48692,3
-126,'126','Thimens / Grenet','0060AA',48693,3
 128,'128','St-Laurent','0060AA',48695,3
 129,'129','Côte-Ste-Catherine','0060AA',48696,3
 131,'131','Assomption','0060AA',48719,3
@@ -183,7 +181,6 @@
 432,'432','Lacordaire','007339',51603,3
 439,'439','Pie-IX','781B7D',51610,3
 440,'440','Charleroi','007339',51632,3
-444,'444','Cégep Marie-Victorin','007339',51636,3
 445,'445','Papineau','007339',51637,3
 448,'448','Maurice-Duplessis','007339',51640,3
 449,'449','Rivière-Des-Prairies','007339',51641,3
@@ -200,10 +197,10 @@
 487,'487','Bout-De-L''Île','007339',51763,3
 491,'491','Provost','007339',51788,3
 496,'496','Victoria','781B7D',51793,3
-568,'568','Service Spécial REM Île-Des-Soeurs','0060AA',52663,3
 711,'711','Parc-Du-Mont-Royal / Oratoire','0060AA',54423,3
 747,'747','YUL Aéroport / Centre-Ville','0060AA',54522,3
 767,'767','Ronde / Station Jean-Drapeau','0060AA',54584,3
+768,'768','Plage Jean-Doré / Station Jean-Drapeau','0060AA',54585,3
 769,'769','Ronde / Station Papineau','0060AA',54586,3
 777,'777','Jean-Drapeau / Casino / Bonaventure','0060AA',54615,3
 811,'811','Services Santé','0060AA',55384,3
