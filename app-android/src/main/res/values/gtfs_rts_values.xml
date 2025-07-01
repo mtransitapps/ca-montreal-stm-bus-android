@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <integer name="gtfs_rts_db_version">20250624</integer>
+    <integer name="gtfs_rts_db_version">20250701</integer>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.stm.info/en/info/customer-service/contact-us</string>
     <string name="gtfs_rts_contact_us_fr">https://www.stm.info/fr/nous-joindre</string>
