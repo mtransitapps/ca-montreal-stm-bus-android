@@ -62,6 +62,7 @@
                 android:value="@string/stm_info_api_service_update_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
+        <!-- DISABLED: duplicates GTFS-RT alerts & other news sources
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
@@ -75,6 +76,7 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/twitter_target_for_poi_authority" />
         </provider>
+        -->
         <!-- RSS NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.RSSNewsProvider"

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">5</integer>
+    <integer name="twitter_db_version">6</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
-        <item>stminfo</item><!-- too many users? RSS available -->
-        <item>stm_nouvelles</item>
-        <item>stm_Bus</item>
+        <!-- <item>stminfo</item> --><!-- RSS available -->
+        <!-- <item>stm_nouvelles</item> --><!-- RSS available -->
+        <!-- <item>stm_Bus</item> --><!-- service update-->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>54692326</item>
