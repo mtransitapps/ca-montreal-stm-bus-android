@@ -47,13 +47,15 @@ jobs:
           echo "INFO_STM_API_PEM_FILE="app-android/src/main/res-cert/raw/info_stm_api_pem" >> "$GITHUB_ENV"
       - name: MT fetch latest SSL cert
         run: |
-          openssl s_client -connect stm.info:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > $INFO_STM_PEM_FILE
-          openssl s_client -connect api.stm.info:443 -legacy_server_connect 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > $INFO_STM_API_PEM_FILE
+          echo "INFO_STM_PEM_FILE=$INFO_STM_PEM_FILE"
+          echo "INFO_STM_API_PEM_FILE=$INFO_STM_API_PEM_FILE"
+          openssl s_client -connect stm.info:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > "$INFO_STM_PEM_FILE"
+          openssl s_client -connect api.stm.info:443 -legacy_server_connect 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > "$INFO_STM_API_PEM_FILE"
       - name: MT commit change
         if: env.MT_GIT_COMMIT_ENABLED == 'true'
         run: |
-          git -C app-android add $INFO_STM_PEM_FILE
-          git -C app-android add $INFO_STM_API_PEM_FILE
+          git -C app-android add "$INFO_STM_PEM_FILE"
+          git -C app-android add "$INFO_STM_API_PEM_FILE"
           git -C app-android  diff --staged --quiet || git -C app-android commit -m "CI: Update stm.info SSL cert"
           git -C app-android push
         env:
