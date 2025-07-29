@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
+    <!-- api.stm.info custom CA: used for custom provider -->
     <domain-config>
         <domain includeSubdomains="true">api.stm.info</domain>
         <trust-anchors>
@@ -7,12 +8,11 @@
             <certificates src="@raw/info_stm_api_pem" />
         </trust-anchors>
     </domain-config>
-    <!-- COMMONS-ANDROID: commons-android/src/main/res/xml/network_security_config.xml-->
-    <!-- stm.info custom CA: used by Module providers & Main app -->
+    <!-- stm.info custom CA: used for RSS... -->
     <domain-config>
         <domain includeSubdomains="true">stm.info</domain>
         <trust-anchors>
-            <!-- openssl s_client -connect stm.info:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > commons-android/src/main/res/raw/info_stm_pem -->
+            <!-- openssl s_client -connect stm.info:443 2>/dev/null </dev/null | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > app-android/src/main/res/raw/info_stm_pem -->
             <certificates src="@raw/info_stm_pem" />
         </trust-anchors>
     </domain-config>
