@@ -43,8 +43,8 @@ jobs:
         # Should update all <network-security-config> <trust-anchors> <certificates> in /app-android/src/main/res/xml/network_security_config.xml
       - name: MT files paths
         run: |
-          echo "INFO_STM_PEM_FILE="app-android/src/main/res-cert/raw/info_stm_pem" >> "$GITHUB_ENV"
-          echo "INFO_STM_API_PEM_FILE="app-android/src/main/res-cert/raw/info_stm_api_pem" >> "$GITHUB_ENV"
+          echo "INFO_STM_PEM_FILE=app-android/src/main/res-cert/raw/info_stm_pem" >> "$GITHUB_ENV"
+          echo "INFO_STM_API_PEM_FILE=app-android/src/main/res-cert/raw/info_stm_api_pem" >> "$GITHUB_ENV"
       - name: MT fetch latest SSL cert
         run: |
           echo "INFO_STM_PEM_FILE=$INFO_STM_PEM_FILE"

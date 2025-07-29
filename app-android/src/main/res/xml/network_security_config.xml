@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
+    <!-- trust-anchors certificates must be added to /.github/workflows/mt-update-ssl-cert.yml -->
     <!-- api.stm.info custom CA: used for custom provider -->
     <domain-config>
         <domain includeSubdomains="true">api.stm.info</domain>
