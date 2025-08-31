@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.stm.info/en/info/customer-service/contact-us</string>
     <string name="gtfs_rts_contact_us_fr">https://www.stm.info/fr/nous-joindre</string>
+    <string name="gtfs_rts_fares">https://www.stm.info/en/info/fares</string>
+    <string name="gtfs_rts_fares_fr">https://www.stm.info/fr/tarifs</string>
 </resources>
