@@ -31,7 +31,7 @@ import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
-import org.mtransit.parser.mt.data.MTrip;
+import org.mtransit.parser.mt.data.MDirection;
 
 import java.util.Collections;
 import java.util.List;
@@ -50,11 +50,6 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_FR_EN;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -152,7 +147,7 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Integer> getDirectionTypes() {
 		return Collections.singletonList(
-				MTrip.HEADSIGN_TYPE_DIRECTION
+				MDirection.HEADSIGN_TYPE_DIRECTION
 		);
 	}
 
@@ -206,7 +201,7 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 		String[] words = stopName.split(SLASH);
 		for (String word : words) {
 			if (!resultSB.toString().contains(word.trim())) {
-				if (!resultSB.isEmpty()) {
+				if (resultSB.length() > 0) {
 					resultSB.append(SPACE_).append(SLASH).append(SPACE_);
 				}
 				resultSB.append(word.trim());
