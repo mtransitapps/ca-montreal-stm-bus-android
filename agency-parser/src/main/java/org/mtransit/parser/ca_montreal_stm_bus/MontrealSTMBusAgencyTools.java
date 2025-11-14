@@ -88,14 +88,11 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern EXPRESS_ = CleanUtils.cleanWord("express");
 
-	private static final Pattern NAVETTE_ = CleanUtils.cleanWord("navette");
-
 	@NotNull
 	@Override
 	public String cleanRouteLongName(@NotNull String result) {
 		result = P1NUITP2.matcher(result).replaceAll(EMPTY);
 		result = EXPRESS_.matcher(result).replaceAll(SPACE_);
-		result = NAVETTE_.matcher(result).replaceAll(SPACE_);
 		result = RegexUtils.replaceAllNN(result.trim(), START_WITH_ST, EMPTY);
 		result = RegexUtils.replaceAllNN(result, SPACE_ST, CleanUtils.SPACE);
 		return CleanUtils.cleanLabelFR(result);
