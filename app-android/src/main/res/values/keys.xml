@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
     <string name="gtfs_real_time_agency_url_header_api_key_value">INSERT_AGENCY_REAL_TIME_URL_API_KEY_HERE</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url_cached">INSERT_AGENCY_REAL_TIME_CACHED_URL_HERE</string>
 </resources>
