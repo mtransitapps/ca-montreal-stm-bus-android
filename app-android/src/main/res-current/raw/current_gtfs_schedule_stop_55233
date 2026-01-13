@@ -1,10 +1,10 @@
-'26J-H54J000A-80-A',35302,251330,,'',1,4500,,'',1,8500,,'',1,8500,,'',1,8500,,'',1
-'26J-H54J000I-80-I',35302,251330,,'',1,4500,,'',1,8600,,'',1,8500,,'',1,8500,,'',1
-'26J-H54J000S-83-S',35302,251330,,'',1,4500,,'',1,8500,,'',1,8500,,'',1,8500,,'',1
-'26J-H54JV00A-80-A',35302,251330,,'',1,4500,,'',1,8500,,'',1,8500,,'',1,8500,,'',1
-'26J-H54JV00I-80-I',35302,251330,,'',1,4500,,'',1,8600,,'',1,8500,,'',1,8500,,'',1
-'26J-H54JV00S-80-S',35302,251330,,'',1,4500,,'',1,8500,,'',1,8500,,'',1,8500,,'',1
-'26J-H54J000S-83-S',43204,55810,,'',1,5900,,'',2,1900,,'',1,1300,,'',2,5320,,'',2,2000,,'',2,900,,'',1,2200,,'',2,5080,,'',1,1200,,'',1,2900,,'',2,7000,,'',1,2940,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3000,,'',1,7000,,'',1,3000,,'',1,6900,,'',1
-'26J-H54JV00S-80-S',43204,55810,,'',1,5900,,'',1,1900,,'',1,1300,,'',2,5320,,'',2,2000,,'',2,900,,'',1,2200,,'',1,5080,,'',1,1200,,'',1,2900,,'',2,7000,,'',1,2940,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3100,,'',1,7100,,'',1,3000,,'',1,7000,,'',1,3000,,'',1,6900,,'',1
-'26J-H59J000S-81-S',43204,71330,,'',2,2900,,'',2
-'26J-H59JV00S-83-S',43204,71330,,'',2,2900,,'',2
+'26J-H54J000A-80-A',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54J000I-80-I',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8600,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54J000S-83-S',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54JV00A-80-A',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54JV00I-80-I',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8600,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54JV00S-80-S',35302,251330,0,'Ouest',1,4500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1,8500,0,'Ouest',1
+'26J-H54J000S-83-S',43204,55810,0,'via  Perras / Lacordaire',1,5900,0,'via  Perras / Lacordaire',2,1900,0,'via  Perras / Lacordaire',1,1300,0,'via  Perras / Lacordaire',2,5320,0,'via  Perras / Lacordaire',2,2000,0,'via  Perras / Lacordaire',2,900,0,'via  Perras / Lacordaire',1,2200,0,'via  Perras / Lacordaire',2,5080,0,'via  Perras / Lacordaire',1,1200,0,'via  Perras / Lacordaire',1,2900,0,'via  Perras / Lacordaire',2,7000,0,'via  Perras / Lacordaire',1,2940,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3000,0,'via  Perras / Lacordaire',1,7000,0,'via  Perras / Lacordaire',1,3000,0,'via  Perras / Lacordaire',1,6900,0,'via  Perras / Lacordaire',1
+'26J-H54JV00S-80-S',43204,55810,0,'via  Perras / Lacordaire',1,5900,0,'via  Perras / Lacordaire',1,1900,0,'via  Perras / Lacordaire',1,1300,0,'via  Perras / Lacordaire',2,5320,0,'via  Perras / Lacordaire',2,2000,0,'via  Perras / Lacordaire',2,900,0,'via  Perras / Lacordaire',1,2200,0,'via  Perras / Lacordaire',1,5080,0,'via  Perras / Lacordaire',1,1200,0,'via  Perras / Lacordaire',1,2900,0,'via  Perras / Lacordaire',2,7000,0,'via  Perras / Lacordaire',1,2940,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3100,0,'via  Perras / Lacordaire',1,7100,0,'via  Perras / Lacordaire',1,3000,0,'via  Perras / Lacordaire',1,7000,0,'via  Perras / Lacordaire',1,3000,0,'via  Perras / Lacordaire',1,6900,0,'via  Perras / Lacordaire',1
+'26J-H59J000S-81-S',43204,71330,0,'via  Perras / Lacordaire',2,2900,0,'via  Perras / Lacordaire',2
+'26J-H59JV00S-83-S',43204,71330,0,'via  Perras / Lacordaire',2,2900,0,'via  Perras / Lacordaire',2
