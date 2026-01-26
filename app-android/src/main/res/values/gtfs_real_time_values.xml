@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="gtfs_real_time_db_version">1</integer>
+    <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
+    <bool name="gtfs_real_time_agency_ignore_direction">true</bool>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://api.stm.info/pub/od/gtfs-rt/ic/v2/vehiclePositions</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://api.stm.info/pub/od/gtfs-rt/ic/v2/tripUpdates</string>
+    <string-array name="gtfs_real_time_agency_url_header_names">
+        <item>apiKey</item>
+    </string-array>
+    <string-array name="gtfs_real_time_agency_url_header_values">
+        <item>@string/gtfs_real_time_agency_url_header_api_key_value</item>
+    </string-array>
+</resources>
