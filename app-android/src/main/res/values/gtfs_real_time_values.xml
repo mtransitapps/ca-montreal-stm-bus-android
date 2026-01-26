@@ -4,6 +4,7 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_agency_ignore_direction">true</bool>
     <string name="gtfs_real_time_agency_vehicle_positions_url">https://api.stm.info/pub/od/gtfs-rt/ic/v2/vehiclePositions</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://api.stm.info/pub/od/gtfs-rt/ic/v2/tripUpdates</string>
     <string-array name="gtfs_real_time_agency_url_header_names">
         <item>apiKey</item>
     </string-array>
