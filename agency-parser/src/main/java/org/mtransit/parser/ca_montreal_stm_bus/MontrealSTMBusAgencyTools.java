@@ -64,6 +64,12 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
 
+	@Nullable
+	@Override
+	public String getServiceIdCleanupRegex() {
+		return "(^\\d{2}[A-Z]-)"; // starts with YY + 1 Letter + dash // 26J-Globaux-01-I
+	}
+
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
@@ -132,9 +138,8 @@ public class MontrealSTMBusAgencyTools extends DefaultAgencyTools {
 			group(group(oneOrMore(WORD_CAR)) + SPACE_ + maybe(group("destination" + SPACE_)) + group(oneOrMore(ANY)))
 	);
 
-	@NotNull
 	@Override
-	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+	public @NotNull String cleanDirectionHeadsign(@Nullable GRoute gRoute, int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
 		directionHeadSign = STARTS_WITH_RSN_DASH_.matcher(directionHeadSign).replaceAll(EMPTY); // keep E/W/N/S
 		directionHeadSign = DIRECTION_DESTINATION_STREETS.clean(directionHeadSign, mGroup(2)); // keep direction E/W/N/S
 		return directionHeadSign;
