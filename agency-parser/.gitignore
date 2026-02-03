@@ -23,6 +23,7 @@ hs_err_pid*
 /archive.sh
 /archive_selection.sh
 /build.gradle
+/check_data_outdated.sh
 /download.sh
 /force_single_thread_off.sh
 /force_single_thread_on.sh
