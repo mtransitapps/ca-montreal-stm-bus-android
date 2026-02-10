@@ -2,7 +2,7 @@ name: MT update SSL cert
 on:
   workflow_dispatch: # manual
   schedule:
-    - cron: '0 18 2 * *' # Monthly on the 2nd @ 6pm UTC # WEEKLY https://crontab.guru/#0_18_2_*_*
+    - cron: '0 10 * * 2' # Tuesdays @ 12pm UTC # WEEKLY https://crontab.guru/#0_10_*_*_2
 # gh workflow run mt-update-ssl-cert.yml --ref <branch>
 # gh run list --workflow=mt-update-ssl-cert.yml
 concurrency:
