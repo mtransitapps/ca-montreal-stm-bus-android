@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-<<<<<<< mm/switch_to_gtfs_rt_trip_update
     <bool name="stm_info_api_status_provider">false</bool><!-- using GTFS-RT trip updates instead -->
     <bool name="stm_info_api_service_update_provider">true</bool>
     <string-array name="stm_info_api_url_header_names">
@@ -9,8 +8,4 @@
     <string-array name="stm_info_api_agency_url_header_values">
         <item>@string/gtfs_real_time_agency_url_header_api_key_value</item>
     </string-array>
-=======
-    <bool name="stm_info_api_status_provider">true</bool>
-    <bool name="stm_info_api_service_update_provider">true</bool>
->>>>>>> master
 </resources>
