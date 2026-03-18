@@ -3,5 +3,5 @@
     <string name="gtfs_real_time_agency_url_header_api_key_value">INSERT_AGENCY_REAL_TIME_URL_API_KEY_HERE</string>
     <string name="gtfs_real_time_agency_vehicle_positions_url_cached">INSERT_AGENCY_REAL_TIME_CACHED_URL_HERE</string>
     <string name="gtfs_real_time_agency_trip_updates_url_cached">INSERT_AGENCY_REAL_TIME_CACHED_URL_HERE</string>
-    <string name="stm_info_service_alerts_url">INSERT_STM_INFO_API_SERVICE_ALERTS_CACHED_URL</string>
+    <string name="stm_info_service_alerts_url_cached">INSERT_STM_INFO_API_SERVICE_ALERTS_CACHED_URL</string>
 </resources>
