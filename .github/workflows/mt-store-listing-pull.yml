@@ -2,6 +2,7 @@
 name: MT store listings > pull
 on:
   workflow_dispatch: # manual
+  pull_request: # DEBUG
 # gh workflow run mt-store-listing-pull.yml --ref $(git rev-parse --abbrev-ref HEAD)
 # gh run list --workflow=mt-store-listing-pull.yml
 # gh run watch ; gh browse --branch $(git rev-parse --abbrev-ref HEAD)
