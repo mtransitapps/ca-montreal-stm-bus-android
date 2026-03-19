@@ -41,7 +41,7 @@ env:
   MT_PUSH_STORE_OFF: ${{ secrets.MT_PUSH_STORE_OFF }}
 jobs:
   MT-STORE-LISTING-PUSH-JOB:
-    if: ${{ github.ref_name == github.event.repository.default_branch || github.event.inputs.allowNonDefault == 'true' }}
+    # if: ${{ github.ref_name == github.event.repository.default_branch || github.event.inputs.allowNonDefault == 'true' }}
     name: "MT Store Listing > Push"
     timeout-minutes: 20
     runs-on: ubuntu-latest
