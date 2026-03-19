@@ -34,11 +34,12 @@ jobs:
     timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
-      - name: MT check out main repository code
+      - name: MT check out main repository code (with submodules)
         uses: actions/checkout@v6
         with:
+          submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
-          submodules: true # required to set right token # on pull_request trigger only?
+          fetch-depth: 0 # fetch all (not required util release build)
 
       - name: MT setup
         uses: ./.github/actions/setup
