@@ -2,7 +2,6 @@
 name: MT store listings > pull
 on:
   workflow_dispatch: # manual
-  pull_request: # DEBUG
 # gh workflow run mt-store-listing-pull.yml --ref $(git rev-parse --abbrev-ref HEAD)
 # gh run list --workflow=mt-store-listing-pull.yml
 # gh run watch ; gh browse --branch $(git rev-parse --abbrev-ref HEAD)
@@ -37,9 +36,9 @@ jobs:
       - name: MT check out main repository code (with submodules)
         uses: actions/checkout@v6
         with:
-          submodules: true # required to set right token
+          # submodules: true # required to set right token
           token: ${{ secrets.MT_PAT }}
-          fetch-depth: 0 # fetch all (not required util release build)
+          # fetch-depth: 0 # fetch all (not required util release build)
 
       - name: MT setup
         uses: ./.github/actions/setup
