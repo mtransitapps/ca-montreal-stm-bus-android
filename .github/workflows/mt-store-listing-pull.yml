@@ -38,6 +38,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           token: ${{ secrets.MT_PAT }}
+          submodules: true # required to set right token # on pull_request trigger only?
 
       - name: MT setup
         uses: ./.github/actions/setup
