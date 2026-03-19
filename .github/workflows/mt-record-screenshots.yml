@@ -129,6 +129,8 @@ jobs:
           TIMEZONE_XML_FILE="app-android/src/main/res/values/gtfs_rts_values_gen.xml"
           echo "TIMEZONE_XML_FILE: $TIMEZONE_XML_FILE."
           if [ -f "$TIMEZONE_XML_FILE" ]; then
+            # "xmllint" "libxml2-utils"
+            command -v "$xmllint" >/dev/null 2>&1 || (sudo apt-get update && sudo apt-get install -y "$libxml2-utils")
             xmllint --xpath "string(//resources/string[@name='gtfs_rts_timezone']/text())" "$TIMEZONE_XML_FILE";
             TIMEZONE=$(xmllint --xpath "string(//resources/string[@name='gtfs_rts_timezone']/text())" "$TIMEZONE_XML_FILE" 2>/dev/null || echo "")
             echo "TIMEZONE: $TIMEZONE."
