@@ -123,7 +123,7 @@ jobs:
           echo "MODULE_APK_FILE=$APK_FILE" >> $GITHUB_OUTPUT
           echo "Module app APK assembled successfully at: $APK_FILE"
 
-      - name: MT read timezone from XML resource value (optional)
+      - name: MT read timezone from XML resource value
         id: timezone
         run: |
           TIMEZONE_XML_FILE="app-android/src/main/res/values/gtfs_rts_values_gen.xml"
