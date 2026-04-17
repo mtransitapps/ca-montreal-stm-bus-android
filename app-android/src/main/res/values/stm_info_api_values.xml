@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <bool name="stm_info_api_status_provider">false</bool><!-- using GTFS-RT trip updates instead -->
-    <bool name="stm_info_api_service_update_provider">true</bool>
+    <bool name="stm_info_api_service_update_provider">true</bool><!-- GTFS-RT service alerts N/A -->
     <string-array name="stm_info_api_url_header_names">
         <item>apiKey</item>
     </string-array>
