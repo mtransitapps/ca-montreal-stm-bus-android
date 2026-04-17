@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!--
+    https://www.stm.info/fr/presse/rss
+    https://www.stm.info/en/press/rss
+    -->
     <string-array name="rss_feeds">
         <item>https://www.stm.info/presse/rss/nouv</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/presse/rss/com</item>
-        <!-- <item>https://www.stm.info/fr/presse/rss/all</item> -->
+        <!-- <item>https://www.stm.info/presse/rss/all</item> -->
         <item>https://www.stm.info/press/rss/nouv</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/press/rss/com</item>
-        <!-- <item>https://www.stm.info/en/press/rss/all</item> -->
+        <!-- <item>https://www.stm.info/press/rss/all</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.stm.info/favicon.png</item>
