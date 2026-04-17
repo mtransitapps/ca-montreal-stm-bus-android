@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">2</integer>
-    <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
-    <string name="rss_color">@string/gtfs_rts_color</string>
-    <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
-    <string name="rss_encoding">utf-8</string>
+    <!--
+    https://www.stm.info/fr/presse/rss
+    https://www.stm.info/en/press/rss
+    -->
     <string-array name="rss_feeds">
-        <item>https://www.stm.info/presse/rss/nouv</item>
+        <item>https://www.stm.info/presse/rss/nouv</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/presse/rss/com</item>
-        <!-- <item>https://www.stm.info/fr/presse/rss/all</item> -->
-        <item>https://www.stm.info/press/rss/nouv</item>
+        <!-- <item>https://www.stm.info/presse/rss/all</item> -->
+        <item>https://www.stm.info/press/rss/nouv</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/press/rss/com</item>
-        <!-- <item>https://www.stm.info/en/press/rss/all</item> -->
+        <!-- <item>https://www.stm.info/press/rss/all</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.stm.info/favicon.png</item>
@@ -30,10 +29,10 @@
         <!-- <item>@string/gtfs_rts_short_name</item> -->
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.stm.info/fr/presse/nouvelles</item>
+        <item>https://www.stm.info/fr/presse/nouvelles</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/fr/presse/communiques</item>
         <!-- <item>https://www.stm.info/fr/presse</item> -->
-        <item>https://www.stm.info/en/press/news</item>
+        <item>https://www.stm.info/en/press/news</item><!-- == x.com/stm_nouvelles -->
         <item>https://www.stm.info/en/press/press-releases</item>
         <!-- <item>https://www.stm.info/en/press</item> -->
     </string-array>
@@ -53,14 +52,6 @@
         <item>en</item>
         <!-- <item>en</item> -->
     </string-array>
-    <string-array name="rss_feeds_colors">
-        <item>@string/rss_color</item>
-        <item>@string/rss_color</item>
-        <!-- <item>@string/rss_color</item> -->
-        <item>@string/rss_color</item>
-        <item>@string/rss_color</item>
-        <!-- <item>@string/rss_color</item> -->
-    </string-array>
     <string-array name="rss_feeds_target">
         <item>@string/rss_target_for_poi_authority</item>
         <item>@string/rss_target_for_poi_authority</item>
@@ -69,36 +60,13 @@
         <item>@string/rss_target_for_poi_authority</item>
         <!-- <item>@string/rss_target_for_poi_authority</item> -->
     </string-array>
-    <integer-array name="rss_feeds_severity">
-        <item>@integer/news_provider_severity_info_agency</item>
-        <item>@integer/news_provider_severity_info_agency</item>
-        <!-- <item>@integer/news_provider_severity_info_agency</item> -->
-        <item>@integer/news_provider_severity_info_agency</item>
-        <item>@integer/news_provider_severity_info_agency</item>
-        <!-- <item>@integer/news_provider_severity_info_agency</item> -->
-    </integer-array>
     <string-array name="rss_feeds_noteworthy">
-        <item>@string/news_provider_noteworthy_long_term</item>
-        <item>@string/news_provider_noteworthy_long_term</item>
-        <!-- <item>@string/news_provider_noteworthy_long_term</item> -->
-        <item>@string/news_provider_noteworthy_long_term</item>
-        <item>@string/news_provider_noteworthy_long_term</item>
-        <!-- <item>@string/news_provider_noteworthy_long_term</item> -->
-    </string-array>
-    <string-array name="rss_feeds_ignore_guid">
-        <item>false</item>
-        <item>false</item>
-        <!-- <item>false</item> -->
-        <item>false</item>
-        <item>false</item>
-        <!-- <item>false</item> -->
-    </string-array>
-    <string-array name="rss_feeds_ignore_link">
-        <item>false</item>
-        <item>false</item>
-        <!-- <item>false</item> -->
-        <item>false</item>
-        <item>false</item>
-        <!-- <item>false</item> -->
+        <!-- Twitter/X enabled: very_long_term instead of long term-->
+        <item>@string/news_provider_noteworthy_very_long_term</item><!-- == x.com/stm_nouvelles -->
+        <item>@string/news_provider_noteworthy_very_long_term</item>
+        <!-- <item>@string/news_provider_noteworthy_very_long_term</item> -->
+        <item>@string/news_provider_noteworthy_very_long_term</item><!-- == x.com/stm_nouvelles -->
+        <item>@string/news_provider_noteworthy_very_long_term</item>
+        <!-- <item>@string/news_provider_noteworthy_very_long_term</item> -->
     </string-array>
 </resources>
