@@ -12,32 +12,32 @@ on:
   workflow_dispatch: # manual
     inputs:
       skip-download-data:
-        description: 'Skip trying to download new data (use data archive)'
+        description: 'Download new data > SKIP trying (use data archive)'
         type: boolean
         default: false
         required: false
       skip-app-release:
-        description: 'Skip app release (event if data change or latest release old)'
+        description: 'App release > SKIP (event if data change or latest release old)'
         type: boolean
         default: false
         required: false
       force-app-release:
-        description: 'Force app release (even if no data change and latest release recent)'
+        description: 'App release > FORCE (even if no data change and latest release recent)'
         type: boolean
         default: false
         required: false
       skipStoreAll:
-        description: 'Skip all store releases'
+        description: 'Store release > SKIP all'
         type: boolean
         default: false
         required: false
       skipStoreProduction:
-        description: 'Skip production store release'
+        description: 'Store release > SKIP production'
         type: boolean
         default: false
         required: false
       reset-current-schedule:
-        description: 'Reset current schedule before parsing (delete all schedule files)'
+        description: 'Data > reset current schedule before parsing (delete all schedule files)'
         type: boolean
         default: false
         required: false
@@ -108,12 +108,12 @@ jobs:
 
       - name: MT setup
         id: mt-setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.1.2
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.2.1
         with:
           code-sync: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
 
       - name: MT commit image change (if added/updated)
-        if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
+        if: ${{ env.MT_IS_MAIN_REPO != 'true' }}
         run: |
           git add -v -A -- ':(glob)**/*.png'
           if git diff --staged --quiet; then
@@ -165,7 +165,7 @@ jobs:
       - name: MT check if image generation required
         id: mt-check-image-gen-required
         continue-on-error: true
-        if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
+        if: ${{ env.MT_IS_MAIN_REPO != 'true' }}
         run: |
           RESULT=$(git status --porcelain -- "app-android/src/main/res/values/gtfs_rts_values_gen.xml" | wc -l)
           if [ "$RESULT" -gt 0 ]; then
@@ -205,14 +205,16 @@ jobs:
       # ----------
 
       - name: MT generate images if required
-        if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && steps.mt-check-image-gen-required.outcome == 'success' }}
+        id: mt-image-gen
+        if: ${{ env.MT_IS_MAIN_REPO != 'true' && steps.mt-check-image-gen-required.outcome == 'success' }}
+        continue-on-error: true # nice to have
         run: |
           ./commons/code_setup.sh;
         env:
           MT_GENERATE_IMAGES: true
 
       - name: MT commit image change (if added/updated)
-        if: ${{ env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' }}
+        if: ${{ steps.mt-image-gen.outcome == 'success' && env.MT_IS_MAIN_REPO != 'true' }}
         run: |
           git add -v -A -- ':(glob)**/*.png'
           if git diff --staged --quiet; then
@@ -243,7 +245,7 @@ jobs:
         run: ./push_commits.sh
 
       - name: MT trigger release if required
-        if: ${{ github.event_name != 'pull_request' && github.event.inputs.skip-app-release != 'true' }}
+        if: ${{ github.event_name != 'pull_request' && github.event.inputs.skip-app-release != 'true' && github.ref_name == env.MT_DEFAULT_BRANCH_NAME }}
         run: |
           MT_TEMP_DIR=".mt";
           mkdir -p $MT_TEMP_DIR;
