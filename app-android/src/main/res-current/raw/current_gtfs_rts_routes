@@ -1,5 +1,5 @@
 10,'10','Lorimier','0060AA',1567,3
-11,'11','Parc-Du-Mont-Royal / Ridgewood','0060AA',1568,3
+11,'11','Parc-Du-Mont-Royal','0060AA',1568,3
 12,'12','Île-Des-Soeurs','0060AA',1569,3
 13,'13','Christophe-Colomb','0060AA',1570,3
 14,'14','Atateken','0060AA',1571,3
@@ -7,6 +7,7 @@
 17,'17','Décarie','0060AA',1574,3
 18,'18','Beaubien','781B7D',1575,3
 19,'19','Chabanel / Marché Central','0060AA',1576,3
+20,'20','Crémazie / Marché Central','0060AA',1598,3
 22,'22','Notre-Dame','0060AA',1600,3
 24,'24','Sherbrooke','781B7D',1602,3
 25,'25','Angus','0060AA',1603,3
@@ -46,12 +47,13 @@
 66,'66','The Boulevard','0060AA',1728,3
 67,'67','St-Michel','781B7D',1729,3
 68,'68','Pierrefonds','0060AA',1730,3
-69,'69','Gouin','781B7D',1731,3
-70,'70','Bois-Franc','0060AA',1753,3
+69,'69','Henri-Bourassa','781B7D',1731,3
+70,'70','Poirier','0060AA',1753,3
 71,'71','Pointe-St-Charles','0060AA',1754,3
 72,'72','Alfred-Nobel','0060AA',1755,3
 73,'73','Dalton','0060AA',1756,3
 74,'74','Bridge','0060AA',1757,3
+79,'79','Gouin','0060AA',1762,3
 80,'80','Parc','781B7D',1784,3
 81,'81','St-Jean-Baptiste','0060AA',1785,3
 85,'85','Hochelaga','0060AA',1789,3
@@ -84,6 +86,7 @@
 124,'124','Victoria','0060AA',48691,3
 125,'125','Ontario','0060AA',48692,3
 126,'126','Thimens / Grenet','0060AA',48693,3
+127,'127','Alexis-Nihon','0060AA',48694,3
 128,'128','St-Laurent','0060AA',48695,3
 129,'129','Côte-Ste-Catherine','0060AA',48696,3
 131,'131','Assomption','0060AA',48719,3
@@ -96,7 +99,7 @@
 144,'144','Pins','0060AA',48753,3
 146,'146','Christophe-Colomb / Meilleur','0060AA',48755,3
 150,'150','René-Lévesque','0060AA',48780,3
-160,'160','Barclay','0060AA',48811,3
+160,'160','Barclay','781B7D',48811,3
 161,'161','Van Horne','781B7D',48812,3
 162,'162','Westminster','0060AA',48813,3
 164,'164','Dudemaine','0060AA',48815,3
@@ -104,12 +107,12 @@
 166,'166','Queen-Mary','0060AA',48817,3
 168,'168','Cité-Du-Havre','0060AA',48819,3
 170,'170','Keller','0060AA',48842,3
-171,'171','Henri-Bourassa','781B7D',48843,3
+171,'171','Henri-Bourassa','0060AA',48843,3
 172,'172','Golf','0060AA',48844,3
 174,'174','Côte-Vertu','0060AA',48846,3
-175,'175','Griffith / St-François','0060AA',48847,3
+175,'175','Griffith','0060AA',48847,3
 176,'176','Berlioz','0060AA',48848,3
-177,'177','Thimens','0060AA',48849,3
+177,'177','Thimens','781B7D',48849,3
 179,'179','Acadie','0060AA',48851,3
 180,'180','Salaberry','0060AA',48873,3
 183,'183','Gouin Est','0060AA',48876,3
@@ -126,7 +129,7 @@
 197,'197','Rosemont','781B7D',48911,3
 198,'198','Broadway','0060AA',48912,3
 200,'200','Ste-Anne-De-Bellevue','0060AA',49586,3
-201,'201','St-Charles / St-Jean','0060AA',49587,3
+201,'201','St-Charles','0060AA',49587,3
 202,'202','Dawson','0060AA',49588,3
 203,'203','Carson','0060AA',49589,3
 204,'204','Cardinal','0060AA',49590,3
@@ -135,16 +138,21 @@
 207,'207','Jacques-Bizard','0060AA',49593,3
 208,'208','Brunswick','0060AA',49594,3
 209,'209','Sources / YUL Aéroport','0060AA',49595,3
-211,'211','Bord-Du-Lac','0060AA',49618,3
+210,'210','John-Abbott','0060AA',49617,3
+211,'211','Bord-Du-Lac','781B7D',49618,3
 212,'212','Ste-Anne','0060AA',49619,3
 213,'213','Parc-Industriel-St-Laurent','0060AA',49620,3
-215,'215','Henri-Bourassa','0060AA',49622,3
+214,'214','Stuart-Graham / YUL Aéroport','0060AA',49621,3
+215,'215','Henri-Bourassa / Brunswick','0060AA',49622,3
 216,'216','Transcanadienne','0060AA',49623,3
 217,'217','Anse-À-L''Orme','0060AA',49624,3
 218,'218','Antoine-Faucon','0060AA',49625,3
 219,'219','Chemin Ste-Marie','0060AA',49626,3
 220,'220','Kieran','0060AA',49648,3
+221,'221','St-Jean','0060AA',49649,3
+222,'222','Senneville','0060AA',49650,3
 225,'225','Hymus','0060AA',49653,3
+230,'230','St-Louis','0060AA',49679,3
 350,'350','Verdun / LaSalle','000000',50702,3
 353,'353','Lacordaire / Maurice-Duplessis','000000',50705,3
 354,'354','Ste-Anne-De-Bellevue / Centre-Ville','000000',50706,3
