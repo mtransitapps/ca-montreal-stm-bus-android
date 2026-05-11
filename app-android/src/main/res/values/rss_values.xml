@@ -62,10 +62,10 @@
     </string-array>
     <string-array name="rss_feeds_noteworthy">
         <!-- Twitter/X enabled: very_long_term instead of long term-->
-        <item>@string/news_provider_noteworthy_very_long_term</item><!-- == x.com/stm_nouvelles -->
+        <item>@string/news_provider_noteworthy_long_term</item><!-- == x.com/stm_nouvelles -->
         <item>@string/news_provider_noteworthy_very_long_term</item>
         <!-- <item>@string/news_provider_noteworthy_very_long_term</item> -->
-        <item>@string/news_provider_noteworthy_very_long_term</item><!-- == x.com/stm_nouvelles -->
+        <item>@string/news_provider_noteworthy_long_term</item><!-- == x.com/stm_nouvelles -->
         <item>@string/news_provider_noteworthy_very_long_term</item>
         <!-- <item>@string/news_provider_noteworthy_very_long_term</item> -->
     </string-array>
