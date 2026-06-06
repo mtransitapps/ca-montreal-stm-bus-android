@@ -1,0 +1,166 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "(\\(nuit\\))",
+            "ignore_case": true
+        },
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        }
+    ],
+    "route_colors": [
+        {
+            "route_short_name_regex": "^3\\d{2}$",
+            "color": "000000",
+            "color_comment": "Night routes are black"
+        },
+        {
+            "route_short_name_regex": "^4\\d{2}$",
+            "color": "007339",
+            "color_comment": "Express routes are black"
+        },
+        {
+            "original_route_color": "009EE0",
+            "color": "0060AA",
+            "color_comment": "Regular routes are darker blue than agency blue"
+        },
+        {
+            "original_route_color": "",
+            "color": "0060AA",
+            "color_comment": "Regular routes are darker blue than agency blue"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_finder_enabled_comment": "required to convert to Direction type & use cleanDirectionHeadsign() below",
+    "direction_types": [
+        1,
+        0
+    ],
+    "direction_types_comment": "Direction cardinal + strings",
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^\\d+-)",
+            "ignore_case": true,
+            "replacement_comment": "keep E/W/N/S"
+        },
+        {
+            "regex": "((\\w+) (destination )?(.+))",
+            "ignore_case": true,
+            "replacement": "$2",
+            "replacement_comment": "keep direction E/W/N/S"
+        }
+    ],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+-[A-Z])",
+            "replacement_comment": "E/W/N/W used for direction, not trip head-sign"
+        },
+        {
+            "regex": "((\\w+) (destination )?(.+))",
+            "ignore_case": true,
+            "replacement": "$4",
+            "replacement_comment": "keep distinct trip head-sign"
+        },
+        {
+            "regex": "universit[é|e][-| ]de[-| ]montr[é|e]al",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UdeM"
+        },
+        {
+            "regex": "universit[e|é][-| ]de[-| ]sherbrooke",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UdeS"
+        },
+        {
+            "regex": "\\s*\\-\\s*zone\\s+([a-z]+)",
+            "ignore_case": true
+        }
+    ],
+    "use_stop_code_for_stop_id": true,
+    "stop_name_cleaners": [
+        {
+            "regex": "^([^(]+)\\s?\\(([^/]*)\\s?/\\s?([^)]*|.*)\\)?$",
+            "regex_comment": "P2 can be missing in original data",
+            "ignore_case": true,
+            "replacement": "$2/ $3 ($1)"
+        },
+        {
+            "regex": "^([^(]+)\\w?\\((station )([^)]*|.*)\\)?$",
+            "regex_comment": "P2 can be missing in original data",
+            "ignore_case": true,
+            "replacement": "$1(&#128647; $3)"
+        },
+        {
+            "regex": "(station )([^/]*)/(.*)",
+            "regex_comment": "Station NAME EXIT / STREET",
+            "ignore_case": true,
+            "replacement": "$3 (&#128647; $2)"
+        },
+        {
+            "regex": "^(station )(.*)$",
+            "ignore_case": true,
+            "replacement": "$1&#128647; $2"
+        },
+        {
+            "regex": "^([^(]+)\\w?\\((gare )([^)]*|.*)\\)?$",
+            "regex_comment": "P2 can be missing in original data",
+            "ignore_case": true,
+            "replacement": "$1(&#128646; $3)"
+        },
+        {
+            "regex": "^(gare )(.*)$",
+            "ignore_case": true,
+            "replacement": "$1&#128646; $2"
+        },
+        {
+            "regex": "^([^(]+)\\w?\\((a[ée]roport )([^)]*|.*)\\)?$",
+            "regex_comment": "P2 can be missing in original data",
+            "ignore_case": true,
+            "replacement": "$1(&#9992; $3)"
+        },
+        {
+            "regex": "^(a[ée]roport )(.*)$",
+            "ignore_case": true,
+            "replacement": "$1&#9992; $2"
+        },
+        {
+            "regex": "[eé]cole de technologie supérieure",
+            "ignore_case": true,
+            "replacement": "ETS"
+        },
+        {
+            "regex": "\\([eé]dicule\\s+([a-z]+)\\)",
+            "ignore_case": true,
+            "replacement": "($1)"
+        },
+        {
+            "regex": "universit[é|e][-| ]de[-| ]montr[é|e]al",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UdeM"
+        },
+        {
+            "regex": "universit[e|é][-| ]de[-| ]sherbrooke",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UdeS"
+        },
+        {
+            "regex": "\\s*\\-\\s*zone\\s+([a-z]+)",
+            "ignore_case": true,
+            "replacement": "(Z:$1)"
+        },
+        {
+            "regex": "aile\\s+([a-z]+)",
+            "ignore_case": true,
+            "replacement": "Aile:$1"
+        }
+    ]
+}

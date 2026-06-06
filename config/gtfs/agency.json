@@ -1,0 +1,16 @@
+{
+    "target_route_type_id": 3,
+    "additional_languages": [
+        "en"
+    ],
+    "default_color": "009EE0",
+    "default_color_comment": "STM bleue",
+    "default_strings_cleaner_enabled": true,
+    "ignore_upper_case_words": [
+        "UQAM",
+        "OACI",
+        "IX"
+    ],
+    "service_id_cleanup_regex": "(^\\d{2}[A-Z]-)",
+    "service_id_cleanup_regex_comment": "starts with YY + 1 Letter + dash // 26J-Globaux-01-I"
+}
