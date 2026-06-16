@@ -179,7 +179,6 @@
 432,'432','Lacordaire','007339',51603,3
 439,'439','Pie-IX','781B7D',51610,3
 440,'440','Charleroi','007339',51632,3
-444,'444','Cégep Marie-Victorin','007339',51636,3
 445,'445','Papineau','007339',51637,3
 448,'448','Maurice-Duplessis','007339',51640,3
 449,'449','Rivière-Des-Prairies','007339',51641,3
@@ -197,9 +196,11 @@
 711,'711','Parc-Du-Mont-Royal / Oratoire','0060AA',54423,3
 747,'747','YUL Aéroport / Centre-Ville','0060AA',54522,3
 767,'767','La Ronde / Station Jean-Drapeau','0060AA',54584,3
+768,'768','Plage Jean-Doré / Ston Jean-Drapeau','0060AA',54585,3
 769,'769','La Ronde / Station Papineau','0060AA',54586,3
 777,'777','Jean-Drapeau / Casino / Bonaventure','0060AA',54615,3
 811,'811','Navette Services Santé','0060AA',55384,3
 814,'814','Jean-Talon Est / Bélanger','0060AA',55387,3
+815,'815','REM Des Sources / YUL Aéroport','0060AA',55388,3
 822,'822','Navette Longue-Pointe','0060AA',55416,3
 872,'872','Île-Des-Soeurs','0060AA',55571,3
