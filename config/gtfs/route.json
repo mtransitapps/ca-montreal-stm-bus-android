@@ -48,7 +48,7 @@
         "223": "20260908",
         "822": "20260908"
     },
-    "direction_headsign_ignore_provided_direction_comment": "Some route directions are wrong (73, 119, 223)",
+    "direction_headsign_ignore_provided_direction_comment": "Some route directions are wrong (73, 119, 223, 822)",
     "direction_types_comment": "Direction cardinal + strings",
     "direction_headsign_cleaners": [
         {
