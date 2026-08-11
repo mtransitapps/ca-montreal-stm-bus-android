@@ -5,7 +5,7 @@
 
 ## Download on the Play Store
 
-<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_montreal_stm_bus"><img width="25%" height="25%" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_montreal_stm_bus"><img width="25%" height="25%" alt="Get it on the Play Store" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
 
 ## Screenshots
 
