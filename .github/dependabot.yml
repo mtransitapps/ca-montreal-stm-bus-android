@@ -4,7 +4,7 @@ updates:
   - package-ecosystem: "github-actions"
     # "/" == "/.github/workflows/"
     directory: "/"
-    exclude-paths:
+    exclude-paths: # managed in https://github.com/mtransitapps/commons/tree/master/shared-overwrite
       - ".github/workflows/mt-check-data-outdated.yml"
       - ".github/workflows/mt-download-data.yml"
       - ".github/workflows/mt-gh-repo-update-details.yml"
