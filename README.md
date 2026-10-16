@@ -15,6 +15,17 @@
 <img width="25%" height="25%" alt="App screenshot #3" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
 </p>
 
+<details>
+  <summary>(en français)</summary>
+
+  <p float="left">
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/1.png"/>
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/2.png"/>
+  <img width="25%" height="25%" alt="French app screenshot" src="app-android/src/main/play/listings/fr-FR/graphics/phone-screenshots/3.png"/>
+
+  </p>
+</details>
+
 ## Social
 
 [Facebook](https://www.facebook.com/MonTransit) | [Twitter/X](https://x.com/montransit) | [Instagram](https://www.instagram.com/mtransit.apps) | [Threads](https://www.threads.com/@mtransit.apps)
