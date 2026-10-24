@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!-- DISABLED: new website does NOT have RSS and slow and similar to Twitter/X -->
     <!--
     https://www.stm.info/fr/presse/rss
     https://www.stm.info/en/press/rss
